@@ -4,7 +4,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://gmail.com)](mailto:tthiep_student@selab.hcmus.edu.vn)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/nqbinh)](https://www.linkedin.com/in/pake/)
-<img align='right' height = 170 src="https://github-readme-stats.vercel.app/api?username=TanHiep-To&bg_color=30,2c5364,203A43&title_color=fff&text_color=FFDA33&&hide_border=true">
 
 ## 👨🏽‍💻 Talking about Personal Stuffs:
 - 📚 My interests are with Machine Learning, Deep Learning, Computer vision and Software Engineering
@@ -19,25 +18,23 @@ I am diligently pursuing my passion for becoming a proficient software engineer,
 
 Quote: I walk slowly, but I never walk backwards.
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
-<a href="https://metrics.lecoq.io/ouuan?template=classic"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=TanHiep-To&bg_color=30,2c5364,203A43&title_color=fff&text_color=FFDA33&&hide_border=true"></a>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1643515721/17468/homersimpson-pbjdance.gif?1643515721" width="30" /> CERTIFICATES
-<img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" />
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5P6Z8KT4KNDC/CERTIFICATE_LANDING_PAGE~5P6Z8KT4KNDC.jpeg" width="100" />
-<img src="TanHiep-To/image/Tan Hiep - To - Intro to Programming.png" width="100" />
-<img src="TanHiep-To/image/Tan Hiep - To - Machine Learning Explainability (1).png" width="100" />
-<img src="TanHiep-To/image/Tan Hiep - To - Machine Learning Explainability.png" width="100" />
+## ![Certificate Icon](https://emojis.slackmojis.com/emojis/images/1643515721/17468/homersimpson-pbjdance.gif?1643515721) CERTIFICATES
+
+<p align="center">
+  <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="Certificate 1" width="200" />
+  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5P6Z8KT4KNDC/CERTIFICATE_LANDING_PAGE~5P6Z8KT4KNDC.jpeg" alt="Certificate 2" width="310" />
+  <img src="./image/Tan Hiep - To - Intro to Programming.png" alt="Certificate 3" width="270" />
+  <img src="./image/Tan Hiep - To - Machine Learning Explainability.png" alt="Certificate 4" width="270" />
+  <img src="./image/Tan Hiep - To - Intro to Machine Learning.png" alt="Certificate 5" width="270" />
+</p>
 
 
 ## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> CONTRIBUTIONS
-<a href="https://metrics.lecoq.io/ouuan?template=classic"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenini1805&show_icons=true&theme=synthwave&layout=compact"></a>
 
+<div style="text-align: center;">
+  <a href="https://metrics.lecoq.io/ouuan?template=classic">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=TanHiep-To&bg_color=30,2c5364,203A43&title_color=fff&text_color=FFDA33&&hide_border=true">
+  </a>
+</div>
 
-## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
-💬 Ask me anything: <a href="https://chillwithsu.com/">chillwithsu.com</a>
-## Quote of the day:
-<em>&quot;If you aim at nothing, you will hit it every time.  &quot;</em> <br>
-— Zig Ziglar
-
-⚡ Fun fact: <em><strong>No pain, no gain</strong></em>
