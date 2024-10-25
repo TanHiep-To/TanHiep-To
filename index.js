@@ -14,49 +14,45 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
   const { quote, author } = await getQuotes(hour);
 
   const text = `### ${greetings}
-  <h2>I'm Michael, a Backend Engineer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+  ### Good evening ☕
 
-  ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
-  [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kenini1805&show_icons=true&theme=synthwave">](https://metrics.lecoq.io/ouuan?template=classic)
-  
-  - Understands \`OOP\` well
-  - \`HTML\`, \`CSS\`, \`Bootstrap\`: proficient
-  - Strong skills in \`JQuery\`, \`MySQL\`, \`PHP\`
-  - Excellent with the \`Laravel\` framework for web design
-  - Proficient with \`Git\`
-  - Learning the \`Agile\` mindset
-  - Knowledge of \`Vue.js\` and \`Vuex\`
-  - Skill in \`Unit Testing\`
-  - Experience in manual and \`automated deployment\`
-  - Familiar with \`AWS\`
-  
-  ## <img src="https://emojis.slackmojis.com/emojis/images/1643515721/17468/homersimpson-pbjdance.gif?1643515721" width="30" /> CERTIFICATES
-  <img src="https://images.viblo.asia/1f5d99d1-8cb7-4d82-a627-d6934d20d94b.png" width="100" />
-  
-  ## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> CONTRIBUTIONS
-  [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenini1805&show_icons=true&theme=synthwave&layout=compact">](https://metrics.lecoq.io/ouuan?template=classic)
-  
-  #### 06/2020
-  **Contributor at Laravel**: 
-  - https://github.com/laravel/framework/pull/33278
-  - https://github.com/laravel/framework/pull/49669
+<h2> Hello there, I'm Tan Hiep <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
 
-  #### 2019
-  **Contributor at Chat++**: 
-  - https://github.com/wataridori/chatpp/graphs/contributors
-  
-  #### Present
-  Owner of packages \`Laravel monitoring\` and \`Nginx monitoring\`
-  - https://github.com/AvengersCodeLovers/laravel-log-monitoring
-  - https://github.com/AvengersCodeLovers/nginx-log-monitoring
-  
-  ## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
-  💬 Ask me anything: [chillwithsu.com](https://chillwithsu.com/)
-  ## Quote of the day:
-  *"${quote}"* <br>
-  — ${author}
-  
-  ⚡ Fun fact: ***No pain, no gain***
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://gmail.com)](mailto:tthiep_student@selab.hcmus.edu.vn)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/nqbinh)](https://www.linkedin.com/in/pake/)
+
+## 👨🏽‍💻 Talking about Personal Stuffs:
+- 📚 My interests are with Machine Learning, Deep Learning, Computer vision and Software Engineering
+- 💬 Ask me about anything, I am happy to help
+- 📫 Please email via tthiep_student@selab.hcmus.edu.vn to reach me
+
+## I. ABOUT ME
+
+I have studied at the University of Science and am a new Integration team member. Since I started my education, I have always been eager to learn and discover more in the field of Information Technology, particularly in Software Engineering. I have worked hard and achieved some significant accomplishments.
+
+I am diligently pursuing my passion for becoming a proficient software engineer, maintaining my constant desire to learn. Additionally, I am fascinated by fields like AI, Machine Learning, and Computer Vision. I engage in research topics related to Generative AI and Prompt Engineering.
+
+Quote: I walk slowly, but I never walk backwards.
+
+
+## ![Certificate Icon](https://emojis.slackmojis.com/emojis/images/1643515721/17468/homersimpson-pbjdance.gif?1643515721) CERTIFICATES
+
+<p align="center">
+  <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="Certificate 1" width="200" />
+  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5P6Z8KT4KNDC/CERTIFICATE_LANDING_PAGE~5P6Z8KT4KNDC.jpeg" alt="Certificate 2" width="310" />
+  <img src="./image/Tan Hiep - To - Intro to Programming.png" alt="Certificate 3" width="270" />
+  <img src="./image/Tan Hiep - To - Machine Learning Explainability.png" alt="Certificate 4" width="270" />
+  <img src="./image/Tan Hiep - To - Intro to Machine Learning.png" alt="Certificate 5" width="270" />
+</p>
+
+
+## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> CONTRIBUTIONS
+
+<div style="text-align: center;">
+  <a href="https://metrics.lecoq.io/ouuan?template=classic">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=TanHiep-To&bg_color=30,2c5364,203A43&title_color=fff&text_color=FFDA33&&hide_border=true">
+  </a>
+</div>
 `;
 
   const content = md.renderInline(text);
