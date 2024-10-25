@@ -1,5 +1,5 @@
 {
-  "name": "kenini1805",
+  "name":"TanHiep-To",
   "version": "1.0.0",
   "description": "Auto commit",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "build": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kenini1805",
+  "author": "TanHiep-To",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.7",
