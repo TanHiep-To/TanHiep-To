@@ -34,7 +34,7 @@ Quote: I walk slowly, but I never walk backwards.
 
 <div style="text-align: center;">
   <a href="https://metrics.lecoq.io/ouuan?template=classic">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=TanHiep-To&bg_color=30,2c5364,203A43&title_color=fff&text_color=FFDA33&&hide_border=true">
+    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=TanHiep-To&bg_color=30,2c5364,203A43&title_color=fff&text_color=FFDA33&&hide_border=true">
   </a>
 </div>
 
