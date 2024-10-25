@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TanHiep-To/TanHiep-To.git"
+    "url": "git+https://github.com/TanHiep-To/TanHiep-To-Old.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/TanHiep-To/TanHiep-To/issues"
+    "url": "https://github.com/TanHiep-To/TanHiep-To-Old/issues"
   },
-  "homepage": "https://github.com/TanHiep-To/TanHiep-To#readme"
+  "homepage": "https://github.com/TanHiep-To/TanHiep-To-Old#readme"
 }
