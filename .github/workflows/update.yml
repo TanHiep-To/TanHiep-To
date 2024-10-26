@@ -24,7 +24,7 @@ jobs:
       run: |-
         git add .
         git diff
-        git config --global user.email "tanhiep2012003@gmail.com"
-        git config --global user.name "TanHiep-To"
+        git config --global user.email "huusu1996@gmail.com"
+        git config --global user.name "Kenini1805"
         git commit -m "docs: update greeting and quote" -a || echo "No changes to commit"
         git push
