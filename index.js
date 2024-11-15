@@ -14,7 +14,6 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
   const { quote, author } = await getQuotes(hour);
 
   const text = `### ${greetings}
-  ### Good evening ☕
 
 <h2> Hello there, I'm Tan Hiep <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
 
