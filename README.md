@@ -15,13 +15,13 @@
     <a href="mailto:tanhiep2012003@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com/in/nqbinh/"> 
+    <a href="https://www.linkedin.com/in/nqbinh/" target="_blank"> 
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_AI_Resumse.pdf">
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_AI_Resumse.pdf" target="_blank">
       <img src="https://img.shields.io/badge/View_CV_AI-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white" alt="View AI CV">
     </a>
-    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_SE_Resumse.pdf">
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_SE_Resumse.pdf" target="_blank">
       <img src="https://img.shields.io/badge/View_CV_SE-007EC6?style=for-the-badge&logo=googledrive&logoColor=white" alt="View SE CV">
     </a>
   </p>
