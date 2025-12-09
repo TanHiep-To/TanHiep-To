@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <i>"I would rather be hated for who I am than loved for who I'm not.  " — <b>Wayne Dyer</b></i>
+    <i>"There is no greatness where there is not simplicity, goodness, and truth." — <b>Leo Tolstoy</b></i>
   </p>
 
   <p align="center">
@@ -139,4 +139,4 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
 <br>
-<p align="center"><i>⏳ Last updated: 12/10/2025, 8:24:41 AM (GMT+7)</i></p>
+<p align="center"><i>⏳ Last updated: 12/10/2025, 11:16:33 AM (GMT+7)</i></p>
