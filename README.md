@@ -124,9 +124,8 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <a href="https://github.com/TanHiep-To">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanHiep-To&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Stats" />
   </a>
-  
   <a href="https://github.com/TanHiep-To">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanHiep-To&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanHiep-To&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Languages"/>
   </a>
 </div>
 
