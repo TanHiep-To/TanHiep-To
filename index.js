@@ -99,13 +99,7 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
 
 ---
 
-### 🔬 Featured Publications & Projects
-
-#### 📄 Publications
-1. **Streamlining Virtual KOL Generation (GenKOL)** - *Accepted at **ACM MultiMedia '25***
-   - Proposed a scalable generative AI system merging identity with varied styles while preserving semantics.
-2. **Budget-aware Road Semantic Segmentation** - *Published at **RIVF '23***
-   - Proposed efficient methods to improve autonomous driving in foggy conditions.
+### 🔬 Projects
 
 #### 💻 Open Source & Engineering Projects
 | Project | Tech Stack | Description |
