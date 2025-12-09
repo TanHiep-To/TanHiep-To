@@ -2,27 +2,20 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
   <h1 align="center">Hi, I'm Tan Hiep To</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" /></a>
 
   <p align="center">
     <i>"I walk slowly, but I never walk backwards."</i>
   </p>
 
   <p align="center">
-    <a href="mailto:tanhiep2012003@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/nqbinh/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_AI_Resumse.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/View_CV_AI-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white" alt="View AI CV">
-    </a>
-    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_SE_Resumse.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/View_CV_SE-007EC6?style=for-the-badge&logo=googledrive&logoColor=white" alt="View SE CV">
-    </a>
+    <a href="mailto:tanhiep2012003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nqbinh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_AI_Resumse.pdf" target="_blank"><img src="https://img.shields.io/badge/View_CV_AI-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white" alt="View AI CV"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_SE_Resumse.pdf" target="_blank"><img src="https://img.shields.io/badge/View_CV_SE-007EC6?style=for-the-badge&logo=googledrive&logoColor=white" alt="View SE CV"></a>
   </p>
 </div>
 
@@ -81,13 +74,7 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
 
 ---
 
-### 🔬 Featured Publications & Projects
-
-#### 📄 Publications
-1. **Streamlining Virtual KOL Generation (GenKOL)** - *Accepted at **ACM MultiMedia '25***
-   - Proposed a scalable generative AI system merging identity with varied styles while preserving semantics.
-2. **Budget-aware Road Semantic Segmentation** - *Published at **RIVF '23***
-   - Proposed efficient methods to improve autonomous driving in foggy conditions.
+### 🔬 Projects
 
 #### 💻 Open Source & Engineering Projects
 | Project | Tech Stack | Description |
@@ -121,15 +108,12 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/TanHiep-To">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanHiep-To&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Stats" />
-  </a>
-  <a href="https://github.com/TanHiep-To">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanHiep-To&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Languages"/>
-  </a>
+  <a href="https://github.com/TanHiep-To"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanHiep-To&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Stats" /></a>
+  <a href="https://github.com/TanHiep-To"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanHiep-To&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Languages"/></a>
 </div>
 
-<br>
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
