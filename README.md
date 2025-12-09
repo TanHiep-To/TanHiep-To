@@ -18,11 +18,11 @@
     <a href="https://www.linkedin.com/in/nqbinh/"> 
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/TanHiep-To/TanHiep-To/raw/main/data/Hiep_To_AI_Resumse.pdf">
-      <img src="https://img.shields.io/badge/CV_AI_Researcher-Download-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download AI CV">
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_AI_Resumse.pdf">
+      <img src="https://img.shields.io/badge/View_CV_AI-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white" alt="View AI CV">
     </a>
-    <a href="https://github.com/TanHiep-To/TanHiep-To/raw/main/data/Hiep_To_SE_Resumse.pdf">
-      <img src="https://img.shields.io/badge/CV_Software_Engineer-Download-007EC6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download SE CV">
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_SE_Resumse.pdf">
+      <img src="https://img.shields.io/badge/View_CV_SE-007EC6?style=for-the-badge&logo=googledrive&logoColor=white" alt="View SE CV">
     </a>
   </p>
 </div>
