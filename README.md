@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <i>"Don't spend major time on minor things." — <b>Jim Rohn</b></i>
+    <i>"Life is either a daring adventure, or it is nothing." — <b>Helen Keller</b></i>
   </p>
 
   <p align="center">
@@ -139,4 +139,4 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
 <br>
-<p align="center"><i>⏳ Last updated: 12/10/2025, 8:31:10 PM (GMT+7)</i></p>
+<p align="center"><i>⏳ Last updated: 12/10/2025, 11:22:59 PM (GMT+7)</i></p>
