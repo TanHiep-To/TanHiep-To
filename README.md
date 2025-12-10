@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <i>"Weeds are flowers too, once you get to know them." — <b>A.A. Milne</b></i>
+    <i>"You don't have to control your thoughts; you just have to stop letting them control you." — <b>Dan Millman</b></i>
   </p>
 
   <p align="center">
@@ -139,4 +139,4 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
 <br>
-<p align="center"><i>⏳ Last updated: 12/11/2025, 8:28:28 AM (GMT+7)</i></p>
+<p align="center"><i>⏳ Last updated: 12/11/2025, 11:20:12 AM (GMT+7)</i></p>
