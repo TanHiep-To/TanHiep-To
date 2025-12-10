@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <i>"I am not the outcome. I am never the result. I am only the effort." — <b>Kamal Ravikant</b></i>
+    <i>"Confuse them with your silence and amaze them with your actions." — <b>Unknown</b></i>
   </p>
 
   <p align="center">
@@ -139,4 +139,4 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
 <br>
-<p align="center"><i>⏳ Last updated: 12/10/2025, 3:26:38 PM (GMT+7)</i></p>
+<p align="center"><i>⏳ Last updated: 12/10/2025, 5:54:27 PM (GMT+7)</i></p>
