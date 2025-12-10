@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1 align="center">Good evening ☕, I'm Tan Hiep To</h1>
+  <h1 align="center">Good night 😴, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <i>"Life without love is like a tree without blossoms or fruit." — <b>Kahlil Gibran</b></i>
+    <i>"Do not fight with pigs - you will be smeared in mud but the pig will like it." — <b>George Bernard Shaw</b></i>
   </p>
 
   <p align="center">
@@ -139,4 +139,4 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
 <br>
-<p align="center"><i>⏳ Last updated: 12/11/2025, 2:40:32 AM (GMT+7)</i></p>
+<p align="center"><i>⏳ Last updated: 12/11/2025, 5:23:20 AM (GMT+7)</i></p>
