@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1 align="center">Good evening ☕, I'm Tan Hiep To</h1>
+  <h1 align="center">Good night 😴, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <i>"The ability to observe without evaluating is the highest form of intelligence." — <b>Jiddu Krishnamurti</b></i>
+    <i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become." — <b>Paramahansa Yogananda</b></i>
   </p>
 
   <p align="center">
@@ -139,4 +139,4 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
 <br>
-<p align="center"><i>⏳ Last updated: 12/12/2025, 2:42:22 AM (GMT+7)</i></p>
+<p align="center"><i>⏳ Last updated: 12/12/2025, 5:22:48 AM (GMT+7)</i></p>
