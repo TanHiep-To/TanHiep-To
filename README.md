@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <i>"What you do today can improve all your tomorrows." — <b>Ralph Marston</b></i>
+    <i>"Turn off your mind, relax, and float downstream." — <b>John Lennon</b></i>
   </p>
 
   <p align="center">
@@ -139,4 +139,4 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
 <br>
-<p align="center"><i>⏳ Last updated: 12/11/2025, 3:27:33 PM (GMT+7)</i></p>
+<p align="center"><i>⏳ Last updated: 12/11/2025, 5:56:16 PM (GMT+7)</i></p>
