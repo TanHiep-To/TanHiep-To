@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become." — <b>Paramahansa Yogananda</b></i>
+    <i>"He who is not contented with what he has, would not be contented with what he would like to have." — <b>Socrates</b></i>
   </p>
 
   <p align="center">
@@ -139,4 +139,4 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
 <br>
-<p align="center"><i>⏳ Last updated: 12/12/2025, 5:22:48 AM (GMT+7)</i></p>
+<p align="center"><i>⏳ Last updated: 12/12/2025, 8:27:39 AM (GMT+7)</i></p>
