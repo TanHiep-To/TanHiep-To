@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <i>"All men who have achieved great things have been great dreamers. " — <b>Orison Swett Marden</b></i>
+    <i>"If you do not change direction, you may end up where you are heading." — <b>Lao Tzu</b></i>
   </p>
 
   <p align="center">
@@ -139,4 +139,4 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
 <br>
-<p align="center"><i>⏳ Last updated: 12/11/2025, 8:31:46 PM (GMT+7)</i></p>
+<p align="center"><i>⏳ Last updated: 12/11/2025, 11:24:22 PM (GMT+7)</i></p>
