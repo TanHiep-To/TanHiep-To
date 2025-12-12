@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <i>"The wise man reads both books and life itself." — <b>Lin Yutang</b></i>
+    <i>"As a man thinketh in his heart, so shall he be." — <b>James Allen</b></i>
   </p>
 
   <p align="center">
@@ -139,4 +139,4 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
 <br>
-<p align="center"><i>⏳ Last updated: 12/13/2025, 5:20:41 AM (GMT+7)</i></p>
+<p align="center"><i>⏳ Last updated: 12/13/2025, 8:29:59 AM (GMT+7)</i></p>
