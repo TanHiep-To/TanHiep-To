@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <i>"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!" — <b>Sathya Sai Baba</b></i>
+    <i>"You purchase pain with all that joy can give and die of nothing but a rage to live." — <b>Alexander Pope</b></i>
   </p>
 
   <p align="center">
@@ -139,4 +139,4 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
 <br>
-<p align="center"><i>⏳ Last updated: 12/12/2025, 3:27:05 PM (GMT+7)</i></p>
+<p align="center"><i>⏳ Last updated: 12/12/2025, 5:56:00 PM (GMT+7)</i></p>
