@@ -9,7 +9,6 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
   const greetings = generateGreetings(hour);
   const { quote, author } = await getQuotes();
 
-  // Template Profile Mới (Đã fix format Header và Footer)
   const text = `
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
@@ -27,7 +26,7 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
     <a href="mailto:tanhiep2012003@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    &nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/nqbinh/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -143,15 +142,8 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
 
 <br/>
 <div align="center">
-  -----------------------------------------------------
-</div>
-<br/>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
 </div>
-<br>
-<p align="center"><i>⏳ Last updated: ${today.toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' })} (GMT+7)</i></p>
 `;
 
   generateFile(text);
