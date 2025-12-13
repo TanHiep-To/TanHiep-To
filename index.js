@@ -9,7 +9,6 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
   const greetings = generateGreetings(hour);
   const { quote, author } = await getQuotes();
 
-  // Template Profile Mới (Đã viết liền mạch thẻ a và img để xóa lỗi gạch chân)
   const text = `
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
