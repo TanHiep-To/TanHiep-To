@@ -1,19 +1,24 @@
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h2 align="center">Good morning ☀️, I'm Tan Hiep To</h2>
+  <h1 align="center">Good morning ☀️, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" /></a>
 
   <p align="center">
-    <i>"You are not the drop in the ocean, but the ocean in the drop." — <b>Deepak Chopra</b></i>
+    <i>"Believe in your infinite potential. Your only limitations are those you set upon yourself." — <b>Roy T. Bennett</b></i>
   </p>
 
   <p align="center">
-    <a href="mailto:tanhiep2012003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nqbinh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:tanhiep2012003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/nqbinh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_AI_Resumse.pdf" target="_blank"><img src="https://img.shields.io/badge/View_CV_AI-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white" alt="View AI CV"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_SE_Resumse.pdf" target="_blank"><img src="https://img.shields.io/badge/View_CV_SE-007EC6?style=for-the-badge&logo=googledrive&logoColor=white" alt="View SE CV"></a>
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_AI_Resumse.pdf" target="_blank"><img src="https://img.shields.io/badge/View_CV_AI-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white" alt="View AI CV"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_SE_Resumse.pdf" target="_blank"><img src="https://img.shields.io/badge/View_CV_SE-007EC6?style=for-the-badge&logo=googledrive&logoColor=white" alt="View SE CV"></a>
   </p>
 </div>
 
