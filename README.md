@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" /></a>
 
   <p align="center">
-    <i>"You are today where your thoughts have brought you." — <b>James Allen</b></i>
+    <i>"Every day is an opportunity to a make a new happy ending." — <b>Jonathan Swift</b></i>
   </p>
 
   <p align="center">
