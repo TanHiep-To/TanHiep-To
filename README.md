@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" /></a>
 
   <p align="center">
-    <i>"We can spend our whole lives escaping from the monsters of our minds." — <b>Pema Chodron</b></i>
+    <i>"Start the day with love, spend the day with love, fill the day with love and end the day with love." — <b>Sathya Sai Baba</b></i>
   </p>
 
   <p align="center">
