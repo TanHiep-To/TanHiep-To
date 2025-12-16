@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" /></a>
 
   <p align="center">
-    <i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure." — <b>Brian Tracy</b></i>
+    <i>"Remember, hope is a good thing, maybe the best of things." — <b>Stephen King</b></i>
   </p>
 
   <p align="center">
