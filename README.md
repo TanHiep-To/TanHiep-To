@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" /></a>
 
   <p align="center">
-    <i>"Never let the things you can't do stop you from doing what you can." — <b>Ronald Reagan</b></i>
+    <i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know." — <b>Colin Powell</b></i>
   </p>
 
   <p align="center">
