@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" /></a>
 
   <p align="center">
-    <i>"Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!" — <b>Alfred Adler</b></i>
+    <i>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common." — <b>John Locke</b></i>
   </p>
 
   <p align="center">
