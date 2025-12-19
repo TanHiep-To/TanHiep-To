@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" /></a>
 
   <p align="center">
-    <i>"No matter how tall the mountain is, it cannot block the sun." — <b>Chinese Proverb</b></i>
+    <i>"To be able to forget means sanity." — <b>Jack London</b></i>
   </p>
 
   <p align="center">
