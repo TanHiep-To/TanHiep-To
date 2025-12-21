@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" alt="Typing SVG" /></a>
 
   <p align="center">
-    <i>"The glow of one warm thought is to me worth more than money." — <b>Thomas Jefferson</b></i>
+    <i>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it." — <b>Gurbaksh Chahal</b></i>
   </p>
 
   <p align="center">
