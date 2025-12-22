@@ -34,8 +34,16 @@ I possess a "hybrid" skillset, bridging the gap between academic research and sc
 
 ### 💼 Work Experience
 
-#### **Associate Machine Learning Engineer** @ [OPSWAT](https://www.opswat.com/)
+#### **Junior AI Engineer** @ [First AI](https://ai-hay.com/hub/en/)
 *(Jul 2025 - Present)*
+> *Focus: AI-native Search, Recommendation Systems, Large Language Models*
+- 🚀 **Recommendation Systems:** Developed and optimized personalized recommendation pipelines for AI-driven search and social products..
+- 📉 **LLM Fine-tuning:** Fine-tuned large language models on domain-specific data to improve ranking quality and recommendation explanations.
+- 🛡️ **RAG Pipelines:** Implemented retrieval-augmented generation (RAG) to enhance contextual relevance using external knowledge sources.
+- ⚡ **LLM Integration:** Integrated external LLM APIs to support semantic search and personalized content delivery.
+
+#### **Associate Machine Learning Engineer** @ [OPSWAT](https://www.opswat.com/)
+*(Jul 2025 - Jul 2025)*
 > *Focus: DeepCDR Team, Cybersecurity, Malware Detection*
 - 🚀 **Developed AI for File Type Detection:** Optimized accuracy from **85% to 92%** using deep learning classification models.
 - 📉 **Latency Optimization:** Optimized model inference for seamless integration into OPSWAT's production pipeline.
