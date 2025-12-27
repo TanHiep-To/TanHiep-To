@@ -1,5 +1,5 @@
 {
-  "name":"TanHiep-To",
+  "name": "TanHiep-To",
   "version": "1.0.0",
   "description": "Auto commit",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "TanHiep-To",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.7.7",
+    "axios": "^1.13.2",
     "markdown-it": "^14.1.0"
   },
   "repository": {
