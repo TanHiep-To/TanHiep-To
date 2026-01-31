@@ -1,0 +1,43 @@
+name: Periodic Contribution
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true 
+          fetch-depth: 1
+
+      - name: Update Activity Log
+        run: |
+          FILE_NAME="log.txt"
+          touch $FILE_NAME
+          if [ -f "$FILE_NAME" ] && [ $(wc -l < "$FILE_NAME") -gt 1000 ]; then
+            echo "$(date) - Log reset by Automated Workflow" > $FILE_NAME
+          else
+            echo "$(date) - Automated contribution" >> $FILE_NAME
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "tanhiep2012003@gmail.com"
+          git config --local user.name "${{ github.actor }}"
+          git add log.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          else
+            git commit -m "chore: periodic automated update [skip ci]"
+            git push
+          fi
