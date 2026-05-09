@@ -24,6 +24,16 @@ body {
   line-height: 1.6;
 }
 
+.page-hero {
+  padding: 32px 6vw 48px;
+  background: radial-gradient(circle at top, #1a2a4a 0%, #0b111f 65%);
+}
+
+.page-intro {
+  margin-top: 32px;
+  max-width: 720px;
+}
+
 a {
   color: inherit;
   text-decoration: none;
@@ -100,6 +110,27 @@ a {
   flex-wrap: wrap;
   gap: 12px;
   margin: 24px 0 16px;
+}
+
+.hero-social {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  font-weight: 600;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+
+.hero-social a {
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface-soft);
+}
+
+.hero-social a:hover {
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 .button {
@@ -179,6 +210,29 @@ a {
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 }
 
+.stat-grid {
+  margin-top: 24px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 16px;
+}
+
+.stat-card {
+  padding: 16px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.stat-card h3 {
+  font-size: 1.3rem;
+}
+
+.stat-card p {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .highlight-card {
   background: var(--surface);
   padding: 24px;
@@ -192,6 +246,22 @@ a {
   display: grid;
   gap: 10px;
   color: var(--muted);
+}
+
+.skill-cloud {
+  margin-top: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.skill-cloud span {
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(96, 165, 250, 0.12);
+  color: var(--accent);
+  border: 1px solid var(--border);
+  font-size: 0.85rem;
 }
 
 .timeline {
@@ -289,6 +359,22 @@ a {
   display: flex;
 }
 
+.research-grid {
+  margin-top: 28px;
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.research-card {
+  background: var(--surface);
+  padding: 22px;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  display: grid;
+  gap: 12px;
+}
+
 .blog-grid {
   margin-top: 32px;
   display: grid;
@@ -355,6 +441,31 @@ a {
 
 .footer a {
   color: var(--text);
+}
+
+.info-grid {
+  margin-top: 32px;
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.info-card {
+  padding: 20px;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  display: grid;
+  gap: 10px;
+}
+
+.info-card a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.muted {
+  color: var(--muted);
 }
 
 @media (max-width: 720px) {
