@@ -47,5 +47,17 @@
       <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
       <description>Practical takeaways from building RAG systems and recommender pipelines.</description>
     </item>
+    <item>
+      <title>Keeping a sustainable coding habit</title>
+      <link>https://tanhiep-to.github.io/TanHiep-To/posts/coding-habits.html</link>
+      <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
+      <description>A realistic routine for consistent coding without burnout.</description>
+    </item>
+    <item>
+      <title>A learning routine that sticks</title>
+      <link>https://tanhiep-to.github.io/TanHiep-To/posts/learning-routine.html</link>
+      <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
+      <description>Study, practice, reflect, and ship—without burnout.</description>
+    </item>
   </channel>
 </rss>
