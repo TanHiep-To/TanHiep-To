@@ -35,5 +35,17 @@
       <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
       <description>A workflow for shipping reliable AI systems.</description>
     </item>
+    <item>
+      <title>My learning journey in AI</title>
+      <link>https://tanhiep-to.github.io/TanHiep-To/posts/learning-journey.html</link>
+      <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
+      <description>From foundational CS coursework to GenAI research.</description>
+    </item>
+    <item>
+      <title>Lessons learned from shipping AI projects</title>
+      <link>https://tanhiep-to.github.io/TanHiep-To/posts/project-lessons.html</link>
+      <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
+      <description>Practical takeaways from building RAG systems and recommender pipelines.</description>
+    </item>
   </channel>
 </rss>
