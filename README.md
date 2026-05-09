@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees." — <b>Rumi</b></i>
+    <i>"The less you talk about your shame, the more of it you have." — <b>Mark Manson</b></i>
   </p>
 
   <p>
