@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any." — <b>Thomas Jefferson</b></i>
+    <i>"Not all readers are leaders, but all leaders are readers." — <b>Harry S. Truman</b></i>
   </p>
 
   <p>
