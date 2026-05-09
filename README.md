@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." — <b>Colin Powell</b></i>
+    <i>"A minute's success pays the failure of years." — <b>Robert Browning</b></i>
   </p>
 
   <p>
