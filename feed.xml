@@ -59,5 +59,11 @@
       <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
       <description>Study, practice, reflect, and ship—without burnout.</description>
     </item>
+    <item>
+      <title>Notes from building an AI search recommender</title>
+      <link>https://tanhiep-to.github.io/TanHiep-To/posts/first-ai-recsys-notes.html</link>
+      <pubDate>Sat, 10 May 2026 00:00:00 +0700</pubDate>
+      <description>Practical lessons from shipping recommendation systems at First AI.</description>
+    </item>
   </channel>
 </rss>
