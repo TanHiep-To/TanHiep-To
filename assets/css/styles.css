@@ -168,7 +168,7 @@ a {
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 10px;
   margin: 24px 0 16px;
 }
 
@@ -207,11 +207,11 @@ a {
 }
 
 .button {
-  padding: 12px 24px;
+  padding: 10px 20px;
   border-radius: 12px;
   border: 1px solid transparent;
   font-weight: 700;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   display: inline-flex;
   align-items: center;
@@ -220,6 +220,7 @@ a {
   text-decoration: none;
   position: relative;
   overflow: hidden;
+  white-space: nowrap;
 }
 
 .button.primary {

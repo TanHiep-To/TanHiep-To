@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Adventure is worthwhile in itself." — <b>Amelia Earhart</b></i>
+    <i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees." — <b>Rumi</b></i>
   </p>
 
   <p>
