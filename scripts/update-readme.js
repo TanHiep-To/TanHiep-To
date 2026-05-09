@@ -33,11 +33,11 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
   </p>
 
   <p>
-    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_AI_Resume.pdf">
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/assets/documents/Hiep_To_AI_Resume.pdf">
       <img src="https://img.shields.io/badge/View_CV_AI-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_SE_Resume.pdf">
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/assets/documents/Hiep_To_SE_Resume.pdf">
       <img src="https://img.shields.io/badge/View_CV_SE-007EC6?style=for-the-badge&logo=googledrive&logoColor=white">
     </a>
   </p>
@@ -136,13 +136,13 @@ I possess a hybrid skillset bridging **AI research** and **scalable software eng
 
 ## 📜 Certificates
 
-- [Machine Learning Specialization (Coursera)](./data/Cer/CERTIFICATE_LANDING_PAGE~5P6Z8KT4KNDC-1.pdf)  
-- [Udemy AI Associate](./data/Cer/Udemy_AI_Associate.pdf)  
-- [FPT AI Compass](./data/Cer/FPT-AI-Compass.pdf)  
-- [Machine Learning Explainability](./data/Cer/ML-Explainability.pdf)  
-- [Kaggle AI Ethics](./data/Cer/Kaggle-AI-Ethics.pdf)  
-- [Kaggle Computer Vision](./data/Cer/Kaggle-ComputerVision.pdf)  
-- [Generative AI Completion](./data/Cer/genai-completion3.pdf)  
+- [Machine Learning Specialization (Coursera)](./assets/documents/Cer/CERTIFICATE_LANDING_PAGE~5P6Z8KT4KNDC-1.pdf)  
+- [Udemy AI Associate](./assets/documents/Cer/Udemy_AI_Associate.pdf)  
+- [FPT AI Compass](./assets/documents/Cer/FPT-AI-Compass.pdf)  
+- [Machine Learning Explainability](./assets/documents/Cer/ML-Explainability.pdf)  
+- [Kaggle AI Ethics](./assets/documents/Cer/Kaggle-AI-Ethics.pdf)  
+- [Kaggle Computer Vision](./assets/documents/Cer/Kaggle-ComputerVision.pdf)  
+- [Generative AI Completion](./assets/documents/Cer/genai-completion3.pdf)  
 
 ---
 

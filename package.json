@@ -2,9 +2,9 @@
   "name": "tanhiep-to",
   "version": "1.0.0",
   "description": "Auto commit",
-  "main": "index.js",
+  "main": "scripts/update-readme.js",
   "scripts": {
-    "build": "node index.js",
+    "build": "node scripts/update-readme.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "TanHiep-To",
