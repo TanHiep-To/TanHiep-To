@@ -48,7 +48,7 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
 ## 👨‍💻 About Me
 
 I am a **Master's Student in Computer Science** at the University of Science (VNU-HCM), specializing in **Artificial Intelligence** and **Machine Learning**.  
-I graduated with Honors (**GPA 3.76/4.0**) and completed an outstanding thesis on **Generative AI**.
+I graduated with Honors (**GPA 3.92/4.0**) and completed an outstanding thesis on **Generative AI**.
 
 I possess a hybrid skillset bridging **AI research** and **scalable software engineering**, with a strong interest in **LLMs, recommendation systems, and AI-native products**.
 
@@ -99,7 +99,7 @@ I possess a hybrid skillset bridging **AI research** and **scalable software eng
 | Institution | Degree | Achievement | Year |
 | :--- | :--- | :--- | :--- |
 | University of Science – VNUHCM | **M.Sc. Computer Science** | In Progress | 2025 – Present |
-| University of Science – VNUHCM | **B.S. Computer Science** | GPA 3.76/4.0 (Honors) | 2021 – 2025 |
+| University of Science – VNUHCM | **B.S. Computer Science** | GPA 3.92/4.0 (Honors) | 2021 – 2025 |
 
 ---
 
