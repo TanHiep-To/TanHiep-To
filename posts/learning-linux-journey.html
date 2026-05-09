@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Linux Journey: From UI to the Command Line · Tan Hiep To</title>
+  <meta name="description" content="My journey of learning Linux, mastering the terminal, and understanding system administration." />
+  <link rel="canonical" href="https://tanhiep-to.github.io/TanHiep-To/posts/learning-linux-journey.html" />
+  <meta property="og:title" content="The Linux Journey: From UI to the Command Line" />
+  <meta property="og:description" content="Embracing the terminal and building a deep understanding of Linux systems." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://tanhiep-to.github.io/TanHiep-To/posts/learning-linux-journey.html" />
+  <meta property="og:image" content="https://tanhiep-to.github.io/TanHiep-To/assets/images/image_bg_jp.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="The Linux Journey: From UI to the Command Line" />
+  <meta name="twitter:description" content="Embracing the terminal and building a deep understanding of Linux systems." />
+  <meta name="twitter:image" content="https://tanhiep-to.github.io/TanHiep-To/assets/images/image_bg_jp.jpg" />
+  <link rel="stylesheet" href="../assets/css/styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="page-hero" id="top">
+    <nav class="nav">
+      <div class="brand">Tan Hiep To</div>
+      <div class="nav-links">
+        <a href="../index.html">Home</a>
+        <a href="../about.html">About</a>
+        <a href="../projects.html">Projects</a>
+        <a href="../research.html">Research</a>
+        <a href="../blog.html">Blog</a>
+        <a href="../contact.html">Contact</a>
+      </div>
+  <a class="cta" href="mailto:hieptt.forwork@gmail.com">Let’s talk</a>
+    </nav>
+    <div class="page-intro">
+      <p class="eyebrow">System Engineering</p>
+      <h1>The Linux Journey: From UI to the Command Line</h1>
+      <p class="subtitle">Embracing the terminal and building a deep understanding of Linux systems.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="section article">
+      <div class="article-header">
+        <div class="article-meta">
+          <span>May 2026</span>
+          <span>Tags: Linux · Systems · Terminal</span>
+          <span>Reading time: 5 min</span>
+        </div>
+      </div>
+      <div class="article-content">
+        <img src="../assets/images/image_bg_jp.jpg" alt="Article Highlight Image" />
+        <p>
+          For many developers, Linux starts as a terrifying black box—a blinking cursor on a dark screen that responds to mysterious commands. My journey was no different. I initially relied heavily on graphical user interfaces (GUIs), only touching the terminal when absolutely necessary. However, as my projects scaled into production environments, I realized that mastering Linux was not just an option; it was a mandatory survival skill for any serious backend or AI engineer.
+        </p>
+        <h2>The Turning Point: Ditching the Mouse</h2>
+        <p>
+          The real shift happened when I forced myself to use a minimal Linux distribution as my daily driver. I made a pact to accomplish everyday tasks using only the command line. Searching for files became a lesson in using <code>find</code> and <code>grep</code>. Monitoring system resources pushed me to understand <code>top</code>, <code>htop</code>, and eventually <code>perf</code> and <code>strace</code>. What initially took ten minutes of Googling commands eventually became muscle memory. I learned that the terminal is not a barrier; it is a highly expressive language for communicating directly with the operating system.
+        </p>
+        <h2>Shell Scripting: Automating the Mundane</h2>
+        <p>
+          As I grew comfortable, I began chaining commands together using pipes (<code>|</code>). The realization that the output of one program could seamlessly become the input of another was a "eureka" moment. This led me deep into Bash scripting. I started automating tedious workflows: setting up Python environments, downloading and cleaning datasets, and orchestrating deployment pipelines. Writing robust shell scripts taught me about exit codes, process management, and the crucial difference between standard output (stdout) and standard error (stderr).
+        </p>
+        <h2>Understanding the Kernel and Processes</h2>
+        <p>
+          Mastering the command line naturally progressed into studying how the Linux kernel actually works. I spent weeks learning about the process tree, virtual memory, file descriptors, and networking namespaces. This theoretical knowledge became intensely practical when I started working with Docker and Kubernetes. Containers are essentially just isolated Linux processes utilizing cgroups and namespaces. Because I understood the underlying OS primitives, debugging containerized microservices became a logical process rather than a guessing game.
+        </p>
+        <h2>The Lifelong Payoff</h2>
+        <p>
+          Today, whether I am SSHing into a remote GPU cluster to train an LLM or debugging a memory leak in a backend service, Linux feels like home. The terminal is no longer a black box; it is the most powerful tool in my engineering arsenal. If you are a developer hesitant about the command line, my advice is simple: dive in. Break things, read the man pages, and embrace the power of the shell. It will make you an exponentially better engineer.
+        </p>
+        <div class="article-cta">
+          <a class="button ghost" href="../blog.html">Back to all posts</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© <span id="year"></span> Tan Hiep To · Built with GitHub Pages</p>
+    <a href="#top">Back to top</a>
+  </footer>
+
+  <script src="../assets/js/app.js"></script>
+</body>
+</html>

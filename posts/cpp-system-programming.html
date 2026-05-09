@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Diving Deep: The Path to Mastering C++ · Tan Hiep To</title>
+  <meta name="description" content="My experience learning C++, memory management, and high-performance systems programming." />
+  <link rel="canonical" href="https://tanhiep-to.github.io/TanHiep-To/posts/cpp-system-programming.html" />
+  <meta property="og:title" content="Diving Deep: The Path to Mastering C++" />
+  <meta property="og:description" content="Learning C++, memory management, and high-performance systems." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://tanhiep-to.github.io/TanHiep-To/posts/cpp-system-programming.html" />
+  <meta property="og:image" content="https://tanhiep-to.github.io/TanHiep-To/assets/images/image_bg_osa.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Diving Deep: The Path to Mastering C++" />
+  <meta name="twitter:description" content="Learning C++, memory management, and high-performance systems." />
+  <meta name="twitter:image" content="https://tanhiep-to.github.io/TanHiep-To/assets/images/image_bg_osa.jpg" />
+  <link rel="stylesheet" href="../assets/css/styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="page-hero" id="top">
+    <nav class="nav">
+      <div class="brand">Tan Hiep To</div>
+      <div class="nav-links">
+        <a href="../index.html">Home</a>
+        <a href="../about.html">About</a>
+        <a href="../projects.html">Projects</a>
+        <a href="../research.html">Research</a>
+        <a href="../blog.html">Blog</a>
+        <a href="../contact.html">Contact</a>
+      </div>
+  <a class="cta" href="mailto:hieptt.forwork@gmail.com">Let’s talk</a>
+    </nav>
+    <div class="page-intro">
+      <p class="eyebrow">Engineering</p>
+      <h1>Diving Deep: The Path to Mastering C++</h1>
+      <p class="subtitle">Navigating memory management and high-performance systems programming.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="section article">
+      <div class="article-header">
+        <div class="article-meta">
+          <span>May 2026</span>
+          <span>Tags: C++ · Systems · Performance</span>
+          <span>Reading time: 5 min</span>
+        </div>
+      </div>
+      <div class="article-content">
+        <img src="../assets/images/image_bg_osa.jpg" alt="Article Highlight Image" />
+        <p>
+          Coming from high-level, garbage-collected languages like Python and Java, jumping into C++ felt like stepping out of an automatic car and being handed the controls to a manual transmission fighter jet. There were no safety nets. If you allocated memory and forgot to free it, the system would silently bleed resources. If you accessed an array out of bounds, the program would spectacularly crash with a segmentation fault. But beneath this steep learning curve lies unparalleled power and performance.
+        </p>
+        <h2>The Battle with Pointers and Memory</h2>
+        <p>
+          The first major hurdle in C++ is undeniably memory management. Initially, concepts like raw pointers, the stack versus the heap, and dynamic memory allocation using <code>new</code> and <code>delete</code> were sources of constant bugs. However, fighting through memory leaks with tools like Valgrind taught me exactly how computers manage data at the hardware level. I transitioned from asking "How do I make this code work?" to "How many cache lines will this data structure span?" This shift in perspective is what separates average code from high-performance systems.
+        </p>
+        <h2>Modern C++: Smart Pointers and Move Semantics</h2>
+        <p>
+          The game changed entirely when I began exploring Modern C++ (C++11/14 and beyond). The introduction of smart pointers (<code>std::unique_ptr</code> and <code>std::shared_ptr</code>) revolutionized how I handled object lifecycles, bringing deterministic memory safety through RAII (Resource Acquisition Is Initialization). Understanding "move semantics" and rvalue references allowed me to write code that was not only expressive but also eliminated unnecessary deep copies, drastically speeding up data-heavy algorithms.
+        </p>
+        <h2>Templates and Metaprogramming</h2>
+        <p>
+          Once I conquered memory, I faced the beast of C++ templates. Template metaprogramming allows you to write code that writes code during compilation. While the syntax can be incredibly verbose and compiler error messages are famously cryptic, the ability to achieve zero-overhead abstractions is phenomenal. I used templates to build highly generic, reusable data structures that rivaled the standard library in performance, executing complex type checks before the program even ran.
+        </p>
+        <h2>Why C++ Still Matters in the AI Era</h2>
+        <p>
+          In an era dominated by Python for AI research, one might wonder why C++ is relevant. The truth is, while Python is the steering wheel, C++ is the engine. Every major deep learning framework, from PyTorch to TensorFlow, relies heavily on highly optimized C++ and CUDA backends to execute tensor operations. My journey with C++ has allowed me to break through the Python abstraction layer, write custom, high-speed custom operators for neural networks, and deploy AI models onto edge devices with strict latency budgets. C++ didn't just teach me a language; it taught me how computers truly work.
+        </p>
+        <div class="article-cta">
+          <a class="button ghost" href="../blog.html">Back to all posts</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© <span id="year"></span> Tan Hiep To · Built with GitHub Pages</p>
+    <a href="#top">Back to top</a>
+  </footer>
+
+  <script src="../assets/js/app.js"></script>
+</body>
+</html>

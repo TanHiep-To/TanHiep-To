@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A tiny change today brings a dramatically different tomorrow." — <b>Richard Bach</b></i>
+    <i>"You can do two things at once, but you can't focus effectively on two things at once." — <b>Gary Keller</b></i>
   </p>
 
   <p>
