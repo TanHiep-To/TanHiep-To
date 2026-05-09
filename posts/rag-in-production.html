@@ -50,28 +50,34 @@
           <span>Reading time: 5 min</span>
         </div>
       </div>
-      <div class="article-content">
+            <div class="article-content">
         <p>
-          Transitioning a Retrieval-Augmented Generation (RAG) system from a shiny demo to a reliable production service exposes a harsh reality: the generative model is only as intelligent as the evidence it is fed. If your retrieval pipeline returns garbage, your LLM will confidently synthesize garbage. Therefore, building production RAG requires shifting focus heavily toward retrieval optimization, robust evaluation, and strict grounding constraints.
+          Việc xây dựng một hệ thống RAG (Retrieval-Augmented Generation) từ bản demo trên Jupyter Notebook lên một service chạy ổn định trên Production là một trải nghiệm mở rộng tầm mắt. Trong demo, mọi thứ đều hoàn hảo vì bộ tài liệu nhỏ và câu hỏi đã được biết trước. Nhưng trên production, người dùng nhập vào đủ loại câu hỏi mơ hồ, sai chính tả, và mô hình LLM bắt đầu... bịa chuyện (hallucination).
         </p>
-        <h2>The Core Evaluation Checklist</h2>
-        <p>You cannot improve what you do not measure. A rigorous evaluation loop is non-negotiable:</p>
+        <h2>Sự thật phũ phàng: LLM chỉ tốt khi Retrieval tốt</h2>
+        <p>
+          Bài học lớn nhất của tôi là: "Garbage in, Garbage out". Nếu hệ thống Retrieval (tìm kiếm tài liệu) trả về những đoạn text không liên quan, LLM dù thông minh đến đâu cũng sẽ tổng hợp ra một câu trả lời sai lệch một cách rất tự tin. Do đó, thay vì tốn thời gian đổi prompt hay thay đổi mô hình LLM (từ GPT-3.5 sang GPT-4), tôi tập trung 90% công sức vào việc tối ưu hóa Retrieval.
+        </p>
+        <h2>Checklist tối ưu Retrieval trên Production</h2>
         <ul>
-          <li><strong>Task-Specific Retrieval Metrics:</strong> Discard generic benchmarks. Define relevance using precision@k, Mean Reciprocal Rank (MRR), and nDCG specifically tailored to your domain's queries and document corpus.</li>
-          <li><strong>Mandatory Reranking:</strong> Standard vector similarity search often surfaces tangentially related documents. Introducing a cross-encoder reranking step dramatically improves the quality of the top-k context window provided to the LLM, significantly reducing hallucination risk.</li>
-          <li><strong>Grounding and Citation Tracking:</strong> Implement strict prompt engineering and post-processing to force the model to cite its sources. Track the grounding rate metric: how often does the model's generated response exclusively rely on the provided context vs. its internal parametric memory?</li>
-          <li><strong>The "Red Team" Audit Set:</strong> Maintain a curated dataset of notoriously difficult or ambiguous queries that historically triggered hallucinations. Run this lightweight audit set automatically as a regression test before any prompt or model update.</li>
+          <li><strong>Đo lường trước khi cải tiến:</strong> Đừng dùng "cảm giác". Xây dựng một bộ dataset gồm 200 câu hỏi và câu trả lời chuẩn (Golden Dataset). Sử dụng các framework như RAGAS hoặc DeepEval để đo lường tự động độ chính xác của Retrieval (Precision@k, MRR) mỗi khi thay đổi cách chunking tài liệu.</li>
+          <li><strong>Áp dụng Re-ranking (Bắt buộc):</strong> Tìm kiếm Vector (Vector Search) chỉ tốt ở mặt ngữ nghĩa chung chung. Khi ghép thêm một bước Cross-Encoder Re-ranking để chấm điểm lại top 20 tài liệu tìm được, chất lượng context cung cấp cho LLM tăng lên đột biến, giảm thiểu hallucination cực kỳ hiệu quả.</li>
+          <li><strong>Cấu trúc hóa siêu dữ liệu (Metadata filtering):</strong> Lọc theo thời gian, theo phòng ban, theo loại tài liệu trước khi search vector sẽ loại bỏ được 50% những kết quả nhiễu.</li>
         </ul>
-        <h2>Operational and Monitoring Realities</h2>
+        <h2>Quản lý Hallucination và Grounding</h2>
         <p>
-          Treat your embedding models and chunking strategies as immutable, versioned APIs. Any changes to how documents are parsed or embedded must be deployed behind feature flags and thoroughly validated through offline replay evaluation before touching live traffic.
+          Trên production, việc LLM bịa chuyện là rủi ro kinh doanh. Tôi phải áp dụng các kỹ thuật "Grounding" khắt khe: yêu cầu LLM phải trích dẫn (cite) chính xác ID của đoạn văn bản mà nó lấy thông tin. Nếu trong câu trả lời không có trích dẫn, hệ thống sẽ tự động hạ điểm tin cậy (confidence score) và cảnh báo người dùng.
+        </p>
+        <h2>Bài học về Giám sát (Monitoring)</h2>
+        <p>
+          Khi hệ thống chạy thực tế, latency là kẻ thù. Việc gọi LLM API mất 3-4s, cộng thêm 1s cho Retrieval và Rerank khiến trải nghiệm người dùng rất tệ. Tôi phải áp dụng Streaming (trả về từng chữ), đồng thời implement tracing (như LangSmith hay Arize) để biết chính xác thời gian trễ nằm ở bước nào. 
         </p>
         <p>
-          In production, comprehensive monitoring is critical. We track retrieval hit-rates, document coverage (are certain documents never retrieved?), and citation overlap. Crucially, we instrument detailed tracing to measure latency independently across the retrieval, reranking, and generation phases, allowing us to pinpoint bottlenecks instantly.
+          Làm RAG trên production không phải là phép thuật AI, mà là một quy trình kỹ thuật phần mềm (Software Engineering) cực kỳ chặt chẽ, nơi đánh giá (Evaluation) và giám sát (Monitoring) quan trọng hơn cả việc chọn mô hình nào.
         </p>
         <div class="article-cta">
-          <a class="button ghost" href="../blog.html">Back to all posts</a>
-          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
+          <a class="button ghost" href="../blog.html">Trở về trang Blog</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Thảo luận cùng tôi</a>
         </div>
       </div>
     </section>

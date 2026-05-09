@@ -50,35 +50,32 @@
           <span>Reading time: 4 min</span>
         </div>
       </div>
-      <div class="article-content">
+            <div class="article-content">
         <p>
-          Transitioning from academic exercises to shipping production AI systems requires a profound shift in mindset. Every project—whether it's building a RAG architecture, deploying a recommender pipeline, or releasing a core ML product—has reinforced the same core philosophy: evaluate early, ship reliably, and always optimize for the end-user's experience over architectural purity.
+          Chuyển từ việc hoàn thành các bài tập trên trường đến việc triển khai các hệ thống AI thực tế cho hàng nghìn người dùng đòi hỏi một sự thay đổi hoàn toàn về tư duy. Xuyên suốt quá trình xây dựng các kiến trúc RAG, hệ thống Recommender System, cho đến các model phân tích rủi ro bảo mật (Cybersecurity), tôi đã phải trả giá bằng không ít những lần hệ thống crash, model dự đoán sai hoặc độ trễ quá cao. Dưới đây là những bài học đắt giá nhất mà tôi luôn mang theo.
         </p>
-        <h2>What Consistently Worked</h2>
-        <p>Across various deployments, these practices have proven to be non-negotiable:</p>
-        <ul>
-          <li><strong>Define Success Before Writing Code:</strong> Establish rigid success metrics (p99 latency limits, relevance scores, accuracy thresholds) before training any models. If you don't know what "good" looks like, you will never finish tuning.</li>
-          <li><strong>Reproducibility is King:</strong> Build reproducible data pipelines from day one. Track experiment lineage meticulously. If you can't exactly recreate the model you shipped last Tuesday, you have a major operational risk.</li>
-          <li><strong>Defensive Evaluation:</strong> Use lightweight, automated evaluation suites to catch regressions immediately. Your CI/CD pipeline must include model evaluation, not just unit tests for code.</li>
-          <li><strong>Cross-Functional Alignment:</strong> Collaborate with product managers and UX designers early. An accurate model with terrible latency or confusing UI will be perceived as a failure by the user.</li>
-        </ul>
-        <h2>The Reality of Collaboration</h2>
+        <h2>1. Xác định đúng bài toán trước khi viết code</h2>
         <p>
-          The most successful projects I’ve been part of shared one common trait: a unified, highly visible dashboard. By putting model metrics (precision, recall), system health (latency, error rates), and business metrics (user click-throughs, feedback scores) in one place, engineering and product teams instantly aligned on priorities. It removes the friction of arguing over whether to focus on model accuracy or system speed.
+          Lỗi kinh điển của các kỹ sư AI trẻ (bao gồm cả tôi trước đây) là nhảy ngay vào việc chọn model SOTA (State-of-the-Art) mới nhất. Thực tế là, nếu bạn không hiểu rõ mục tiêu kinh doanh (giảm tỷ lệ rời bỏ của user, tăng tỷ lệ click-through, hay giảm thiểu false positive trong bảo mật), model của bạn sẽ trở nên vô dụng. Trước khi train bất kỳ thứ gì, tôi luôn ngồi lại với Product Manager để thống nhất: "Thế nào là một kết quả tốt?", và "Độ trễ tối đa cho phép là bao nhiêu?".
         </p>
-        <h2>Evaluation Habits That Save Time</h2>
-        <ul>
-          <li><strong>The Golden Offline Set:</strong> Maintain a strictly versioned offline evaluation dataset with heavily scrutinized baselines. Never alter this set without team consensus.</li>
-          <li><strong>Canary Releases:</strong> Never route 100% of traffic to a new ranking model or LLM endpoint. Always use canary releases (e.g., 5% of traffic) to monitor for unexpected edge cases in the wild.</li>
-          <li><strong>Documenting Trade-offs:</strong> Machine learning is the art of trade-offs. Whenever making a decision that increases accuracy at the cost of latency or compute budget, document the specific reasoning in an Architecture Decision Record (ADR).</li>
-        </ul>
-        <h2>Looking Forward</h2>
+        <h2>2. Data Pipeline ổn định quan trọng hơn Model phức tạp</h2>
         <p>
-          My ongoing goal is to continue bridging the crucial gap between advanced ML research and robust production systems—turning theoretical academic ideas into practical, scalable AI products that deliver measurable value to users.
+          Một model đơn giản (như Logistic Regression hoặc XGBoost) được train trên một luồng dữ liệu sạch, tự động cập nhật và được versioning rõ ràng sẽ luôn chiến thắng một model Deep Learning phức tạp nhưng train trên file CSV lỗi thời. Sự lặp lại (Reproducibility) là chìa khóa. Nếu hôm nay bạn không thể reproduce lại chính xác file weights mà bạn đã deploy tuần trước, hệ thống của bạn đang gặp rủi ro vận hành nghiêm trọng.
+        </p>
+        <h2>3. Evaluation tự động là chiếc khiên bảo vệ bạn</h2>
+        <p>
+          Đừng bao giờ deploy một model mới chỉ vì nó có chỉ số F1-score cao hơn trên tập Test. Khi làm việc với AI Search, chúng tôi xây dựng một tập Offline Evaluation Set (Golden Set) được kiểm duyệt gắt gao. Mọi model mới đều phải chạy qua tập này trong luồng CI/CD. Ngoài ra, việc dùng Canary Release (chỉ mở cho 5% user) giúp phát hiện những edge-cases dị biệt ngoài đời thực mà tập test không bao giờ bao quát hết được.
+        </p>
+        <h2>4. Sự đánh đổi (Trade-offs) là nghệ thuật của kỹ sư</h2>
+        <p>
+          Trong AI, bạn không bao giờ có được tất cả. Tăng độ phức tạp của mô hình đồng nghĩa với tăng chi phí inference và độ trễ (latency). Ở mảng Cybersecurity, tôi học được rằng một mô hình có độ chính xác 95% nhưng chạy trong 10ms luôn được ưu tiên hơn mô hình 98% nhưng chạy mất 500ms. Luôn luôn viết lại các Architecture Decision Records (ADR) để document lại lý do vì sao team chọn hy sinh 1% accuracy để đổi lấy 400ms latency.
+        </p>
+        <p>
+          Tóm lại, mang AI ra production không chỉ là toán học và kiến trúc mạng nơ-ron. Nó là 80% Software Engineering, Data Engineering và khả năng thấu hiểu người dùng.
         </p>
         <div class="article-cta">
-          <a class="button ghost" href="../blog.html">Back to all posts</a>
-          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
+          <a class="button ghost" href="../blog.html">Trở về trang Blog</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Thảo luận cùng tôi</a>
         </div>
       </div>
     </section>

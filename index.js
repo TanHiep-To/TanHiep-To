@@ -1,14 +1,25 @@
+const axios = require("axios");
+const fs = require("fs");
 
+const TIMEZONE_OFFSET = 7; // Vietnam Time
+const QUOTES_API = "https://zenquotes.io/api/quotes";
+
+(async () => {
+  const { today, hour } = getCurrentTime();
+  const greetings = generateGreetings(hour);
+  const { quote, author } = await getQuotes();
+
+  const text = `
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good morning ☀️, I'm Tan Hiep To</h1>
+  <h1>${greetings}, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"Intense love does not measure, it just gives." — <b>Mother Teresa</b></i>
+    <i>"${quote}" — <b>${author}</b></i>
   </p>
 
   <p>
@@ -22,11 +33,11 @@
   </p>
 
   <p>
-    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/assets/documents/Hiep_To_AI_Resume.pdf">
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_AI_Resume.pdf">
       <img src="https://img.shields.io/badge/View_CV_AI-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/assets/documents/Hiep_To_SE_Resume.pdf">
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_SE_Resume.pdf">
       <img src="https://img.shields.io/badge/View_CV_SE-007EC6?style=for-the-badge&logo=googledrive&logoColor=white">
     </a>
   </p>
@@ -125,13 +136,13 @@ I possess a hybrid skillset bridging **AI research** and **scalable software eng
 
 ## 📜 Certificates
 
-- [Machine Learning Specialization (Coursera)](./assets/documents/Cer/CERTIFICATE_LANDING_PAGE~5P6Z8KT4KNDC-1.pdf)  
-- [Udemy AI Associate](./assets/documents/Cer/Udemy_AI_Associate.pdf)  
-- [FPT AI Compass](./assets/documents/Cer/FPT-AI-Compass.pdf)  
-- [Machine Learning Explainability](./assets/documents/Cer/ML-Explainability.pdf)  
-- [Kaggle AI Ethics](./assets/documents/Cer/Kaggle-AI-Ethics.pdf)  
-- [Kaggle Computer Vision](./assets/documents/Cer/Kaggle-ComputerVision.pdf)  
-- [Generative AI Completion](./assets/documents/Cer/genai-completion3.pdf)  
+- [Machine Learning Specialization (Coursera)](./data/Cer/CERTIFICATE_LANDING_PAGE~5P6Z8KT4KNDC-1.pdf)  
+- [Udemy AI Associate](./data/Cer/Udemy_AI_Associate.pdf)  
+- [FPT AI Compass](./data/Cer/FPT-AI-Compass.pdf)  
+- [Machine Learning Explainability](./data/Cer/ML-Explainability.pdf)  
+- [Kaggle AI Ethics](./data/Cer/Kaggle-AI-Ethics.pdf)  
+- [Kaggle Computer Vision](./data/Cer/Kaggle-ComputerVision.pdf)  
+- [Generative AI Completion](./data/Cer/genai-completion3.pdf)  
 
 ---
 
@@ -148,3 +159,45 @@ I possess a hybrid skillset bridging **AI research** and **scalable software eng
   <img src="https://komarev.com/ghpvc/?username=TanHiep-To&label=Profile%20Views&color=0e75b6&style=flat-square">
 </div>
 
+`;
+
+  generateFile(text);
+  console.log(`✅ Updated README at ${today}`);
+})();
+
+function getCurrentTime() {
+  const today = new Date();
+  today.setHours(today.getHours() + TIMEZONE_OFFSET);
+  const hour = today.getHours();
+  return { today, hour };
+}
+
+function generateGreetings(time) {
+  const hour = time % 24; 
+  if (hour >= 5 && hour < 12) return "Good morning ☀️";
+  if (hour >= 12 && hour < 18) return "Good afternoon 👋";
+  if (hour >= 18 && hour < 22) return "Good evening ☕";
+  return "Good night 😴";
+}
+
+async function getQuotes() {
+  try {
+    const response = await axios.get(QUOTES_API);
+    if (response.data && response.data.length > 0) {
+      return { quote: response.data[0].q, author: response.data[0].a };
+    }
+  } catch (error) {
+    console.error("Error fetching quote:", error.message);
+  }
+  return {
+    quote: "I walk slowly, but I never walk backwards.",
+    author: "Abraham Lincoln",
+  };
+}
+
+function generateFile(contents) {
+  fs.writeFile("README.md", contents, (err) => {
+    if (err) return console.log(`⛔ [FAILED]: ${err}`);
+    console.log("✅ [SUCCESS]: README.md has been generated.");
+  });
+}
