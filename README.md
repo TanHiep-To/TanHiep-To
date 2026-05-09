@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable." — <b>Elon Musk</b></i>
+    <i>"A tiny change today brings a dramatically different tomorrow." — <b>Richard Bach</b></i>
   </p>
 
   <p>
