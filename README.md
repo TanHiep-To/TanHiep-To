@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A minute's success pays the failure of years." — <b>Robert Browning</b></i>
+    <i>"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction." — <b>Criss Jami</b></i>
   </p>
 
   <p>
