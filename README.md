@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Live your life as an exclamation rather than an explanation." — <b>Isaac Newton</b></i>
+    <i>"Whatever your mind can conceive and believe, it can achieve." — <b>Napoleon Hill</b></i>
   </p>
 
   <p>
