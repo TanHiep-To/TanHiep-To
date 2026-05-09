@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LLM Fine-tuning Playbook · Tan Hiep To</title>
+  <meta name="description" content="LLM fine-tuning playbook for domain adaptation" />
+  <link rel="canonical" href="https://tanhiep-to.github.io/TanHiep-To/posts/llm-finetuning-playbook.html" />
+  <meta property="og:title" content="LLM Fine-tuning Playbook" />
+  <meta property="og:description" content="A pragmatic playbook for data scope, training runs, and evaluation." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://tanhiep-to.github.io/TanHiep-To/posts/llm-finetuning-playbook.html" />
+  <meta property="og:image" content="https://tanhiep-to.github.io/TanHiep-To/image/Tan%20Hiep%20-%20To%20-%20Intro%20to%20Machine%20Learning.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="LLM Fine-tuning Playbook" />
+  <meta name="twitter:description" content="A pragmatic playbook for data scope, training runs, and evaluation." />
+  <meta name="twitter:image" content="https://tanhiep-to.github.io/TanHiep-To/image/Tan%20Hiep%20-%20To%20-%20Intro%20to%20Machine%20Learning.png" />
+  <link rel="stylesheet" href="../assets/styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="page-hero" id="top">
+    <nav class="nav">
+      <div class="brand">Tan Hiep To</div>
+      <div class="nav-links">
+        <a href="../index.html">Home</a>
+        <a href="../about.html">About</a>
+        <a href="../projects.html">Projects</a>
+        <a href="../research.html">Research</a>
+        <a href="../blog.html">Blog</a>
+        <a href="../contact.html">Contact</a>
+      </div>
+      <a class="cta" href="mailto:tanhiep2012003@gmail.com">Let’s talk</a>
+    </nav>
+    <div class="page-intro">
+      <p class="eyebrow">Playbook</p>
+      <h1>LLM fine-tuning playbook for domain adaptation</h1>
+      <p class="subtitle">From data scope to evaluation loops—what to get right on each training run.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="section article">
+      <div class="article-header">
+        <div class="article-meta">
+          <span>Apr 2026</span>
+          <span>Tags: LLMs · Training</span>
+          <span>Reading time: 4 min</span>
+        </div>
+      </div>
+      <div class="article-content">
+        <p>
+          Fine-tuning succeeds when data quality and evaluation are aligned with the real-world use case.
+          This playbook highlights the steps I use to prevent drift and maximize adoption.
+        </p>
+        <h2>Key steps</h2>
+        <ul>
+          <li>Build a task taxonomy and define failure modes early.</li>
+          <li>Construct a clean, versioned training set with lineage.</li>
+          <li>Run lightweight evaluation at every checkpoint.</li>
+          <li>Track alignment metrics with human-in-the-loop reviews.</li>
+        </ul>
+        <h2>Operational advice</h2>
+        <p>
+          Treat fine-tuned models like product releases—include canary testing and rollback strategies.
+        </p>
+        <div class="article-cta">
+          <a class="button ghost" href="../blog.html">Back to all posts</a>
+          <a class="button primary" href="mailto:tanhiep2012003@gmail.com">Discuss this topic</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© <span id="year"></span> Tan Hiep To · Built with GitHub Pages</p>
+    <a href="#top">Back to top</a>
+  </footer>
+
+  <script src="../assets/app.js"></script>
+</body>
+</html>

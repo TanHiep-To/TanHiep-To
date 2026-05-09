@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanhiep-to.github.io/TanHiep-To/sitemap.xml

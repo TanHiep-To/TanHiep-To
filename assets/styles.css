@@ -34,6 +34,50 @@ body {
   max-width: 720px;
 }
 
+.article {
+  max-width: 880px;
+  margin: 0 auto;
+}
+
+.article-header {
+  display: grid;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.article-meta {
+  color: var(--muted);
+  font-size: 0.95rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.article-content {
+  display: grid;
+  gap: 18px;
+  color: var(--text);
+}
+
+.article-content h2 {
+  margin-top: 12px;
+  font-size: 1.4rem;
+}
+
+.article-content ul {
+  margin-left: 18px;
+  color: var(--muted);
+  display: grid;
+  gap: 8px;
+}
+
+.article-cta {
+  margin-top: 24px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
 a {
   color: inherit;
   text-decoration: none;

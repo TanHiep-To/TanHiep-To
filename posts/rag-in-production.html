@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RAG in Production · Tan Hiep To</title>
+  <meta name="description" content="RAG in Production: evaluation, grounding, and retrieval tuning" />
+  <link rel="canonical" href="https://tanhiep-to.github.io/TanHiep-To/posts/rag-in-production.html" />
+  <meta property="og:title" content="RAG in Production" />
+  <meta property="og:description" content="Evaluation, grounding, and retrieval tuning for reliable RAG pipelines." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://tanhiep-to.github.io/TanHiep-To/posts/rag-in-production.html" />
+  <meta property="og:image" content="https://tanhiep-to.github.io/TanHiep-To/image/Tan%20Hiep%20-%20To%20-%20Machine%20Learning%20Explainability.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="RAG in Production" />
+  <meta name="twitter:description" content="Evaluation, grounding, and retrieval tuning for reliable RAG pipelines." />
+  <meta name="twitter:image" content="https://tanhiep-to.github.io/TanHiep-To/image/Tan%20Hiep%20-%20To%20-%20Machine%20Learning%20Explainability.png" />
+  <link rel="stylesheet" href="../assets/styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="page-hero" id="top">
+    <nav class="nav">
+      <div class="brand">Tan Hiep To</div>
+      <div class="nav-links">
+        <a href="../index.html">Home</a>
+        <a href="../about.html">About</a>
+        <a href="../projects.html">Projects</a>
+        <a href="../research.html">Research</a>
+        <a href="../blog.html">Blog</a>
+        <a href="../contact.html">Contact</a>
+      </div>
+      <a class="cta" href="mailto:tanhiep2012003@gmail.com">Let’s talk</a>
+    </nav>
+    <div class="page-intro">
+      <p class="eyebrow">Research Notes</p>
+      <h1>RAG in Production: evaluation, grounding, and retrieval tuning</h1>
+      <p class="subtitle">A field-tested checklist for reliable retrieval-augmented generation systems.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="section article">
+      <div class="article-header">
+        <div class="article-meta">
+          <span>May 2026</span>
+          <span>Tags: RAG · Evaluation · Retrieval</span>
+          <span>Reading time: 5 min</span>
+        </div>
+      </div>
+      <div class="article-content">
+        <p>
+          Production RAG systems live or die by retrieval quality. The model is only as good as the
+          evidence you supply, so the evaluation loop must include retrieval, reranking, and grounding.
+        </p>
+        <h2>Core checklist</h2>
+        <ul>
+          <li>Define task-specific relevance metrics (precision@k, MRR) for retrievers.</li>
+          <li>Introduce a reranker to improve top-k evidence quality.</li>
+          <li>Track grounding rates: how often responses cite actual sources.</li>
+          <li>Monitor hallucination rate with a lightweight audit set.</li>
+        </ul>
+        <h2>Operational tips</h2>
+        <p>
+          Keep embedding and retrieval services versioned. Deploy retrieval changes behind feature flags
+          and run offline evaluation before any online experiment.
+        </p>
+        <div class="article-cta">
+          <a class="button ghost" href="../blog.html">Back to all posts</a>
+          <a class="button primary" href="mailto:tanhiep2012003@gmail.com">Discuss this topic</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© <span id="year"></span> Tan Hiep To · Built with GitHub Pages</p>
+    <a href="#top">Back to top</a>
+  </footer>
+
+  <script src="../assets/app.js"></script>
+</body>
+</html>

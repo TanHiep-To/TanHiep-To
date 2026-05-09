@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Tan Hiep To · Research Notes</title>
+    <link>https://tanhiep-to.github.io/TanHiep-To/blog.html</link>
+    <description>Research notes and engineering insights by Tan Hiep To.</description>
+    <language>en-us</language>
+    <item>
+      <title>RAG in Production: evaluation, grounding, and retrieval tuning</title>
+      <link>https://tanhiep-to.github.io/TanHiep-To/posts/rag-in-production.html</link>
+      <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
+      <description>A pragmatic checklist for building reliable RAG pipelines.</description>
+    </item>
+    <item>
+      <title>LLM fine-tuning playbook for domain adaptation</title>
+      <link>https://tanhiep-to.github.io/TanHiep-To/posts/llm-finetuning-playbook.html</link>
+      <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
+      <description>Key steps for data scope, training cycles, and evaluation.</description>
+    </item>
+    <item>
+      <title>Scaling recommender systems for AI-native search</title>
+      <link>https://tanhiep-to.github.io/TanHiep-To/posts/recsys-scaling.html</link>
+      <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
+      <description>Lessons from ranking, personalization, and evaluation loops.</description>
+    </item>
+    <item>
+      <title>Trustworthy AI for cybersecurity detection pipelines</title>
+      <link>https://tanhiep-to.github.io/TanHiep-To/posts/trustworthy-ai-cybersecurity.html</link>
+      <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
+      <description>Robustness, calibration, and explainability in security ML.</description>
+    </item>
+    <item>
+      <title>From research to production: my AI engineering workflow</title>
+      <link>https://tanhiep-to.github.io/TanHiep-To/posts/research-to-production.html</link>
+      <pubDate>Fri, 09 May 2026 00:00:00 +0700</pubDate>
+      <description>A workflow for shipping reliable AI systems.</description>
+    </item>
+  </channel>
+</rss>
