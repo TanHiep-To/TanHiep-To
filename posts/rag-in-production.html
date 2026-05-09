@@ -32,7 +32,7 @@
         <a href="../blog.html">Blog</a>
         <a href="../contact.html">Contact</a>
       </div>
-      <a class="cta" href="mailto:tanhiep2012003@gmail.com">Let’s talk</a>
+  <a class="cta" href="mailto:hieptt.forwork@gmail.com">Let’s talk</a>
     </nav>
     <div class="page-intro">
       <p class="eyebrow">Research Notes</p>
@@ -52,24 +52,26 @@
       </div>
       <div class="article-content">
         <p>
-          Production RAG systems live or die by retrieval quality. The model is only as good as the
-          evidence you supply, so the evaluation loop must include retrieval, reranking, and grounding.
+          Transitioning a Retrieval-Augmented Generation (RAG) system from a shiny demo to a reliable production service exposes a harsh reality: the generative model is only as intelligent as the evidence it is fed. If your retrieval pipeline returns garbage, your LLM will confidently synthesize garbage. Therefore, building production RAG requires shifting focus heavily toward retrieval optimization, robust evaluation, and strict grounding constraints.
         </p>
-        <h2>Core checklist</h2>
+        <h2>The Core Evaluation Checklist</h2>
+        <p>You cannot improve what you do not measure. A rigorous evaluation loop is non-negotiable:</p>
         <ul>
-          <li>Define task-specific relevance metrics (precision@k, MRR) for retrievers.</li>
-          <li>Introduce a reranker to improve top-k evidence quality.</li>
-          <li>Track grounding rates: how often responses cite actual sources.</li>
-          <li>Monitor hallucination rate with a lightweight audit set.</li>
+          <li><strong>Task-Specific Retrieval Metrics:</strong> Discard generic benchmarks. Define relevance using precision@k, Mean Reciprocal Rank (MRR), and nDCG specifically tailored to your domain's queries and document corpus.</li>
+          <li><strong>Mandatory Reranking:</strong> Standard vector similarity search often surfaces tangentially related documents. Introducing a cross-encoder reranking step dramatically improves the quality of the top-k context window provided to the LLM, significantly reducing hallucination risk.</li>
+          <li><strong>Grounding and Citation Tracking:</strong> Implement strict prompt engineering and post-processing to force the model to cite its sources. Track the grounding rate metric: how often does the model's generated response exclusively rely on the provided context vs. its internal parametric memory?</li>
+          <li><strong>The "Red Team" Audit Set:</strong> Maintain a curated dataset of notoriously difficult or ambiguous queries that historically triggered hallucinations. Run this lightweight audit set automatically as a regression test before any prompt or model update.</li>
         </ul>
-        <h2>Operational tips</h2>
+        <h2>Operational and Monitoring Realities</h2>
         <p>
-          Keep embedding and retrieval services versioned. Deploy retrieval changes behind feature flags
-          and run offline evaluation before any online experiment.
+          Treat your embedding models and chunking strategies as immutable, versioned APIs. Any changes to how documents are parsed or embedded must be deployed behind feature flags and thoroughly validated through offline replay evaluation before touching live traffic.
+        </p>
+        <p>
+          In production, comprehensive monitoring is critical. We track retrieval hit-rates, document coverage (are certain documents never retrieved?), and citation overlap. Crucially, we instrument detailed tracing to measure latency independently across the retrieval, reranking, and generation phases, allowing us to pinpoint bottlenecks instantly.
         </p>
         <div class="article-cta">
           <a class="button ghost" href="../blog.html">Back to all posts</a>
-          <a class="button primary" href="mailto:tanhiep2012003@gmail.com">Discuss this topic</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
         </div>
       </div>
     </section>

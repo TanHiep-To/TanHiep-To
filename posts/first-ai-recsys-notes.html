@@ -32,7 +32,7 @@
         <a href="../blog.html">Blog</a>
         <a href="../contact.html">Contact</a>
       </div>
-      <a class="cta" href="mailto:tanhiep2012003@gmail.com">Let’s talk</a>
+  <a class="cta" href="mailto:hieptt.forwork@gmail.com">Let’s talk</a>
     </nav>
     <div class="page-intro">
       <p class="eyebrow">Experience</p>
@@ -52,30 +52,39 @@
       </div>
       <div class="article-content">
         <p>
-          While working as a Junior AI Engineer at First AI, I helped build recommendation and ranking
-          pipelines for AI search. The work was less about fancy models and more about reliable feedback
-          loops, fast iteration, and measurable impact.
+          While working as a Junior AI Engineer at First AI, I played a key role in building recommendation and ranking pipelines for our core AI search features. The biggest revelation was that production systems are less about deploying fancy, state-of-the-art models and more about establishing reliable feedback loops, enabling fast iterations, and driving measurable business impact.
         </p>
-        <h2>What I learned quickly</h2>
+        <h2>What I Learned Quickly in Production</h2>
+        <p>Transitioning from academic datasets to noisy production logs forced a shift in perspective:</p>
         <ul>
-          <li>Start with clear evaluation metrics (precision@k, recall@k, diversity).</li>
-          <li>Personalization only helps if you have clean user signals.</li>
-          <li>Retrieval quality matters more than the final generator.</li>
-          <li>Offline evaluation saves weeks of online experimentation.</li>
+          <li><strong>Metrics Over Models:</strong> Before writing any modeling code, establish clear offline evaluation metrics. We focused heavily on precision@k, recall@k, and diversity. If a metric couldn't map to user engagement, we didn't track it.</li>
+          <li><strong>The Personalization Trap:</strong> Personalization sounds great on paper, but it only helps if you have clean, abundant user signals. We learned that a strong, generalized baseline often outperforms poorly tuned personalized models.</li>
+          <li><strong>Retrieval &gt; Generation:</strong> In AI search, the retrieval step is the bottleneck. The best generation model cannot fix bad context. We shifted resources to improve document parsing and vector search recall before touching the LLM prompt.</li>
+          <li><strong>Offline Eval is a Superpower:</strong> Offline evaluation saves weeks of wasted online experimentation. Building a robust offline eval pipeline allowed us to discard bad ideas in minutes instead of waiting for days of A/B test data.</li>
         </ul>
-        <h2>How we improved results</h2>
+        <h2>How We Practically Improved Results</h2>
         <p>
-          We focused on a lightweight reranker, improved feature logging, and added a daily evaluation
-          report. The combination made it easy to see regressions and validate new ideas quickly.
+          Instead of replacing our core architecture, we focused on high-leverage incremental changes. We introduced a lightweight cross-encoder reranker which dramatically improved the top-5 relevance without skyrocketing latency. 
         </p>
-        <h2>Takeaway</h2>
         <p>
-          The most impactful work was not a single model, but a reliable system: good data, clear metrics,
-          and repeatable experiments.
+          We also overhauled our feature logging. By adding a daily automated evaluation report, it became trivial to spot regressions overnight and validate new feature engineering ideas the very next morning.
+        </p>
+        <h2>A Scalable Workflow for AI Teams</h2>
+        <ul>
+          <li><strong>Hypothesis-Driven Backlog:</strong> Every task in our sprint had to be a hypothesis tied to a specific metric improvement.</li>
+          <li><strong>Small Batch Testing:</strong> We ran small batch offline experiments to validate the "happy path" before committing any code to the online testing environment.</li>
+          <li><strong>The Rollback Plan:</strong> We never launched a ranking change without a one-click rollback plan, ensuring that if engagement tanked, we could recover instantly.</li>
+        </ul>
+        <h2>Key Takeaway</h2>
+        <p>
+          The most impactful work I delivered was not a single, complex model, but rather a robust engineering system: clean data pipelines, interpretable metrics, and repeatable, fast experiments.
+        </p>
+        <p>
+          Adopting this systems-thinking mindset kept the team aligned and helped us deliver steady, compounding improvements without falling into the trap of overfitting to short-term A/B test noise.
         </p>
         <div class="article-cta">
           <a class="button ghost" href="../blog.html">Back to all posts</a>
-          <a class="button primary" href="mailto:tanhiep2012003@gmail.com">Discuss this topic</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
         </div>
       </div>
     </section>

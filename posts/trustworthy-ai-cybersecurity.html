@@ -32,7 +32,7 @@
         <a href="../blog.html">Blog</a>
         <a href="../contact.html">Contact</a>
       </div>
-      <a class="cta" href="mailto:tanhiep2012003@gmail.com">Let’s talk</a>
+  <a class="cta" href="mailto:hieptt.forwork@gmail.com">Let’s talk</a>
     </nav>
     <div class="page-intro">
       <p class="eyebrow">Academic</p>
@@ -52,18 +52,21 @@
       </div>
       <div class="article-content">
         <p>
-          Cybersecurity models must be both accurate and trustworthy. This overview highlights the core
-          practices for building interpretable and robust detection pipelines.
+          Deploying Machine Learning in the cybersecurity domain presents unique challenges. Unlike consumer recommendation systems where a bad prediction is merely an annoyance, a false negative in a threat detection pipeline can lead to catastrophic data breaches. Consequently, cybersecurity models must prioritize trustworthiness, predictability, and interpretability over raw, black-box accuracy.
         </p>
-        <h2>What matters most</h2>
+        <h2>The Pillars of Trustworthy Security ML</h2>
+        <p>To build models that Security Operations Center (SOC) analysts will actually trust and use, we focus on three core pillars:</p>
         <ul>
-          <li>Calibration: confidence scores that match reality.</li>
-          <li>Robustness: adversarial stress tests and drift monitoring.</li>
-          <li>Explainability: human-readable attributions for analysts.</li>
+          <li><strong>Model Calibration:</strong> A model outputting a probability of 0.99 for an attack must be correct 99% of the time. Uncalibrated neural networks are notoriously overconfident. We heavily utilize techniques like Platt scaling or Isotonic Regression to ensure that the confidence scores provided to analysts accurately reflect the true statistical likelihood of a threat.</li>
+          <li><strong>Adversarial Robustness:</strong> Security is an inherently adversarial environment; attackers actively try to evade detection. We subject our pipelines to rigorous adversarial stress tests, generating synthetic malware variants and obfuscated payloads to harden the model against evasion tactics. Continuous drift monitoring is essential, as the threat landscape evolves daily.</li>
+          <li><strong>Actionable Explainability (XAI):</strong> An alert without context is useless to a busy analyst. We integrate Explainable AI techniques (such as SHAP or LIME for tabular data, or integrated gradients for deep models) to provide human-readable attributions. If a model flags a network request as malicious, it must explicitly highlight the specific anomalous headers or payload signatures that triggered the decision.</li>
         </ul>
+        <p>
+          By ensuring calibration, resilience to attacks, and clear explanations, we transition ML from a mysterious "black box" into a reliable, force-multiplying tool for human security teams.
+        </p>
         <div class="article-cta">
           <a class="button ghost" href="../blog.html">Back to all posts</a>
-          <a class="button primary" href="mailto:tanhiep2012003@gmail.com">Discuss this topic</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
         </div>
       </div>
     </section>

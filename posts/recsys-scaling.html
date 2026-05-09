@@ -32,7 +32,7 @@
         <a href="../blog.html">Blog</a>
         <a href="../contact.html">Contact</a>
       </div>
-      <a class="cta" href="mailto:tanhiep2012003@gmail.com">Let’s talk</a>
+  <a class="cta" href="mailto:hieptt.forwork@gmail.com">Let’s talk</a>
     </nav>
     <div class="page-intro">
       <p class="eyebrow">Engineering</p>
@@ -52,19 +52,26 @@
       </div>
       <div class="article-content">
         <p>
-          Recommenders in AI search must serve multiple intents: relevance, personalization, and latency.
-          A reliable system combines offline evaluation with online experimentation.
+          Building a recommender system that serves pre-computed lists is fundamentally different from scaling a recommender system for an AI-native search engine. In an AI-search context, the recommender must interpret complex, ambiguous natural language intents in real-time, balancing semantic relevance, user-specific personalization, and strict latency budgets.
         </p>
-        <h2>Key practices</h2>
+        <h2>Core Architectural Practices</h2>
+        <p>Scaling these systems successfully requires a shift from isolated model training to holistic system design:</p>
         <ul>
-          <li>Define objective-aligned metrics (CTR, dwell time, diversity).</li>
-          <li>Build a feedback loop with retraining schedules.</li>
-          <li>Use a unified feature store to keep training/serving consistent.</li>
-          <li>Monitor drift and bias with weekly audits.</li>
+          <li><strong>Objective-Aligned Metrics:</strong> Move beyond simple RMSE or log-loss. Define metrics that actually matter to the business. We tracked click-through rate (CTR), dwell time on recommended items, and crucially, catalog diversity to prevent echo chambers and popularity bias.</li>
+          <li><strong>Continuous Feedback Loops:</strong> Stale models degrade quickly in dynamic environments. We built automated pipelines for daily data ingestion and weekly retraining schedules. This ensures the model adapts to emerging trends and shifting user vocabulary.</li>
+          <li><strong>The Unified Feature Store:</strong> Training-serving skew is the silent killer of recommender systems. By migrating to a unified feature store, we guaranteed that the exact same feature transformations applied during offline training were instantly available to the online inference service.</li>
+          <li><strong>Proactive Bias Monitoring:</strong> Recommenders naturally amplify biases. We instituted weekly automated audits to track performance disparities across different document categories and user cohorts, triggering alerts if drift exceeded acceptable thresholds.</li>
         </ul>
+        <h2>The Art of Experiment Design</h2>
+        <p>
+          You cannot A/B test your way out of a fundamentally flawed architecture, but you must A/B test every significant ranking change.
+        </p>
+        <p>
+          We strictly staged our rollouts. Before a candidate model ever faced real user traffic, it had to pass a gauntlet of offline replay evaluations. Once online, we utilized shadow traffic testing (scoring real requests without showing the results) to establish hard guardrail metrics for system latency and resource utilization. Only if the model proved stable under load did we begin a gradual, staged rollout (e.g., 1%, 5%, 50%).
+        </p>
         <div class="article-cta">
           <a class="button ghost" href="../blog.html">Back to all posts</a>
-          <a class="button primary" href="mailto:tanhiep2012003@gmail.com">Discuss this topic</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
         </div>
       </div>
     </section>

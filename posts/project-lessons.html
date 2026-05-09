@@ -32,7 +32,7 @@
         <a href="../blog.html">Blog</a>
         <a href="../contact.html">Contact</a>
       </div>
-      <a class="cta" href="mailto:tanhiep2012003@gmail.com">Let’s talk</a>
+  <a class="cta" href="mailto:hieptt.forwork@gmail.com">Let’s talk</a>
     </nav>
     <div class="page-intro">
       <p class="eyebrow">Projects</p>
@@ -52,24 +52,33 @@
       </div>
       <div class="article-content">
         <p>
-          Each project shaped a mindset: evaluate early, ship reliably, and optimize for the user. Below
-          are the most useful lessons I reuse across AI and backend systems.
+          Transitioning from academic exercises to shipping production AI systems requires a profound shift in mindset. Every project—whether it's building a RAG architecture, deploying a recommender pipeline, or releasing a core ML product—has reinforced the same core philosophy: evaluate early, ship reliably, and always optimize for the end-user's experience over architectural purity.
         </p>
-        <h2>What worked</h2>
+        <h2>What Consistently Worked</h2>
+        <p>Across various deployments, these practices have proven to be non-negotiable:</p>
         <ul>
-          <li>Define success metrics before training (latency, relevance, accuracy).</li>
-          <li>Build reproducible data pipelines and track experiment lineage.</li>
-          <li>Use lightweight evaluation to catch regressions quickly.</li>
-          <li>Collaborate with product teams early to align on outcomes.</li>
+          <li><strong>Define Success Before Writing Code:</strong> Establish rigid success metrics (p99 latency limits, relevance scores, accuracy thresholds) before training any models. If you don't know what "good" looks like, you will never finish tuning.</li>
+          <li><strong>Reproducibility is King:</strong> Build reproducible data pipelines from day one. Track experiment lineage meticulously. If you can't exactly recreate the model you shipped last Tuesday, you have a major operational risk.</li>
+          <li><strong>Defensive Evaluation:</strong> Use lightweight, automated evaluation suites to catch regressions immediately. Your CI/CD pipeline must include model evaluation, not just unit tests for code.</li>
+          <li><strong>Cross-Functional Alignment:</strong> Collaborate with product managers and UX designers early. An accurate model with terrible latency or confusing UI will be perceived as a failure by the user.</li>
         </ul>
-        <h2>Looking forward</h2>
+        <h2>The Reality of Collaboration</h2>
         <p>
-          My goal is to keep bridging research and production—turning academic ideas into practical AI
-          products that scale.
+          The most successful projects I’ve been part of shared one common trait: a unified, highly visible dashboard. By putting model metrics (precision, recall), system health (latency, error rates), and business metrics (user click-throughs, feedback scores) in one place, engineering and product teams instantly aligned on priorities. It removes the friction of arguing over whether to focus on model accuracy or system speed.
+        </p>
+        <h2>Evaluation Habits That Save Time</h2>
+        <ul>
+          <li><strong>The Golden Offline Set:</strong> Maintain a strictly versioned offline evaluation dataset with heavily scrutinized baselines. Never alter this set without team consensus.</li>
+          <li><strong>Canary Releases:</strong> Never route 100% of traffic to a new ranking model or LLM endpoint. Always use canary releases (e.g., 5% of traffic) to monitor for unexpected edge cases in the wild.</li>
+          <li><strong>Documenting Trade-offs:</strong> Machine learning is the art of trade-offs. Whenever making a decision that increases accuracy at the cost of latency or compute budget, document the specific reasoning in an Architecture Decision Record (ADR).</li>
+        </ul>
+        <h2>Looking Forward</h2>
+        <p>
+          My ongoing goal is to continue bridging the crucial gap between advanced ML research and robust production systems—turning theoretical academic ideas into practical, scalable AI products that deliver measurable value to users.
         </p>
         <div class="article-cta">
           <a class="button ghost" href="../blog.html">Back to all posts</a>
-          <a class="button primary" href="mailto:tanhiep2012003@gmail.com">Discuss this topic</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
         </div>
       </div>
     </section>

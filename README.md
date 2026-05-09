@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    <a href="mailto:tanhiep2012003@gmail.com">
+    <a href="mailto:hieptt.forwork@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
@@ -125,11 +125,13 @@ I possess a hybrid skillset bridging **AI research** and **scalable software eng
 
 ## 📜 Certificates
 
-- AWS Certified Developer – Associate  
-- AWS Certified AI Practitioner  
-- Machine Learning Specialization (Coursera / Stanford)  
-- Deep Learning & Reinforcement Learning  
-- FPT AI Compass  
+- [Machine Learning Specialization (Coursera)](./data/Cer/CERTIFICATE_LANDING_PAGE~5P6Z8KT4KNDC-1.pdf)  
+- [Udemy AI Associate](./data/Cer/Udemy_AI_Associate.pdf)  
+- [FPT AI Compass](./data/Cer/FPT-AI-Compass.pdf)  
+- [Machine Learning Explainability](./data/Cer/ML-Explainability.pdf)  
+- [Kaggle AI Ethics](./data/Cer/Kaggle-AI-Ethics.pdf)  
+- [Kaggle Computer Vision](./data/Cer/Kaggle-ComputerVision.pdf)  
+- [Generative AI Completion](./data/Cer/genai-completion3.pdf)  
 
 ---
 

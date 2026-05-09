@@ -32,7 +32,7 @@
         <a href="../blog.html">Blog</a>
         <a href="../contact.html">Contact</a>
       </div>
-      <a class="cta" href="mailto:tanhiep2012003@gmail.com">Let’s talk</a>
+  <a class="cta" href="mailto:hieptt.forwork@gmail.com">Let’s talk</a>
     </nav>
     <div class="page-intro">
       <p class="eyebrow">Career</p>
@@ -52,19 +52,22 @@
       </div>
       <div class="article-content">
         <p>
-          Production AI demands more than model quality. The workflow must include evaluation, monitoring,
-          and a clear operational playbook.
+          The graveyard of artificial intelligence is filled with Jupyter Notebooks that achieved 99% accuracy on a static dataset but never survived contact with real-world users. Productionizing AI demands a profound shift in priorities: while research optimizes for theoretical novelty and peak metric performance, production engineering must relentlessly optimize for reliability, observability, and cost-efficiency.
         </p>
-        <h2>Workflow stages</h2>
+        <h2>The Four-Stage Engineering Workflow</h2>
+        <p>Over several deployment cycles, I've refined a pragmatic workflow for bridging this gap:</p>
         <ul>
-          <li>Prototype with rapid evaluation and feedback loops.</li>
-          <li>Harden data pipelines with versioned datasets.</li>
-          <li>Deploy with monitoring, rollback, and alerting.</li>
-          <li>Iterate based on product analytics and user feedback.</li>
+          <li><strong>Phase 1: Rapid Prototyping & Scoping:</strong> Start with the simplest possible baseline (often a heuristic or a zero-shot LLM prompt). The goal here is not accuracy, but establishing the end-to-end evaluation loop. If you can't measure the baseline, you shouldn't start training a complex model.</li>
+          <li><strong>Phase 2: Hardening the Data Pipeline:</strong> Research code often relies on ad-hoc CSV files. Production requires reproducible, versioned data engineering. We enforce strict schemas, treat data as immutable artifacts, and automate the ingestion pipeline before fine-tuning begins.</li>
+          <li><strong>Phase 3: Defensive Deployment:</strong> A model in production is a liability until proven otherwise. We deploy using canary releases, shadow mode execution, and wrap every inference endpoint with aggressive fallback mechanisms (e.g., returning a cached popular result if the model times out). Comprehensive logging—capturing inputs, outputs, and latency—is mandatory.</li>
+          <li><strong>Phase 4: Continuous Iteration (MLOps):</strong> Day two operations are where the real work begins. We tie model performance directly to product analytics. If accuracy is high but user click-through rate drops, the model is failing its business objective. We automate retraining triggers based on detected data drift, not arbitrary calendar dates.</li>
         </ul>
+        <p>
+          Ultimately, transitioning from research to production means accepting that the model is merely one component of a much larger, complex software system.
+        </p>
         <div class="article-cta">
           <a class="button ghost" href="../blog.html">Back to all posts</a>
-          <a class="button primary" href="mailto:tanhiep2012003@gmail.com">Discuss this topic</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
         </div>
       </div>
     </section>
