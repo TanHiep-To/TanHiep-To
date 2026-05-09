@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The person who is his own master cannot tolerate another boss. " — <b>Chinese Proverb</b></i>
+    <i>"When you judge another, you do not define them, you define yourself" — <b>Wayne Dyer</b></i>
   </p>
 
   <p>
