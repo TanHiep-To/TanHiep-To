@@ -27,7 +27,7 @@ const QUOTES_API = "https://zenquotes.io/api/quotes";
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/nqbinh/" target="_blank">
+    <a href="https://www.linkedin.com/in/pake/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>

@@ -54,6 +54,8 @@
         <p>
           Việc xây dựng một hệ thống RAG (Retrieval-Augmented Generation) từ bản demo trên Jupyter Notebook lên một service chạy ổn định trên Production là một trải nghiệm mở rộng tầm mắt. Trong demo, mọi thứ đều hoàn hảo vì bộ tài liệu nhỏ và câu hỏi đã được biết trước. Nhưng trên production, người dùng nhập vào đủ loại câu hỏi mơ hồ, sai chính tả, và mô hình LLM bắt đầu... bịa chuyện (hallucination).
         </p>
+        
+        <img src="../assets/images/image_bg_jp.jpg" alt="Article Highlight Image" />
         <h2>Sự thật phũ phàng: LLM chỉ tốt khi Retrieval tốt</h2>
         <p>
           Bài học lớn nhất của tôi là: "Garbage in, Garbage out". Nếu hệ thống Retrieval (tìm kiếm tài liệu) trả về những đoạn text không liên quan, LLM dù thông minh đến đâu cũng sẽ tổng hợp ra một câu trả lời sai lệch một cách rất tự tin. Do đó, thay vì tốn thời gian đổi prompt hay thay đổi mô hình LLM (từ GPT-3.5 sang GPT-4), tôi tập trung 90% công sức vào việc tối ưu hóa Retrieval.

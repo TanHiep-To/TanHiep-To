@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Intense love does not measure, it just gives." — <b>Mother Teresa</b></i>
+    <i>"She who loves roses must be patient and not cry out when she is pierced by thorns." — <b>Kenji Miyazawa</b></i>
   </p>
 
   <p>
