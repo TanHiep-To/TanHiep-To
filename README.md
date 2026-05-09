@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction." — <b>Criss Jami</b></i>
+    <i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable." — <b>Elon Musk</b></i>
   </p>
 
   <p>
