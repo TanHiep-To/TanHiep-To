@@ -50,36 +50,35 @@
           <span>Reading time: 5 min</span>
         </div>
       </div>
-            <div class="article-content">
-        <p>
-          Việc xây dựng một hệ thống RAG (Retrieval-Augmented Generation) từ bản demo trên Jupyter Notebook lên một service chạy ổn định trên Production là một trải nghiệm mở rộng tầm mắt. Trong demo, mọi thứ đều hoàn hảo vì bộ tài liệu nhỏ và câu hỏi đã được biết trước. Nhưng trên production, người dùng nhập vào đủ loại câu hỏi mơ hồ, sai chính tả, và mô hình LLM bắt đầu... bịa chuyện (hallucination).
-        </p>
-        
+                  <div class="article-content">
         <img src="../assets/images/image_bg_jp.jpg" alt="Article Highlight Image" />
-        <h2>Sự thật phũ phàng: LLM chỉ tốt khi Retrieval tốt</h2>
         <p>
-          Bài học lớn nhất của tôi là: "Garbage in, Garbage out". Nếu hệ thống Retrieval (tìm kiếm tài liệu) trả về những đoạn text không liên quan, LLM dù thông minh đến đâu cũng sẽ tổng hợp ra một câu trả lời sai lệch một cách rất tự tin. Do đó, thay vì tốn thời gian đổi prompt hay thay đổi mô hình LLM (từ GPT-3.5 sang GPT-4), tôi tập trung 90% công sức vào việc tối ưu hóa Retrieval.
+          Transitioning a Retrieval-Augmented Generation (RAG) system from a shiny Jupyter Notebook demo to a robust production service is an eye-opening experience. In a demo, everything looks flawless because the document corpus is small and the questions are pre-determined. However, in production, users input vague, misspelled queries, and the LLM inevitably begins to confidently hallucinate.
         </p>
-        <h2>Checklist tối ưu Retrieval trên Production</h2>
+        <h2>The Harsh Reality: The LLM is Only as Good as the Retrieval</h2>
+        <p>
+          The most crucial lesson I learned is "Garbage in, Garbage out." If the retrieval system surfaces irrelevant text snippets, the LLM, regardless of how advanced it is, will confidently synthesize an inaccurate answer. Therefore, instead of wasting time endlessly tweaking prompts or upgrading models (e.g., from GPT-3.5 to GPT-4), I shifted 90% of my engineering effort towards optimizing the retrieval pipeline.
+        </p>
+        <h2>The Production Retrieval Optimization Checklist</h2>
         <ul>
-          <li><strong>Đo lường trước khi cải tiến:</strong> Đừng dùng "cảm giác". Xây dựng một bộ dataset gồm 200 câu hỏi và câu trả lời chuẩn (Golden Dataset). Sử dụng các framework như RAGAS hoặc DeepEval để đo lường tự động độ chính xác của Retrieval (Precision@k, MRR) mỗi khi thay đổi cách chunking tài liệu.</li>
-          <li><strong>Áp dụng Re-ranking (Bắt buộc):</strong> Tìm kiếm Vector (Vector Search) chỉ tốt ở mặt ngữ nghĩa chung chung. Khi ghép thêm một bước Cross-Encoder Re-ranking để chấm điểm lại top 20 tài liệu tìm được, chất lượng context cung cấp cho LLM tăng lên đột biến, giảm thiểu hallucination cực kỳ hiệu quả.</li>
-          <li><strong>Cấu trúc hóa siêu dữ liệu (Metadata filtering):</strong> Lọc theo thời gian, theo phòng ban, theo loại tài liệu trước khi search vector sẽ loại bỏ được 50% những kết quả nhiễu.</li>
+          <li><strong>Measure Before You Improve:</strong> Never rely on "gut feeling." Build a golden dataset containing at least 200 diverse query-answer pairs. Utilize frameworks like RAGAS or DeepEval to automatically measure retrieval accuracy (Precision@k, MRR) every time you tweak your document chunking strategy.</li>
+          <li><strong>Mandatory Re-ranking:</strong> Standard Vector Search is only adequate for general semantic matching. By introducing a Cross-Encoder Re-ranking step to rescore the top 20 retrieved documents, the quality of the context window provided to the LLM increases dramatically, which is the most effective way to eliminate hallucinations.</li>
+          <li><strong>Structured Metadata Filtering:</strong> Filtering documents by timestamp, department, or document type prior to executing the vector search can instantly eliminate 50% of irrelevant noise from your results.</li>
         </ul>
-        <h2>Quản lý Hallucination và Grounding</h2>
+        <h2>Managing Hallucinations and Strict Grounding</h2>
         <p>
-          Trên production, việc LLM bịa chuyện là rủi ro kinh doanh. Tôi phải áp dụng các kỹ thuật "Grounding" khắt khe: yêu cầu LLM phải trích dẫn (cite) chính xác ID của đoạn văn bản mà nó lấy thông tin. Nếu trong câu trả lời không có trích dẫn, hệ thống sẽ tự động hạ điểm tin cậy (confidence score) và cảnh báo người dùng.
+          In a production environment, an LLM hallucination is a severe business risk. I had to implement strict "Grounding" techniques: the prompt forces the LLM to explicitly cite the unique ID of the document chunk it used. If the generated response lacks a valid citation, the system automatically lowers the confidence score and displays a warning to the user.
         </p>
-        <h2>Bài học về Giám sát (Monitoring)</h2>
+        <h2>Monitoring and Latency Realities</h2>
         <p>
-          Khi hệ thống chạy thực tế, latency là kẻ thù. Việc gọi LLM API mất 3-4s, cộng thêm 1s cho Retrieval và Rerank khiến trải nghiệm người dùng rất tệ. Tôi phải áp dụng Streaming (trả về từng chữ), đồng thời implement tracing (như LangSmith hay Arize) để biết chính xác thời gian trễ nằm ở bước nào. 
+          When the system goes live, latency becomes the primary enemy. An LLM API call might take 3-4 seconds; adding another second for retrieval and reranking results in an unacceptable UX. I had to implement token streaming (returning the response word by word) and integrate detailed tracing (using tools like LangSmith or Arize) to pinpoint exactly which step was causing the bottleneck.
         </p>
         <p>
-          Làm RAG trên production không phải là phép thuật AI, mà là một quy trình kỹ thuật phần mềm (Software Engineering) cực kỳ chặt chẽ, nơi đánh giá (Evaluation) và giám sát (Monitoring) quan trọng hơn cả việc chọn mô hình nào.
+          Building RAG for production is not AI magic; it is a highly rigorous Software Engineering discipline where Evaluation and Monitoring are vastly more critical than the choice of the underlying model.
         </p>
         <div class="article-cta">
-          <a class="button ghost" href="../blog.html">Trở về trang Blog</a>
-          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Thảo luận cùng tôi</a>
+          <a class="button ghost" href="../blog.html">Back to all posts</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
         </div>
       </div>
     </section>

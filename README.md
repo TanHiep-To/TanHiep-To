@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The only lost cause is one we give up on before we enter the struggle." — <b>Vaclav Havel</b></i>
+    <i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." — <b>Colin Powell</b></i>
   </p>
 
   <p>

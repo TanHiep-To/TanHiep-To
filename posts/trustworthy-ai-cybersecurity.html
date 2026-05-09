@@ -50,30 +50,30 @@
           <span>Reading time: 4 min</span>
         </div>
       </div>
-            <div class="article-content">
+                  <div class="article-content">
         <img src="../assets/images/Tan Hiep - To - Machine Learning Explainability.png" alt="Article Highlight Image" />
         <p>
-          Trong lĩnh vực an ninh mạng (Cybersecurity), AI không chỉ cần nhanh mà còn phải "đáng tin". Một mô hình phát hiện mã độc (Malware Detection) có độ chính xác 99% nghe có vẻ tuyệt vời, nhưng nếu nó không thể giải thích tại sao file đó là mã độc, thì các chuyên gia an ninh sẽ rất khó để đưa ra quyết định hành động. Đây chính là lúc khái niệm "Trustworthy AI" (AI đáng tin cậy) lên ngôi.
+          In the Cybersecurity domain, Artificial Intelligence must be more than just fast; it must be completely "trustworthy." A Malware Detection model boasting 99% accuracy sounds phenomenal, but if it cannot explicitly explain *why* it flagged a specific file as malicious, security analysts will struggle to justify taking defensive action. This critical gap is exactly where the concept of "Trustworthy AI" becomes paramount.
         </p>
-        <h2>Sự nguy hiểm của "Hộp đen" AI</h2>
+        <h2>The Danger of the AI "Black Box"</h2>
         <p>
-          Khi tôi làm việc với các hệ thống phát hiện xâm nhập (IDS), tôi nhận ra rằng AI rất dễ bị đánh lừa bởi các cuộc tấn công đối kháng (Adversarial Attacks). Chỉ cần thay đổi một vài byte trong header của một gói tin mạng, AI có thể bị "mù" hoàn toàn. Do đó, độ tin cậy của AI trong bảo mật được xây dựng dựa trên ba trụ cột: Tính ổn định (Robustness), Tính minh bạch (Interpretability) và Tính công bằng (Fairness).
+          While developing Intrusion Detection Systems (IDS), I learned firsthand how easily AI can be deceived by Adversarial Attacks. By altering merely a few bytes in a network packet's header, an attacker can completely "blind" a deep learning model. Therefore, deploying reliable AI in security relies on three foundational pillars: Robustness, Interpretability, and Fairness.
         </p>
-        <h2>Làm sao để AI có thể giải thích được?</h2>
+        <h2>How Do We Make AI Explainable?</h2>
         <p>
-          Chúng tôi áp dụng các kỹ thuật như SHAP (SHapley Additive exPlanations) để phân tích tầm quan trọng của các feature. Ví dụ, khi AI cảnh báo một kết nối là bất thường, SHAP sẽ chỉ ra rằng: "Kết nối này bị gắn cờ chủ yếu do dung lượng payload lớn bất thường và IP nguồn đến từ một quốc gia không nằm trong danh sách trắng". Những thông tin này cực kỳ giá trị để các analyst có thể phản ứng nhanh chóng.
+          We heavily employ Explainable AI (XAI) techniques such as SHAP (SHapley Additive exPlanations) to analyze feature importance. For instance, when the AI flags a network connection as anomalous, SHAP provides the context: "This connection was flagged primarily due to an unusually large payload size combined with a source IP originating from a non-whitelisted region." This level of granular detail is invaluable for analysts who need to respond to threats in real-time.
         </p>
-        <h2>Calibration - Khi con số 90% thực sự là 90%</h2>
+        <h2>Calibration - Ensuring 90% Actually Means 90%</h2>
         <p>
-          Một sai lầm phổ biến là tin vào xác suất đầu ra của softmax. Trong bảo mật, chúng tôi cần model phải được "Calibrated" (hiệu chuẩn). Nghĩa là nếu model nói xác suất tấn công là 90%, thì trong 100 lần cảnh báo như vậy, thực sự phải có 90 lần là tấn công thật. Chúng tôi sử dụng các kỹ thuật như Platt Scaling để tinh chỉnh lại xác suất này, giúp giảm thiểu tối đa các cảnh báo giả (False Positives) làm phiền các chuyên gia.
+          A frequent mistake is blindly trusting the raw probability output of a softmax layer. In cybersecurity, we require our models to be strictly "Calibrated." This means if the model outputs a 90% probability of an attack, then out of 100 such alerts, 90 must genuinely be real attacks. We utilize techniques like Platt Scaling or Isotonic Regression to meticulously refine these probability scores, drastically reducing the False Positives that lead to severe alert fatigue for security teams.
         </p>
-        <h2>Hành trình xây dựng niềm tin</h2>
+        <h2>The Journey to Building Trust</h2>
         <p>
-          Xây dựng AI cho Cybersecurity không phải là cuộc đua về độ chính xác (Accuracy), mà là cuộc đua về sự ổn định. Mỗi mô hình chúng tôi triển khai đều phải trải qua những đợt "Red Teaming" khắc nghiệt—nơi chúng tôi tự đóng vai hacker để tìm cách phá vỡ mô hình của chính mình.
+          Building AI for Cybersecurity is not a race for the highest theoretical Accuracy; it is a marathon for extreme system stability. Every single model we deploy must survive rigorous "Red Teaming" exercises—where our own engineers act as adversarial hackers, actively attempting to break, evade, or poison the model before it ever faces live network traffic.
         </p>
         <div class="article-cta">
-          <a class="button ghost" href="../blog.html">Trở về trang Blog</a>
-          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Thảo luận cùng tôi</a>
+          <a class="button ghost" href="../blog.html">Back to all posts</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
         </div>
       </div>
     </section>

@@ -50,33 +50,33 @@
           <span>Reading time: 4 min</span>
         </div>
       </div>
-            <div class="article-content">
+                  <div class="article-content">
         <img src="../assets/images/Tan Hiep - To - Machine Learning Explainability (1).png" alt="Article Highlight Image" />
         <p>
-          Fine-tuning LLM (Large Language Models) đang trở thành một kỹ năng thiết yếu đối với kỹ sư AI hiện nay. Tuy nhiên, ranh giới giữa một mô hình "thông minh hơn" và một mô hình bị "thảm họa quên lãng" (catastrophic forgetting) là rất mong manh. Playbook này là những kinh nghiệm thực chiến của tôi khi fine-tuning các dòng mô hình từ Llama, Mistral cho đến các model chuyên biệt cho tiếng Việt.
+          Fine-tuning Large Language Models (LLMs) is rapidly becoming an essential skill for modern AI engineers. However, the boundary between making a model "smarter" in a specific domain and causing "catastrophic forgetting" is incredibly thin. This playbook summarizes my battle-tested experience in fine-tuning models ranging from Llama and Mistral to specialized models tailored for specific languages and domains.
         </p>
-        <h2>Bước 1: Chất lượng dữ liệu quan trọng hơn số lượng</h2>
+        <h2>Step 1: Data Quality Dramatically Outweighs Quantity</h2>
         <p>
-          Nhiều người nghĩ rằng cần hàng triệu sample để fine-tuning. Thực tế, với các kỹ thuật như LoRA (Low-Rank Adaptation) hay QLoRA, bạn chỉ cần 1.000 đến 5.000 mẫu dữ liệu **cực kỳ chất lượng** là đã thấy sự khác biệt rõ rệt. Tôi thường dành 70% thời gian dự án để làm sạch dữ liệu: loại bỏ các câu trả lời trùng lặp, chuẩn hóa định dạng instruction, và đặc biệt là kiểm tra tính chính xác về mặt logic của các cặp prompt-response.
+          A common misconception is that you need millions of samples to successfully fine-tune an LLM. In reality, when utilizing parameter-efficient techniques like LoRA (Low-Rank Adaptation) or QLoRA, you only need 1,000 to 5,000 **exceptionally high-quality** data samples to see a profound improvement. I typically allocate 70% of my project time purely to data cleansing: deduplicating responses, standardizing instruction formats, and rigorously verifying the logical accuracy of every prompt-response pair.
         </p>
-        <h2>Bước 2: Chiến lược chọn Parameter hiệu quả</h2>
+        <h2>Step 2: Effective Parameter Strategy</h2>
         <p>
-          Đừng fine-tuning toàn bộ (Full Fine-tuning) nếu bạn không có dàn GPU khủng. LoRA là "cứu cánh" tuyệt vời. Tôi thường bắt đầu với rank (r) = 8 hoặc 16 và alpha = 32. Việc chỉ tác động vào các lớp Query và Value trong cơ chế Attention giúp mô hình giữ được kiến thức nền tảng tốt mà vẫn học được phong cách/kiến thức mới từ domain của bạn.
+          Avoid Full Fine-Tuning unless you have access to a massive cluster of high-end GPUs. LoRA is an absolute lifesaver. I usually start with a rank (r) of 8 or 16 and an alpha of 32. By only updating the Query and Value matrices within the Attention mechanism, the model successfully retains its broad foundational knowledge while successfully adapting to the specific style and terminology of your target domain.
         </p>
-        <h2>Bước 3: Đánh giá (Evaluation) - Đừng chỉ nhìn vào Loss</h2>
+        <h2>Step 3: Evaluation - Do Not Just Look at the Loss Curve</h2>
         <p>
-          Loss giảm không có nghĩa là model tốt hơn. Tôi đã từng gặp trường hợp Loss cực thấp nhưng model lại bị lặp từ (repetition). Hãy xây dựng một bộ "vibe check" dataset—những câu hỏi hóc búa nhất trong domain của bạn. Sau mỗi epoch, hãy generate thử và dùng một model mạnh hơn (như GPT-4) làm giám khảo để chấm điểm theo các tiêu chí: tính chính xác, phong cách hành văn và khả năng tuân thủ định dạng.
+          A decreasing training loss does not automatically equate to a better model. I have encountered scenarios where the loss was incredibly low, but the model suffered from severe text repetition. You must build a "vibe check" dataset—a collection of the most challenging edge-case questions in your domain. After every epoch, generate inferences for this set and use a superior model (like GPT-4) as an LLM-as-a-Judge to score the outputs based on accuracy, tone, and strict adherence to formatting constraints.
         </p>
-        <h2>Bước 4: Chống lại sự suy giảm khả năng tổng quát</h2>
+        <h2>Step 4: Preventing Generalization Degradation</h2>
         <p>
-          Một mẹo nhỏ tôi thường dùng là trộn thêm khoảng 5-10% dữ liệu tổng quát (như bộ Open-Orca) vào tập dữ liệu chuyên biệt của mình. Điều này giúp "nhắc nhở" mô hình rằng nó vẫn là một trợ lý thông minh đa năng, thay vì biến thành một "máy vẹt" chỉ biết trả lời trong một phạm vi hẹp.
+          A practical trick I rely on is mixing approximately 5-10% of general-purpose instruction data (such as the Open-Orca dataset) into my highly specialized training set. This acts as a necessary reminder to the model that it is still a versatile, intelligent assistant, preventing it from devolving into a narrow "parrot" that can only respond to a highly restricted set of prompts.
         </p>
         <p>
-          Fine-tuning là một quá trình thử sai liên tục. Đừng nản lòng nếu model đầu tiên của bạn phản hồi ngớ ngẩn. Hãy điều chỉnh Learning Rate, kiểm tra lại dữ liệu và thử lại.
+          Fine-tuning is a process of continuous trial and error. Do not be discouraged if your first model checkpoint hallucinates or responds nonsensically. Adjust your Learning Rate, deeply inspect your training data, and try again.
         </p>
         <div class="article-cta">
-          <a class="button ghost" href="../blog.html">Trở về trang Blog</a>
-          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Thảo luận cùng tôi</a>
+          <a class="button ghost" href="../blog.html">Back to all posts</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
         </div>
       </div>
     </section>
