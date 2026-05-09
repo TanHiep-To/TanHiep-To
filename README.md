@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"You can do two things at once, but you can't focus effectively on two things at once." — <b>Gary Keller</b></i>
+    <i>"Adventure is worthwhile in itself." — <b>Amelia Earhart</b></i>
   </p>
 
   <p>

@@ -237,6 +237,13 @@ a {
   backdrop-filter: blur(8px);
 }
 
+.button.action-btn {
+  background: rgba(59, 130, 246, 0.1);
+  border: 1px solid rgba(59, 130, 246, 0.4);
+  color: #e8ecf7;
+  backdrop-filter: blur(8px);
+}
+
 .button:hover {
   transform: translateY(-3px) scale(1.02);
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
@@ -250,6 +257,13 @@ a {
   background: rgba(255, 255, 255, 0.08);
   border-color: var(--accent);
   color: var(--accent);
+}
+
+.button.action-btn:hover {
+  background: rgba(59, 130, 246, 0.25);
+  border-color: #60a5fa;
+  box-shadow: 0 8px 25px rgba(59, 130, 246, 0.4);
+  color: #fff;
 }
 
 @keyframes gradientShift {
