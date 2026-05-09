@@ -50,35 +50,33 @@
           <span>Reading time: 4 min</span>
         </div>
       </div>
-      <div class="article-content">
-        <p>
-          Fine-tuning Large Language Models (LLMs) is rarely a solved problem on the first try. It succeeds only when your training data quality and evaluation framework are perfectly aligned with the real-world domain you are trying to adapt to. This playbook outlines the pragmatic steps I use to prevent model drift, manage catastrophic forgetting, and maximize actual user adoption.
-        </p>
-        
+            <div class="article-content">
         <img src="../assets/images/Tan Hiep - To - Machine Learning Explainability (1).png" alt="Article Highlight Image" />
-        <h2>The Pre-Training Checklist</h2>
-        <p>Before writing a single line of PyTorch, I establish the boundaries of the fine-tuning task:</p>
-        <ul>
-          <li><strong>Task Taxonomy:</strong> Clearly define what the model *should* do and, equally importantly, what it *should not* do. Map out the expected failure modes early.</li>
-          <li><strong>Data Lineage:</strong> Construct a pristine, versioned training set. Never mix raw scraped data with your curated dataset. Track exactly where every prompt-completion pair originated.</li>
-          <li><strong>Evaluation Baseline:</strong> Establish a baseline using few-shot prompting on the base model. If few-shot prompting meets 90% of your requirements, fine-tuning might be an unnecessary complication.</li>
-        </ul>
-        <h2>Rigorous Dataset Hygiene</h2>
         <p>
-          The golden rule of fine-tuning: garbage in, garbage out. Even a 1–2% noisy or misaligned subset in your training data can cause severe instability, especially for narrow domain tasks. I always maintain a small, highly curated "gold" set of examples that is reviewed manually. This gold set is never used for training; it is strictly reserved for sanity checks and tracking data drift across different data pipeline releases.
+          Fine-tuning LLM (Large Language Models) đang trở thành một kỹ năng thiết yếu đối với kỹ sư AI hiện nay. Tuy nhiên, ranh giới giữa một mô hình "thông minh hơn" và một mô hình bị "thảm họa quên lãng" (catastrophic forgetting) là rất mong manh. Playbook này là những kinh nghiệm thực chiến của tôi khi fine-tuning các dòng mô hình từ Llama, Mistral cho đến các model chuyên biệt cho tiếng Việt.
         </p>
-        <h2>Operational Advice for Training Runs</h2>
+        <h2>Bước 1: Chất lượng dữ liệu quan trọng hơn số lượng</h2>
         <p>
-          Training an LLM is a software engineering problem as much as it is a machine learning one.
+          Nhiều người nghĩ rằng cần hàng triệu sample để fine-tuning. Thực tế, với các kỹ thuật như LoRA (Low-Rank Adaptation) hay QLoRA, bạn chỉ cần 1.000 đến 5.000 mẫu dữ liệu **cực kỳ chất lượng** là đã thấy sự khác biệt rõ rệt. Tôi thường dành 70% thời gian dự án để làm sạch dữ liệu: loại bỏ các câu trả lời trùng lặp, chuẩn hóa định dạng instruction, và đặc biệt là kiểm tra tính chính xác về mặt logic của các cặp prompt-response.
         </p>
-        <ul>
-          <li><strong>Checkpoint Evaluation:</strong> Run lightweight, automated evaluation scripts at every checkpoint (e.g., every 100 steps). Do not wait for the training run to finish to realize the model collapsed.</li>
-          <li><strong>Treat Models as Software:</strong> Treat fine-tuned models like standard product releases. This means implementing canary testing in production and having an immediate, automated rollback strategy if the new model hallucinates or degrades.</li>
-          <li><strong>Version Everything:</strong> When deploying, I version not just the model weights, but also the specific system prompts, the generation parameters (temperature, top-p), and any regex post-processing rules. This holistic versioning makes it vastly easier to diagnose regressions in production.</li>
-        </ul>
+        <h2>Bước 2: Chiến lược chọn Parameter hiệu quả</h2>
+        <p>
+          Đừng fine-tuning toàn bộ (Full Fine-tuning) nếu bạn không có dàn GPU khủng. LoRA là "cứu cánh" tuyệt vời. Tôi thường bắt đầu với rank (r) = 8 hoặc 16 và alpha = 32. Việc chỉ tác động vào các lớp Query và Value trong cơ chế Attention giúp mô hình giữ được kiến thức nền tảng tốt mà vẫn học được phong cách/kiến thức mới từ domain của bạn.
+        </p>
+        <h2>Bước 3: Đánh giá (Evaluation) - Đừng chỉ nhìn vào Loss</h2>
+        <p>
+          Loss giảm không có nghĩa là model tốt hơn. Tôi đã từng gặp trường hợp Loss cực thấp nhưng model lại bị lặp từ (repetition). Hãy xây dựng một bộ "vibe check" dataset—những câu hỏi hóc búa nhất trong domain của bạn. Sau mỗi epoch, hãy generate thử và dùng một model mạnh hơn (như GPT-4) làm giám khảo để chấm điểm theo các tiêu chí: tính chính xác, phong cách hành văn và khả năng tuân thủ định dạng.
+        </p>
+        <h2>Bước 4: Chống lại sự suy giảm khả năng tổng quát</h2>
+        <p>
+          Một mẹo nhỏ tôi thường dùng là trộn thêm khoảng 5-10% dữ liệu tổng quát (như bộ Open-Orca) vào tập dữ liệu chuyên biệt của mình. Điều này giúp "nhắc nhở" mô hình rằng nó vẫn là một trợ lý thông minh đa năng, thay vì biến thành một "máy vẹt" chỉ biết trả lời trong một phạm vi hẹp.
+        </p>
+        <p>
+          Fine-tuning là một quá trình thử sai liên tục. Đừng nản lòng nếu model đầu tiên của bạn phản hồi ngớ ngẩn. Hãy điều chỉnh Learning Rate, kiểm tra lại dữ liệu và thử lại.
+        </p>
         <div class="article-cta">
-          <a class="button ghost" href="../blog.html">Back to all posts</a>
-          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
+          <a class="button ghost" href="../blog.html">Trở về trang Blog</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Thảo luận cùng tôi</a>
         </div>
       </div>
     </section>

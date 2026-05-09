@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"She who loves roses must be patient and not cry out when she is pierced by thorns." — <b>Kenji Miyazawa</b></i>
+    <i>"Do not be so open-minded that your brains fall out." — <b>Gilbert Chesterton</b></i>
   </p>
 
   <p>

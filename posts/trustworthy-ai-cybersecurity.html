@@ -50,25 +50,30 @@
           <span>Reading time: 4 min</span>
         </div>
       </div>
-      <div class="article-content">
-        <p>
-          Deploying Machine Learning in the cybersecurity domain presents unique challenges. Unlike consumer recommendation systems where a bad prediction is merely an annoyance, a false negative in a threat detection pipeline can lead to catastrophic data breaches. Consequently, cybersecurity models must prioritize trustworthiness, predictability, and interpretability over raw, black-box accuracy.
-        </p>
-        
+            <div class="article-content">
         <img src="../assets/images/Tan Hiep - To - Machine Learning Explainability.png" alt="Article Highlight Image" />
-        <h2>The Pillars of Trustworthy Security ML</h2>
-        <p>To build models that Security Operations Center (SOC) analysts will actually trust and use, we focus on three core pillars:</p>
-        <ul>
-          <li><strong>Model Calibration:</strong> A model outputting a probability of 0.99 for an attack must be correct 99% of the time. Uncalibrated neural networks are notoriously overconfident. We heavily utilize techniques like Platt scaling or Isotonic Regression to ensure that the confidence scores provided to analysts accurately reflect the true statistical likelihood of a threat.</li>
-          <li><strong>Adversarial Robustness:</strong> Security is an inherently adversarial environment; attackers actively try to evade detection. We subject our pipelines to rigorous adversarial stress tests, generating synthetic malware variants and obfuscated payloads to harden the model against evasion tactics. Continuous drift monitoring is essential, as the threat landscape evolves daily.</li>
-          <li><strong>Actionable Explainability (XAI):</strong> An alert without context is useless to a busy analyst. We integrate Explainable AI techniques (such as SHAP or LIME for tabular data, or integrated gradients for deep models) to provide human-readable attributions. If a model flags a network request as malicious, it must explicitly highlight the specific anomalous headers or payload signatures that triggered the decision.</li>
-        </ul>
         <p>
-          By ensuring calibration, resilience to attacks, and clear explanations, we transition ML from a mysterious "black box" into a reliable, force-multiplying tool for human security teams.
+          Trong lĩnh vực an ninh mạng (Cybersecurity), AI không chỉ cần nhanh mà còn phải "đáng tin". Một mô hình phát hiện mã độc (Malware Detection) có độ chính xác 99% nghe có vẻ tuyệt vời, nhưng nếu nó không thể giải thích tại sao file đó là mã độc, thì các chuyên gia an ninh sẽ rất khó để đưa ra quyết định hành động. Đây chính là lúc khái niệm "Trustworthy AI" (AI đáng tin cậy) lên ngôi.
+        </p>
+        <h2>Sự nguy hiểm của "Hộp đen" AI</h2>
+        <p>
+          Khi tôi làm việc với các hệ thống phát hiện xâm nhập (IDS), tôi nhận ra rằng AI rất dễ bị đánh lừa bởi các cuộc tấn công đối kháng (Adversarial Attacks). Chỉ cần thay đổi một vài byte trong header của một gói tin mạng, AI có thể bị "mù" hoàn toàn. Do đó, độ tin cậy của AI trong bảo mật được xây dựng dựa trên ba trụ cột: Tính ổn định (Robustness), Tính minh bạch (Interpretability) và Tính công bằng (Fairness).
+        </p>
+        <h2>Làm sao để AI có thể giải thích được?</h2>
+        <p>
+          Chúng tôi áp dụng các kỹ thuật như SHAP (SHapley Additive exPlanations) để phân tích tầm quan trọng của các feature. Ví dụ, khi AI cảnh báo một kết nối là bất thường, SHAP sẽ chỉ ra rằng: "Kết nối này bị gắn cờ chủ yếu do dung lượng payload lớn bất thường và IP nguồn đến từ một quốc gia không nằm trong danh sách trắng". Những thông tin này cực kỳ giá trị để các analyst có thể phản ứng nhanh chóng.
+        </p>
+        <h2>Calibration - Khi con số 90% thực sự là 90%</h2>
+        <p>
+          Một sai lầm phổ biến là tin vào xác suất đầu ra của softmax. Trong bảo mật, chúng tôi cần model phải được "Calibrated" (hiệu chuẩn). Nghĩa là nếu model nói xác suất tấn công là 90%, thì trong 100 lần cảnh báo như vậy, thực sự phải có 90 lần là tấn công thật. Chúng tôi sử dụng các kỹ thuật như Platt Scaling để tinh chỉnh lại xác suất này, giúp giảm thiểu tối đa các cảnh báo giả (False Positives) làm phiền các chuyên gia.
+        </p>
+        <h2>Hành trình xây dựng niềm tin</h2>
+        <p>
+          Xây dựng AI cho Cybersecurity không phải là cuộc đua về độ chính xác (Accuracy), mà là cuộc đua về sự ổn định. Mỗi mô hình chúng tôi triển khai đều phải trải qua những đợt "Red Teaming" khắc nghiệt—nơi chúng tôi tự đóng vai hacker để tìm cách phá vỡ mô hình của chính mình.
         </p>
         <div class="article-cta">
-          <a class="button ghost" href="../blog.html">Back to all posts</a>
-          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Discuss this topic</a>
+          <a class="button ghost" href="../blog.html">Trở về trang Blog</a>
+          <a class="button primary" href="mailto:hieptt.forwork@gmail.com">Thảo luận cùng tôi</a>
         </div>
       </div>
     </section>
