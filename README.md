@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I have never in my life learned anything from any man who agreed with me." — <b>Dudley Field Malone</b></i>
+    <i>"My guiding principle is this: Guilt is never to be doubted. " — <b>Franz Kafka</b></i>
   </p>
 
   <p>
@@ -37,7 +37,7 @@
 ## 👨‍💻 About Me
 
 I am a **Master's Student in Computer Science** at the University of Science (VNU-HCM), specializing in **Artificial Intelligence** and **Machine Learning**.  
-I graduated with Honors (**GPA 9.41/10.0**) and achieved a perfect score (**10.0/10.0**) for my thesis on **Generative AI**.
+I graduated with Honors (**GPA 3.76/4.0**) and completed an outstanding thesis on **Generative AI**.
 
 I possess a hybrid skillset bridging **AI research** and **scalable software engineering**, with a strong interest in **LLMs, recommendation systems, and AI-native products**.
 
@@ -88,7 +88,7 @@ I possess a hybrid skillset bridging **AI research** and **scalable software eng
 | Institution | Degree | Achievement | Year |
 | :--- | :--- | :--- | :--- |
 | University of Science – VNUHCM | **M.Sc. Computer Science** | In Progress | 2025 – Present |
-| University of Science – VNUHCM | **B.S. Computer Science** | GPA 9.41/10.0 (Honors) | 2021 – 2025 |
+| University of Science – VNUHCM | **B.S. Computer Science** | GPA 3.76/4.0 (Honors) | 2021 – 2025 |
 
 ---
 
