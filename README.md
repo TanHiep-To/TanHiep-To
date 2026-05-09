@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good evening ☕, I'm Tan Hiep To</h1>
+  <h1>Good night 😴, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"Your imagination is your preview of life's coming attractions." — <b>Albert Einstein</b></i>
+    <i>"Live your life as an exclamation rather than an explanation." — <b>Isaac Newton</b></i>
   </p>
 
   <p>
@@ -22,11 +22,11 @@
   </p>
 
   <p>
-    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_AI_Resumse.pdf">
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_AI_Resume.pdf">
       <img src="https://img.shields.io/badge/View_CV_AI-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_SE_Resumse.pdf">
+    <a href="https://github.com/TanHiep-To/TanHiep-To/blob/main/data/Hiep_To_SE_Resume.pdf">
       <img src="https://img.shields.io/badge/View_CV_SE-007EC6?style=for-the-badge&logo=googledrive&logoColor=white">
     </a>
   </p>
