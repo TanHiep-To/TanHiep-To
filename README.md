@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Do not be so open-minded that your brains fall out." — <b>Gilbert Chesterton</b></i>
+    <i>"The only lost cause is one we give up on before we enter the struggle." — <b>Vaclav Havel</b></i>
   </p>
 
   <p>
