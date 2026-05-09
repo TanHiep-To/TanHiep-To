@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The less you talk about your shame, the more of it you have." — <b>Mark Manson</b></i>
+    <i>"I have never in my life learned anything from any man who agreed with me." — <b>Dudley Field Malone</b></i>
   </p>
 
   <p>
