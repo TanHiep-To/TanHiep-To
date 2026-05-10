@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The more reasons you have for achieving your goal, the more determined you will become." — <b>Brian Tracy</b></i>
+    <i>"You don't need a weatherman to know which way the wind blows." — <b>Bob Dylan</b></i>
   </p>
 
   <p>
