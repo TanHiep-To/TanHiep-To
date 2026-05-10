@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"You don't need a weatherman to know which way the wind blows." — <b>Bob Dylan</b></i>
+    <i>"You're only given a little spark of madness. You mustn't lose it." — <b>Robin Williams</b></i>
   </p>
 
   <p>
