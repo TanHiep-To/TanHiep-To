@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"What's the point in being smart enough to read, if everything you read makes you dumb?" — <b>C. Sean McGee</b></i>
+    <i>"Everything you've ever wanted is on the other side of fear." — <b>Brian Tracy</b></i>
   </p>
 
   <p>
