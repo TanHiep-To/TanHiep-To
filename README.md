@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The strength of a wall is neither greater nor less than the courage of the men who defend it. " — <b>Genghis Khan</b></i>
+    <i>"Our stories may be singular, but our destination is shared." — <b>Barack Obama</b></i>
   </p>
 
   <p>
