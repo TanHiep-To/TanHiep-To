@@ -284,6 +284,18 @@ a {
   font-size: 0.95rem;
 }
 
+.hero-badges {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 16px;
+}
+
+.hero-badges img {
+  height: 24px;
+  border-radius: 999px;
+}
+
 @keyframes glowLine {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
@@ -620,6 +632,32 @@ a {
 .section-cta {
   margin-top: 24px;
   display: flex;
+}
+
+.principles-grid {
+  margin-top: 32px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.principle-card {
+  padding: 22px;
+  border-radius: 18px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  display: grid;
+  gap: 10px;
+  color: var(--muted);
+}
+
+.principle-card i {
+  font-size: 1.6rem;
+  color: var(--accent);
+}
+
+.principle-card h3 {
+  color: var(--text);
 }
 
 .tech-grid {
