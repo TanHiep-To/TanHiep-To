@@ -199,6 +199,9 @@ a {
   border-radius: 999px;
   border: 1px solid var(--border);
   background: var(--surface-soft);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .hero-social a:hover {
@@ -313,6 +316,7 @@ a {
   background: linear-gradient(90deg, #ff007f, #7928ca, #00d2ff, #ff007f);
   background-size: 300% 100%;
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
   mask-composite: exclude;
   animation: glowLine 4s linear infinite;
@@ -478,6 +482,7 @@ a {
   background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899, #3b82f6);
   background-size: 300% 100%;
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
   mask-composite: exclude;
   animation: glowLine 4s linear infinite;
@@ -497,11 +502,22 @@ a {
   justify-content: center;
   align-items: center;
   text-align: center;
+  gap: 6px;
+}
+
+.stat-icon {
+  font-size: 1.2rem;
+  color: var(--accent);
 }
 
 .project-card {
   display: grid;
   gap: 12px;
+}
+
+.project-card h3 i {
+  margin-right: 8px;
+  color: var(--accent);
 }
 
 .card-meta {
@@ -604,6 +620,55 @@ a {
 .section-cta {
   margin-top: 24px;
   display: flex;
+}
+
+.tech-grid {
+  margin-top: 32px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+}
+
+.tech-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 18px;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+}
+
+.tech-card i {
+  font-size: 1.6rem;
+  color: var(--accent);
+}
+
+.tech-card span {
+  font-weight: 600;
+  color: var(--text);
+}
+
+.cert-grid {
+  margin-top: 24px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 12px;
+}
+
+.cert-grid a {
+  padding: 12px 16px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.cert-grid a:hover {
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 .research-grid {
