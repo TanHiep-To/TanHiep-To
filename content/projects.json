@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Embulk Encoder Encryption",
+    "summary": "AES encryption plugin for Embulk pipelines.",
+    "focus": ["Security", "Data Pipeline"],
+    "stack": ["Java", "Embulk"],
+    "link": "https://github.com/TanHiep-To/embulk-encoder-encryption"
+  },
+  {
+    "title": "Product Recommendation System",
+    "summary": "Real-time recommendation system for AI-driven platforms.",
+    "focus": ["Recommender Systems"],
+    "stack": ["Python", "ML"],
+    "link": "https://github.com/TanHiep-To/Product-Recommendation-System"
+  },
+  {
+    "title": "Virtual KOL System (Thesis)",
+    "summary": "Generative AI system combining Stable Diffusion with ControlNet.",
+    "focus": ["GenAI", "Research"],
+    "stack": ["Python", "Stable Diffusion"],
+    "link": "https://github.com/TanHiep-To"
+  }
+]

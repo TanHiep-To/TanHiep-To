@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --local user.email "hieptt.forwork@gmail.com"
+          git config --local user.email "tanhiep2012003@gmail.com"
           git config --local user.name "${{ github.actor }}"
           git add log.txt
           if git diff --staged --quiet; then

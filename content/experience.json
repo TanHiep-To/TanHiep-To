@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Junior AI Engineer",
+    "company": "First AI",
+    "time": "Jul 2025 – Present",
+    "highlights": [
+      "Built recommendation and ranking pipelines for AI search.",
+      "Fine-tuned LLMs for ranking and explainability."
+    ]
+  },
+  {
+    "role": "Associate Machine Learning Engineer",
+    "company": "OPSWAT",
+    "time": "Jul 2025",
+    "highlights": [
+      "Improved file type detection accuracy from 85% to 92%.",
+      "Optimized inference latency for production pipelines."
+    ]
+  }
+]

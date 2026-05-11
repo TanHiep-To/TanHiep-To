@@ -1,0 +1,20 @@
+[
+  {
+    "title": "RAG in Production: evaluation, grounding, and retrieval tuning",
+    "date": "2026-05-09",
+    "tags": ["RAG", "Evaluation"],
+    "url": "posts/rag-in-production.html"
+  },
+  {
+    "title": "Keeping a sustainable coding habit",
+    "date": "2026-05-09",
+    "tags": ["Habits", "Productivity"],
+    "url": "posts/coding-habits.html"
+  },
+  {
+    "title": "Notes from building an AI search recommender",
+    "date": "2026-05-10",
+    "tags": ["Recsys", "Ranking"],
+    "url": "posts/first-ai-recsys-notes.html"
+  }
+]
