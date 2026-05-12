@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
+    <i>"The person who never made a mistake never tried anything new." — <b>Albert Einstein</b></i>
   </p>
 
   <p>
