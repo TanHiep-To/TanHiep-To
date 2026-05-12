@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"To do two things at once is to do neither." — <b>Publilius Syrus</b></i>
+    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
