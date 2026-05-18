@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Faults are yours to fix, not to curse." — <b>Colin Powell</b></i>
+    <i>"Laziness may appear attractive, but work gives satisfaction." — <b>Anne Frank</b></i>
   </p>
 
   <p>
