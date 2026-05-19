@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It is literally true that you can succeed best and quickest by helping others succeed." — <b>Napoleon Hill</b></i>
+    <i>"By words the mind is winged." — <b>Aristophanes</b></i>
   </p>
 
   <p>
