@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Respect was invented to cover the empty place where love should be." — <b>Leo Tolstoy</b></i>
+    <i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace." — <b>Confucius</b></i>
   </p>
 
   <p>
