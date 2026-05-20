@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"By words the mind is winged." — <b>Aristophanes</b></i>
+    <i>"The person who never made a mistake never tried anything new." — <b>Albert Einstein</b></i>
   </p>
 
   <p>
