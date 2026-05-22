@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves." — <b>Adi Da Samraj</b></i>
+    <i>"We run to win, not just to be in the race.  " — <b>Vince Lombardi</b></i>
   </p>
 
   <p>
