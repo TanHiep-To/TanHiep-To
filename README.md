@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Attitude drives actions. Actions drive results. Results drive lifestyles." — <b>Jim Rohn</b></i>
+    <i>"It's not what we do once in a while that shapes our lives, but what we do consistently." — <b>Tony Robbins</b></i>
   </p>
 
   <p>
