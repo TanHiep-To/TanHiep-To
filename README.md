@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I am not what happened to me, I am what I choose to become." — <b>Carl Jung</b></i>
+    <i>"It's possible in ways both large or small to make a difference in someone's life." — <b>Yanni</b></i>
   </p>
 
   <p>
