@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
+    <i>"Attitude drives actions. Actions drive results. Results drive lifestyles." — <b>Jim Rohn</b></i>
   </p>
 
   <p>
