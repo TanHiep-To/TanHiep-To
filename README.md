@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"When the fish is caught we pay no more attention to the trap." — <b>Huang Po</b></i>
+    <i>"Death smiles at us all. All we can do is smile back." — <b>Marcus Aurelius</b></i>
   </p>
 
   <p>
