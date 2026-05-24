@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"You can do nothing to change the past, and the future will never come exactly as you plan or hope for." — <b>Dan Millman</b></i>
+    <i>"Live, travel, adventure, bless, and don't be sorry." — <b>Jack Kerouac</b></i>
   </p>
 
   <p>
