@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting." — <b>Zig Ziglar</b></i>
+    <i>"It matters not what someone is born, but what they grow to be." — <b>Albus Dumbledore</b></i>
   </p>
 
   <p>
