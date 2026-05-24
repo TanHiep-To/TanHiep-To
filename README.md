@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Live, travel, adventure, bless, and don't be sorry." — <b>Jack Kerouac</b></i>
+    <i>"It is impossible for a man to learn what he thinks he already knows." — <b>Epictetus</b></i>
   </p>
 
   <p>
