@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Man is affected not by events but by the view he takes of them." — <b>Seneca</b></i>
+    <i>"Meditate. It won't be fun but it will surface what you need to deal with." — <b>Naval Ravikant</b></i>
   </p>
 
   <p>
