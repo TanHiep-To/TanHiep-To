@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A hut full of laughter is richer than a palace full of sadness." — <b>Zen Proverb</b></i>
+    <i>"You're on earth. There's no cure for that." — <b>Samuel Beckett</b></i>
   </p>
 
   <p>
