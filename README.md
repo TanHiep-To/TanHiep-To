@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It is those who concentrate on but one thing at a time who advance in this world." — <b>Gary Keller</b></i>
+    <i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again." — <b>Og Mandino</b></i>
   </p>
 
   <p>
