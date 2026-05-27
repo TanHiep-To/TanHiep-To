@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Don't give up the fight, Stand up for your rights." — <b>Bob Marley</b></i>
+    <i>"The only way round is through." — <b>Robert Frost</b></i>
   </p>
 
   <p>
