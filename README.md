@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Debt is the slavery of the free." — <b>Publilius Syrus</b></i>
+    <i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see." — <b>Leonardo da Vinci</b></i>
   </p>
 
   <p>
