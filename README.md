@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Thought is so cunning, so clever, that it distorts everything for its own convenience." — <b>Jiddu Krishnamurti</b></i>
+    <i>"The way to change others' minds is with affection, and not anger." — <b>Dalai Lama</b></i>
   </p>
 
   <p>
