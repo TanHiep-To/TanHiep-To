@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"To the mind that is still, the whole universe surrenders." — <b>Lao Tzu</b></i>
+    <i>"There's no coming to consciousness without pain" — <b>Carl Jung</b></i>
   </p>
 
   <p>
