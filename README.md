@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"All I can do is be me, whoever that is." — <b>Bob Dylan</b></i>
+    <i>"It's not the size of the dog in the fight, it's the size of the fight in the dog." — <b>Mark Twain</b></i>
   </p>
 
   <p>
