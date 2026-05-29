@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"An ounce of performance is worth pounds of promises." — <b>Mae West</b></i>
+    <i>"Freeing oneself from words is liberation." — <b>Bodhidharma</b></i>
   </p>
 
   <p>
