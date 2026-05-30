@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If you want work well done, select a busy man; the other kind has no time." — <b>Elbert Hubbard</b></i>
+    <i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations." — <b>Charles Swindoll</b></i>
   </p>
 
   <p>
