@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It is in changing that we find purpose." — <b>Heraclitus</b></i>
+    <i>"Those who know, do. Those that understand, teach." — <b>Aristotle</b></i>
   </p>
 
   <p>
