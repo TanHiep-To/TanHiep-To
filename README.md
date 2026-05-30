@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Quality is not an act, it is a habit." — <b>Aristotle</b></i>
+    <i>"Once you learn to quit, it becomes a habit." — <b>Vince Lombardi</b></i>
   </p>
 
   <p>
