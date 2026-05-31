@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Your heart is the size of an ocean. Go find yourself in its hidden depths." — <b>Rumi</b></i>
+    <i>"You win more from losing than winning." — <b>Morgan Wootten</b></i>
   </p>
 
   <p>
