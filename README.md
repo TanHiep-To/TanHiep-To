@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The pen is the tongue of the mind." — <b>Miguel de Cervantes</b></i>
+    <i>"Truth is such a rare thing, it is delighted to tell it." — <b>Emily Dickinson</b></i>
   </p>
 
   <p>
