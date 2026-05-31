@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"All human wisdom is contained in these two words - Wait and Hope" — <b>Alexandre Dumas</b></i>
+    <i>"Discipline is the bridge between goals and accomplishment." — <b>Jim Rohn</b></i>
   </p>
 
   <p>
