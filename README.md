@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The best mind-altering drug is the truth." — <b>Lily Tomlin</b></i>
+    <i>"Winners are not people who never fail, but people who never quit." — <b>Arnold Schwarzenegger</b></i>
   </p>
 
   <p>
