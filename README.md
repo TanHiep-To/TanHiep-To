@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you." — <b>Rumi</b></i>
+    <i>"Live as if you were to die tomorrow. Learn as if you were to live forever." — <b>Mahatma Gandhi</b></i>
   </p>
 
   <p>
