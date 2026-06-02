@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old." — <b>Franz Kafka</b></i>
+    <i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." — <b>Eckhart Tolle</b></i>
   </p>
 
   <p>
