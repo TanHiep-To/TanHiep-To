@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I succeeded by saying what everyone else is thinking." — <b>Joan Rivers</b></i>
+    <i>"There is no such thing as a great talent without great willpower." — <b>Honore de Balzac</b></i>
   </p>
 
   <p>
