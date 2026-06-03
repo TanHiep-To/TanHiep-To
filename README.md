@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Every strike brings me closer to the next home run." — <b>Babe Ruth</b></i>
+    <i>"Nothing external to you has any power over you." — <b>Ralph Waldo Emerson</b></i>
   </p>
 
   <p>
