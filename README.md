@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good morning ☀️, I'm Tan Hiep To</h1>
+  <h1>Good afternoon 👋, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"Deliberately seek the company of people who influence you to think and act on building the life you desire." — <b>Napoleon Hill</b></i>
+    <i>"If you cannot control your emotions, you cannot control your money." — <b>Warren Buffett</b></i>
   </p>
 
   <p>
