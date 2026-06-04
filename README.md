@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
+    <i>"When you want something in life, you just gotta reach out and grab it." — <b>Christopher McCandless</b></i>
   </p>
 
   <p>
