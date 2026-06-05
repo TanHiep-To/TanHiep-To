@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it." — <b>Gary Keller</b></i>
+    <i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through." — <b>Jonathan Swift</b></i>
   </p>
 
   <p>
