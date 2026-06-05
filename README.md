@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It's much better to do good in a way that no one knows anything about it." — <b>Leo Tolstoy</b></i>
+    <i>"Fools talk, cowards are silent, wise men listen." — <b>Carlos Ruiz Zafon</b></i>
   </p>
 
   <p>
