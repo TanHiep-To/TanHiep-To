@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"To some degree, you control your life by controlling your time." — <b>Conrad Hilton</b></i>
+    <i>"If you truly love Nature, you will find beauty everywhere." — <b>Vincent van Gogh</b></i>
   </p>
 
   <p>
