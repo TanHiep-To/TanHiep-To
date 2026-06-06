@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A goal is a dream with a deadline." — <b>Napoleon Hill</b></i>
+    <i>"Do not fear failure but rather fear not trying." — <b>Roy T. Bennett</b></i>
   </p>
 
   <p>
