@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"There is nothing in the world so irresistibly contagious as laughter and good humor." — <b>Charles Dickens</b></i>
+    <i>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds." — <b>Barack Obama</b></i>
   </p>
 
   <p>
