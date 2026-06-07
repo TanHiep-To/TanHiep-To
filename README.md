@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The person who says something is impossible should not interrupt the person who is doing it." — <b>Chinese Proverb</b></i>
+    <i>"Thinking is difficult, that's why most people judge." — <b>Carl Jung</b></i>
   </p>
 
   <p>
