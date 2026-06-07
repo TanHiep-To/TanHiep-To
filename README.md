@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good evening ☕, I'm Tan Hiep To</h1>
+  <h1>Good night 😴, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"We must learn to live together as brothers or perish together as fools." — <b>Martin Luther King, Jr.</b></i>
+    <i>"The person who says something is impossible should not interrupt the person who is doing it." — <b>Chinese Proverb</b></i>
   </p>
 
   <p>
