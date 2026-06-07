@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Yesterday is gone. Tomorrow has not yet come. We have only today." — <b>Mother Teresa</b></i>
+    <i>"There is no limit to the amount of good you can do if you don't care who gets the credit." — <b>Ronald Reagan</b></i>
   </p>
 
   <p>
