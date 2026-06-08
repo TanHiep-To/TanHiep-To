@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Everything you look at can become a fairy tale and you can get a story from everything you touch." — <b>Hans Christian Andersen</b></i>
+    <i>"Failure is not fatal, but failure to change might be." — <b>John Wooden</b></i>
   </p>
 
   <p>
