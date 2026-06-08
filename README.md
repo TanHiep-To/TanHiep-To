@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head." — <b>Eric Hoffer</b></i>
+    <i>"Character is the result of two things: mental attitude and the way we spend our time." — <b>Elbert Hubbard</b></i>
   </p>
 
   <p>
