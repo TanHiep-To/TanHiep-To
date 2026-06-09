@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The ego wants comfort and certainty. The soul wants to live fully." — <b>Maxime Lagace</b></i>
+    <i>"Riches don't make a man rich, they only make him busier." — <b>Christopher Columbus</b></i>
   </p>
 
   <p>
