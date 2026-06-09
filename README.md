@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Never do things others can do and will do if there are things others cannot do or will not do." — <b>Amelia Earhart</b></i>
+    <i>"Forever is composed of now's." — <b>Emily Dickinson</b></i>
   </p>
 
   <p>
