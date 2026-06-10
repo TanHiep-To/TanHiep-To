@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously." — <b>Steve Maraboli</b></i>
+    <i>"A memory is a beautiful thing, it's almost a desire that you miss." — <b>Gustave Flaubert</b></i>
   </p>
 
   <p>
