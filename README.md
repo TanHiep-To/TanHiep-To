@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"We have more possibilities available in each moment than we realize." — <b>Thich Nhat Hanh</b></i>
+    <i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself." — <b>Alan Watts</b></i>
   </p>
 
   <p>
