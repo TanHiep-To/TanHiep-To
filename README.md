@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Success is a consequence and must not be a goal." — <b>Gustave Flaubert</b></i>
+    <i>"We need never be ashamed of our tears." — <b>Charles Dickens</b></i>
   </p>
 
   <p>
