@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The most wasted day of all is that on which we have not laughed." — <b>Nicolas Chamfort</b></i>
+    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
