@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The wisest men follow their own direction." — <b>Euripides</b></i>
+    <i>"Study logic and math, because once you've mastered them, you won't fear any book." — <b>Naval Ravikant</b></i>
   </p>
 
   <p>
