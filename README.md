@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
+    <i>"Relax. Nothing is under control." — <b>Adi Da Samraj</b></i>
   </p>
 
   <p>
