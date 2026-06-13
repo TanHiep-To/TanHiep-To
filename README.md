@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The obstacle in the path becomes the path." — <b>Ryan Holiday</b></i>
+    <i>"If you want to see things just as they are, then you yourself must practice just as you are." — <b>Dogen</b></i>
   </p>
 
   <p>
