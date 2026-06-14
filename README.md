@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Walk towards the sunshine, and the shadows will fall behind you." — <b>Mary Engelbreit</b></i>
+    <i>"A journey of a thousand miles begins with a single step." — <b>Lao Tzu</b></i>
   </p>
 
   <p>
