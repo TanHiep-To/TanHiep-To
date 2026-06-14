@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Do not allow your inner doubts to keep you from achieving what you can do." — <b>Lolly Daskal</b></i>
+    <i>"A Penny Saved is a Penny Earned" — <b>Benjamin Franklin</b></i>
   </p>
 
   <p>
