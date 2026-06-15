@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion." — <b>Dalai Lama</b></i>
+    <i>"Loyalty and friendship are the most precious possessions a man can have." — <b>Herbert Hoover</b></i>
   </p>
 
   <p>
