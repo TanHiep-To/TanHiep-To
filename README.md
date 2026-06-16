@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Strategy is a commodity, execution is an art." — <b>Peter Drucker</b></i>
+    <i>"Nothing external to you has any power over you." — <b>Ralph Waldo Emerson</b></i>
   </p>
 
   <p>
