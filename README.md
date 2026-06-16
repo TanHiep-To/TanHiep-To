@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The less people know, the more stubbornly they know it." — <b>Osho</b></i>
+    <i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt." — <b>Jack London</b></i>
   </p>
 
   <p>
