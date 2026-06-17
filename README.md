@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition." — <b>John Eliot</b></i>
+    <i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing." — <b>Alan Watts</b></i>
   </p>
 
   <p>
