@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good evening ☕, I'm Tan Hiep To</h1>
+  <h1>Good night 😴, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"Quality is not an act, it is a habit." — <b>Aristotle</b></i>
+    <i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition." — <b>John Eliot</b></i>
   </p>
 
   <p>
