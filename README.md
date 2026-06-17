@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The first man gets the oyster, the second man gets the shell." — <b>Andrew Carnegie</b></i>
+    <i>"Be as fluid as water, do not give your enemies anything solid to attack." — <b>Robert Greene</b></i>
   </p>
 
   <p>
