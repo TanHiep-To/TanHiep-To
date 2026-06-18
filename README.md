@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"You live by what you thrill to, and there's the end of it." — <b>D. H. Lawrence</b></i>
+    <i>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common." — <b>John Locke</b></i>
   </p>
 
   <p>
