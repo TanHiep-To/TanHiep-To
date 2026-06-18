@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Every one of us is the sum total of his own thoughts." — <b>Earl Nightingale</b></i>
+    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
