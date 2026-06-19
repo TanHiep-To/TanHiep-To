@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A good salesman is like a good cook—he can create an appetite when the buyer isn't hungry." — <b>George Lorimer</b></i>
+    <i>"The health of nations is more important than the wealth of nations." — <b>Will Rogers</b></i>
   </p>
 
   <p>
