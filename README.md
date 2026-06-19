@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The soul is neither born, and nor does it die." — <b>Bhagavad Gita</b></i>
+    <i>"Surround yourself with only people who are going to lift you higher." — <b>Oprah Winfrey</b></i>
   </p>
 
   <p>
