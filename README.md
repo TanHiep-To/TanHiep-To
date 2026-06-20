@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer." — <b>Morihei Ueshiba</b></i>
+    <i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit." — <b>Napoleon Hill</b></i>
   </p>
 
   <p>
