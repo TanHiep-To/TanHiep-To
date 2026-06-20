@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work." — <b>Oprah Winfrey</b></i>
+    <i>"Showing off is the fool's idea of glory." — <b>Bruce Lee</b></i>
   </p>
 
   <p>
