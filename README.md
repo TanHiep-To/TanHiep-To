@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Identification with our mind causes thought to become compulsive." — <b>Eckhart Tolle</b></i>
+    <i>"When asked, how do you write? I invariably answer, one word at a time." — <b>Stephen King</b></i>
   </p>
 
   <p>
