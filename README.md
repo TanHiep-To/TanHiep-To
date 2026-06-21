@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The grass is greener where you water it." — <b>Neil Barringham</b></i>
+    <i>"Our attitude toward life determines life's attitude towards us." — <b>Earl Nightingale</b></i>
   </p>
 
   <p>
