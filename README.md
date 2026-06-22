@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The grass is greener where you water it." — <b>Neil Barringham</b></i>
+    <i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace." — <b>Ming-Dao Deng</b></i>
   </p>
 
   <p>
