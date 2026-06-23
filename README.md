@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Watch your actions, they become habits; watch your habits, they become character; watch your character, for it becomes your destiny." — <b>Jeff Booth</b></i>
+    <i>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated." — <b>Celestine Chua</b></i>
   </p>
 
   <p>
