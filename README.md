@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Not why the addiction but why the pain." — <b>Gabor Mate</b></i>
+    <i>"Talk does not cook rice." — <b>Chinese Proverb</b></i>
   </p>
 
   <p>
