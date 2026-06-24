@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people." — <b>Roy T. Bennett</b></i>
+    <i>"What have you done today to make someone else happy?" — <b>Deepam Chaterjee</b></i>
   </p>
 
   <p>
