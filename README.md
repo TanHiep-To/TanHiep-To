@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Wrong turns are as important as right turns. More important, sometimes." — <b>Richard Bach</b></i>
+    <i>"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy." — <b>Norman Vincent Peale</b></i>
   </p>
 
   <p>
