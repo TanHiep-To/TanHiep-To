@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years." — <b>Richard Bach</b></i>
+    <i>"Do what you feel in your heart to be right - for you'll be criticized anyway." — <b>Eleanor Roosevelt</b></i>
   </p>
 
   <p>
