@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It's not how much money you make, it's how much money you keep." — <b>Robert Kiyosaki</b></i>
+    <i>"The truth is simple. If it was complicated, everyone would understand it." — <b>Walt Whitman</b></i>
   </p>
 
   <p>
