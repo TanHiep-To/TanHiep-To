@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Silence is a source of great strength." — <b>Lao Tzu</b></i>
+    <i>"When you judge others, you do not define them, you define yourself." — <b>Earl Nightingale</b></i>
   </p>
 
   <p>
