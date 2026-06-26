@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"People tend to complicate their own lives, as if living weren't already complicated enough." — <b>Carlos Ruiz Zafon</b></i>
+    <i>"Optimism, when applied to your life, develops strength and peace within you." — <b>Norman Vincent Peale</b></i>
   </p>
 
   <p>
