@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"One never does wrong by doing right." — <b>Norman Vincent Peale</b></i>
+    <i>"Better to light a candle than to curse the darkness." — <b>Chinese Proverb</b></i>
   </p>
 
   <p>
