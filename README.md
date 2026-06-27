@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It doesn't matter how much you want. What really matters is how much you want it." — <b>Ralph Marston</b></i>
+    <i>"Be confident, not certain." — <b>Eleanor Roosevelt</b></i>
   </p>
 
   <p>
