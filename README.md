@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings." — <b>Henry Ward Beecher</b></i>
+    <i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." — <b>Brian Tracy</b></i>
   </p>
 
   <p>
