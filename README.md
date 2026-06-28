@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die." — <b>Gilbert Chesterton</b></i>
+    <i>"Humans and prosperity never endure side by side for long." — <b>Herodotus</b></i>
   </p>
 
   <p>
