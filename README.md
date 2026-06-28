@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Invest in as much of yourself as you can, you are your own biggest asset by far." — <b>Warren Buffett</b></i>
+    <i>"Most of the evil in this world is done by people with good intentions." — <b>T.S. Eliot</b></i>
   </p>
 
   <p>
