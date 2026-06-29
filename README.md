@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Victims recite problems, leaders provide solutions." — <b>Robin Sharma</b></i>
+    <i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach." — <b>Benjamin Mays</b></i>
   </p>
 
   <p>
