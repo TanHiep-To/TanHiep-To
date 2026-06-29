@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"You have as much laughter as you have faith." — <b>Martin Luther</b></i>
+    <i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you." — <b>T.S. Eliot</b></i>
   </p>
 
   <p>
