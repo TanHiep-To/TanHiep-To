@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"There is no path to Love. Love is the path." — <b>Dan Millman</b></i>
+    <i>"Each problem has a positive side." — <b>Og Mandino</b></i>
   </p>
 
   <p>
