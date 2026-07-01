@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Don't spend time beating on a wall, hoping to transform it into a door." — <b>Coco Chanel</b></i>
+    <i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge." — <b>Robert Greene</b></i>
   </p>
 
   <p>
