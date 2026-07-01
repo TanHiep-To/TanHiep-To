@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive." — <b>Herodotus</b></i>
+    <i>"When you want something in life, you just gotta reach out and grab it." — <b>Christopher McCandless</b></i>
   </p>
 
   <p>
