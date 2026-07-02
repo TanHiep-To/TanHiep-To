@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty." — <b>Theodore Roosevelt</b></i>
+    <i>"A minute's success pays the failure of years." — <b>Robert Browning</b></i>
   </p>
 
   <p>
