@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections." — <b>Lolly Daskal</b></i>
+    <i>"Don't wait for the right opportunity: create it." — <b>George Bernard Shaw</b></i>
   </p>
 
   <p>
