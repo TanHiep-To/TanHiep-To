@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Character is doing what you don't want to do but know you should do." — <b>Joyce Meyer</b></i>
+    <i>"It is safer to search in the maze than to remain in a cheeseless situation." — <b>Spencer Johnson</b></i>
   </p>
 
   <p>
