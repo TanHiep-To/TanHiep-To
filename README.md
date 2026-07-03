@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists." — <b>Spencer Johnson</b></i>
+    <i>"The person who cannot control his words shows that he cannot control himself." — <b>Robert Greene</b></i>
   </p>
 
   <p>
