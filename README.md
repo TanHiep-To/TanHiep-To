@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"We will outstretch the hand if you unclench your fist." — <b>Barack Obama</b></i>
+    <i>"There will always be suffering. But we must not suffer over the suffering." — <b>Alan Watts</b></i>
   </p>
 
   <p>
