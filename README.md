@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Make your mind your own business." — <b>Jack Butcher</b></i>
+    <i>"Men are equal; it is not birth but virtue that makes the difference." — <b>Voltaire</b></i>
   </p>
 
   <p>
