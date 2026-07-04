@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Your mind will make you rich or poor, depending on the use you put to it." — <b>Brian Tracy</b></i>
+    <i>"The only limits in our life are those we impose on ourselves." — <b>Bob Proctor</b></i>
   </p>
 
   <p>
