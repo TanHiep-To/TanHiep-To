@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A hut full of laughter is richer than a palace full of sadness." — <b>Zen Proverb</b></i>
+    <i>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us." — <b>Richard Bach</b></i>
   </p>
 
   <p>
