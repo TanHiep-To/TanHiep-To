@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"We win by helping each other win." — <b>Jack Butcher</b></i>
+    <i>"Take good advice, make sure it is good advice, then do it your way." — <b>Vidal Sassoon</b></i>
   </p>
 
   <p>
