@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves." — <b>Brian Tracy</b></i>
+    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
