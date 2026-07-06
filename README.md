@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"We must learn to live together as brothers or perish together as fools." — <b>Martin Luther King, Jr.</b></i>
+    <i>"A poet should be so crafty with words that he is envied even for his pains." — <b>Criss Jami</b></i>
   </p>
 
   <p>
