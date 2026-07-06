@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good afternoon 👋, I'm Tan Hiep To</h1>
+  <h1>Good night 😴, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"The secret of life is to fall seven times and to get up eight times." — <b>Paulo Coelho</b></i>
+    <i>"We must learn to live together as brothers or perish together as fools." — <b>Martin Luther King, Jr.</b></i>
   </p>
 
   <p>
