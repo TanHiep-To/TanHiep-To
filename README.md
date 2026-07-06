@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Everyone thinks of changing the world, but no one thinks of changing himself." — <b>Leo Tolstoy</b></i>
+    <i>"The best way to predict your future is to create it." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
