@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Faith is taking the first step even when you don't see the whole staircase." — <b>Martin Luther King, Jr.</b></i>
+    <i>"Good entrepreneurs don't fail because they stay at it." — <b>Naval Ravikant</b></i>
   </p>
 
   <p>
