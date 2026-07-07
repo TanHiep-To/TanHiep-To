@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Things may come to those who wait, but only the things left by those who hustle." — <b>Abraham Lincoln</b></i>
+    <i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them." — <b>Zig Ziglar</b></i>
   </p>
 
   <p>
