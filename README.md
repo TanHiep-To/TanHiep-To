@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Be confident, not certain." — <b>Eleanor Roosevelt</b></i>
+    <i>"Because of your smile, you make life more beautiful." — <b>Thich Nhat Hanh</b></i>
   </p>
 
   <p>
