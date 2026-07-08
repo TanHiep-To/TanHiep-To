@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"You only live once, but if you do it right, once is enough." — <b>Mae West</b></i>
+    <i>"Setting goals is the first step in turning the invisible into the visible." — <b>Tony Robbins</b></i>
   </p>
 
   <p>
