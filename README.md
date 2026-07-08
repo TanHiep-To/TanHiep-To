@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The clock indicates the moment...but what does eternity indicate?" — <b>Walt Whitman</b></i>
+    <i>"Poetry is written with tears, fiction with blood, and history with invisible ink." — <b>Carlos Ruiz Zafon</b></i>
   </p>
 
   <p>
