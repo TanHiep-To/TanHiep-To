@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Life belongs to the living, and he who lives must be prepared for changes." — <b>Johann Wolfgang von Goethe</b></i>
+    <i>"The reward of suffering is experience." — <b>Harry S. Truman</b></i>
   </p>
 
   <p>
