@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Art is the signature of civilizations." — <b>Beverly Sills</b></i>
+    <i>"You purchase pain with all that joy can give and die of nothing but a rage to live." — <b>Alexander Pope</b></i>
   </p>
 
   <p>
