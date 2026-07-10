@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Old age is like everything else. To make a success of it, you've got to start young." — <b>Theodore Roosevelt</b></i>
+    <i>"Don't let them drag you down by rumors. Just go with what you believe in." — <b>Michael Jordan</b></i>
   </p>
 
   <p>
