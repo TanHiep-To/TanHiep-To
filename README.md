@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Don't give up on your dreams, or your dreams will give up on you." — <b>John Wooden</b></i>
+    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
