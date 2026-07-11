@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A man with outward courage dares to die: a man with inner courage dares to live." — <b>Lao Tzu</b></i>
+    <i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience." — <b>Eleanor Roosevelt</b></i>
   </p>
 
   <p>
