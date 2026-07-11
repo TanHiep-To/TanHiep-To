@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"There are two things a person should never be angry at, what they can help, and what they cannot." — <b>Plato</b></i>
+    <i>"Don't set your own goals by what other people make important." — <b>Lolly Daskal</b></i>
   </p>
 
   <p>
