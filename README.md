@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions." — <b>Ming-Dao Deng</b></i>
+    <i>"Enthusiasm makes up for a host of deficiencies." — <b>Barack Obama</b></i>
   </p>
 
   <p>
