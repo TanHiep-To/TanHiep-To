@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Man is made by his belief. As he believes, so he is." — <b>Bhagavad Gita</b></i>
+    <i>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward." — <b>Unknown</b></i>
   </p>
 
   <p>
