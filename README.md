@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward." — <b>Unknown</b></i>
+    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
