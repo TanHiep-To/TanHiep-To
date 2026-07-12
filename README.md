@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities." — <b>Charles Dickens</b></i>
+    <i>"Never trust he who trusts everyone." — <b>Carlos Ruiz Zafon</b></i>
   </p>
 
   <p>
