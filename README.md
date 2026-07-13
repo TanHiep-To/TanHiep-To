@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Guilt is perhaps the most painful companion of death." — <b>Coco Chanel</b></i>
+    <i>"Those who look for the bad in people will surely find it." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
