@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Our stories may be singular, but our destination is shared." — <b>Barack Obama</b></i>
+    <i>"Guilt is perhaps the most painful companion of death." — <b>Coco Chanel</b></i>
   </p>
 
   <p>
