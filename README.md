@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Live your life as an exclamation rather than an explanation." — <b>Isaac Newton</b></i>
+    <i>"One loses many laughs by not laughing at oneself." — <b>Mary Engelbreit</b></i>
   </p>
 
   <p>
