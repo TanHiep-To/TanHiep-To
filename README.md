@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Distant water does not put out a nearby fire." — <b>Chinese Proverb</b></i>
+    <i>"Live your life as an exclamation rather than an explanation." — <b>Isaac Newton</b></i>
   </p>
 
   <p>
