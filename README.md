@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Often in the real world, it's not the smart that get ahead, but the bold." — <b>Robert Kiyosaki</b></i>
+    <i>"Go and do the things you can't. That is how you get to do them." — <b>Pablo Picasso</b></i>
   </p>
 
   <p>
