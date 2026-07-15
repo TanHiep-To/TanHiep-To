@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." — <b>Samuel Beckett</b></i>
+    <i>"The world would go on even without you. Don't take yourself so seriously." — <b>Norman Vincent Peale</b></i>
   </p>
 
   <p>
