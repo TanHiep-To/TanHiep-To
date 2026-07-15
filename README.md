@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"There is only one thing that makes a dream impossible to achieve: the fear of failure." — <b>Paulo Coelho</b></i>
+    <i>"When you move beyond your fear, you feel free." — <b>Spencer Johnson</b></i>
   </p>
 
   <p>
