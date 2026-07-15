@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The world would go on even without you. Don't take yourself so seriously." — <b>Norman Vincent Peale</b></i>
+    <i>"We learn to walk by falling down. If we never fell down, we would never walk." — <b>Robert Kiyosaki</b></i>
   </p>
 
   <p>
