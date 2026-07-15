@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Those who realize their folly are not true fools." — <b>Zhuangzi</b></i>
+    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
