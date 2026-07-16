@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted." — <b>Robert Collier</b></i>
+    <i>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections." — <b>Bob Marley</b></i>
   </p>
 
   <p>
