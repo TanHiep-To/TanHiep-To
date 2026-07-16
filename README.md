@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Successful people do what unsuccessful people are not willing to do." — <b>Jim Rohn</b></i>
+    <i>"To be truly ignorant, be content with your own knowledge." — <b>Zhuangzi</b></i>
   </p>
 
   <p>
