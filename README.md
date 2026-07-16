@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future." — <b>Earl Nightingale</b></i>
+    <i>"If anything is worth doing, do it with all your heart." — <b>Buddha</b></i>
   </p>
 
   <p>
