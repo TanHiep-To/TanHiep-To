@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were." — <b>Kahlil Gibran</b></i>
+    <i>"The road to success and the road to failure are almost exactly the same." — <b>Colin R. Davis</b></i>
   </p>
 
   <p>
