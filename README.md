@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"As a matter of fact is an expression that precedes many an expression that isn't." — <b>Laurence J. Peter</b></i>
+    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
