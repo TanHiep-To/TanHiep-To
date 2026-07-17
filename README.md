@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Life must be a constant education; one must learn everything, from speaking to dying." — <b>Gustave Flaubert</b></i>
+    <i>"Nothing important is learned; it is simply remembered." — <b>Carlos Ruiz Zafon</b></i>
   </p>
 
   <p>
