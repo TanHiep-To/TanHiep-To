@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better." — <b>Benjamin Mays</b></i>
+    <i>"As a matter of fact is an expression that precedes many an expression that isn't." — <b>Laurence J. Peter</b></i>
   </p>
 
   <p>
