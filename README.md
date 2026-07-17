@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"In order to attain the impossible, one must attempt the absurd." — <b>Miguel de Cervantes</b></i>
+    <i>"Life must be a constant education; one must learn everything, from speaking to dying." — <b>Gustave Flaubert</b></i>
   </p>
 
   <p>
