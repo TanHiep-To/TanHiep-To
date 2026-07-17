@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The first step toward getting somewhere is to decide that you are not going to stay where you are." — <b>Unknown</b></i>
+    <i>"Be polite to all, but intimate with few." — <b>Thomas Jefferson</b></i>
   </p>
 
   <p>
