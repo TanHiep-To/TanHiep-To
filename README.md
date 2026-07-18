@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A Rolling Stone Gathers No Moss." — <b>Publilius Syrus</b></i>
+    <i>"To forgive means pardoning the unpardonable." — <b>Gilbert Chesterton</b></i>
   </p>
 
   <p>
