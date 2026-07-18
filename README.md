@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"To forgive means pardoning the unpardonable." — <b>Gilbert Chesterton</b></i>
+    <i>"Everything has beauty but not everyone sees it." — <b>Confucius</b></i>
   </p>
 
   <p>
