@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Every day may not be good, but there's something good in every day." — <b>Unknown</b></i>
+    <i>"It's easier to lose than to win." — <b>Wayne Gretzky</b></i>
   </p>
 
   <p>
