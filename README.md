@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought." — <b>Napoleon Hill</b></i>
+    <i>"There is only the one reality, neither to be realized nor attained." — <b>Huang Po</b></i>
   </p>
 
   <p>
