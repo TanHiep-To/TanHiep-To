@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand." — <b>Colin Powell</b></i>
+    <i>"Surround yourself only with people who are going to take you higher." — <b>Oprah Winfrey</b></i>
   </p>
 
   <p>
