@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The dreamers are the saviors of the worlds." — <b>James Allen</b></i>
+    <i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought." — <b>Napoleon Hill</b></i>
   </p>
 
   <p>
