@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Eighty percent of success is showing up." — <b>Woody Allen</b></i>
+    <i>"Life is the dancer and you are the dance." — <b>Eckhart Tolle</b></i>
   </p>
 
   <p>
