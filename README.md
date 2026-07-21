@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The single most powerful asset we all have is our mind." — <b>Robert Kiyosaki</b></i>
+    <i>"Nothing like a health problem to turn up the contrast dial for the rest of life." — <b>Naval Ravikant</b></i>
   </p>
 
   <p>
