@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"When you've got nothing, you've got nothing to lose." — <b>Bob Dylan</b></i>
+    <i>"The most important battle is one to conquer yourself." — <b>Yanni</b></i>
   </p>
 
   <p>
