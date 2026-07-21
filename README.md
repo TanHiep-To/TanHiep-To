@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The thing about smart people is that they seem like crazy people to dumb people." — <b>Stephen Hawking</b></i>
+    <i>"So we beat on, boats against the current, borne back ceaselessly into the past." — <b>F. Scott Fitzgerald</b></i>
   </p>
 
   <p>
