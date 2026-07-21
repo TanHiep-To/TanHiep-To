@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Do not take life too seriously. You will never get out of it alive." — <b>Elbert Hubbard</b></i>
+    <i>"Distant water does not put out a nearby fire." — <b>Chinese Proverb</b></i>
   </p>
 
   <p>
