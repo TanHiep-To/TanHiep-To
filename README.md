@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"When your intuition is strong, follow it." — <b>Lolly Daskal</b></i>
+    <i>"Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality." — <b>Earl Nightingale</b></i>
   </p>
 
   <p>
