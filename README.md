@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it." — <b>Dan Millman</b></i>
+    <i>"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties." — <b>Harry S. Truman</b></i>
   </p>
 
   <p>
