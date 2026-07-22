@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The wise man reads both books and life itself." — <b>Lin Yutang</b></i>
+    <i>"Go confidently in the direction of your dreams. Live the life you've imagined." — <b>Arnold Schwarzenegger</b></i>
   </p>
 
   <p>
