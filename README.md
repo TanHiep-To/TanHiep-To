@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I will not walk backward in life." — <b>J.R.R. Tolkien</b></i>
+    <i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form." — <b>Paramahansa Yogananda</b></i>
   </p>
 
   <p>
