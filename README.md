@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Superstars think like superstars long before the fans or the press anoint them." — <b>John Eliot</b></i>
+    <i>"In all chaos there is a cosmos, in all disorder a secret order." — <b>Carl Jung</b></i>
   </p>
 
   <p>
