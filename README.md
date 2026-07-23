@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The world is changed by your example, not by your opinion." — <b>Paulo Coelho</b></i>
+    <i>"One of the advantages of being disorganized is that one is always having surprising discoveries." — <b>A.A. Milne</b></i>
   </p>
 
   <p>
