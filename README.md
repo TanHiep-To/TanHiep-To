@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The wise warrior avoids the battle." — <b>Sun Tzu</b></i>
+    <i>"I've always lived in the moment." — <b>Yanni</b></i>
   </p>
 
   <p>
