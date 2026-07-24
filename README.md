@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace." — <b>Ming-Dao Deng</b></i>
+    <i>"There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect." — <b>Ronald Reagan</b></i>
   </p>
 
   <p>
