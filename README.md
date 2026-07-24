@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Don't be afraid to stand for what you believe in, even if that means standing alone." — <b>Unknown</b></i>
+    <i>"Time is a game played beautifully by children." — <b>Heraclitus</b></i>
   </p>
 
   <p>
