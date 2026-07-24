@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Be true to yourself, help others, make each day your masterpiece" — <b>John Wooden</b></i>
+    <i>"I walk slowly, but I never walk backwards." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
