@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The more we value things, the less we value ourselves." — <b>Bruce Lee</b></i>
+    <i>"No amount of regretting can change the past, and no amount of worrying can change the future." — <b>Roy T. Bennett</b></i>
   </p>
 
   <p>
