@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"No amount of regretting can change the past, and no amount of worrying can change the future." — <b>Roy T. Bennett</b></i>
+    <i>"You may be disappointed if you fail, but you are doomed if you don't try." — <b>Beverly Sills</b></i>
   </p>
 
   <p>
