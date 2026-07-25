@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I am always doing what I cannot do yet, in order to learn how to do it." — <b>Vincent van Gogh</b></i>
+    <i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day." — <b>Paulo Coelho</b></i>
   </p>
 
   <p>
