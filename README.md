@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Do not believe that you will reach your destination without leaving the shore." — <b>Chinese Proverb</b></i>
+    <i>"I am always doing what I cannot do yet, in order to learn how to do it." — <b>Vincent van Gogh</b></i>
   </p>
 
   <p>
