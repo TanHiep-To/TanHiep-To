@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Only in the agony of parting do we look into the depths of love." — <b>George Eliot</b></i>
+    <i>"Better to die fighting for freedom than be a prisoner all the days of your life." — <b>Bob Marley</b></i>
   </p>
 
   <p>
