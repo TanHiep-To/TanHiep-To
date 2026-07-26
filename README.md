@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"How many times do you have to get hit over the head until you figure out who's hitting you?" — <b>Harry S. Truman</b></i>
+    <i>"To get angry is like to revenge yourself for the guilt of others." — <b>Jonathan Swift</b></i>
   </p>
 
   <p>
