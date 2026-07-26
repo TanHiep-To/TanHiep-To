@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"We suffer more often in imagination than in reality." — <b>Seneca</b></i>
+    <i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it." — <b>Dan Millman</b></i>
   </p>
 
   <p>
