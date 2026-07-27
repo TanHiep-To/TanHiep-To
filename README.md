@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Simple words, repeated daily, can change your life." — <b>Maxime Lagace</b></i>
+    <i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom." — <b>Voltaire</b></i>
   </p>
 
   <p>
