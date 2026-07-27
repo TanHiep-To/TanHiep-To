@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Most of us will do anything to avoid facing ourselves." — <b>Lolly Daskal</b></i>
+    <i>"Whatever happens always happens on time." — <b>Zen Proverb</b></i>
   </p>
 
   <p>
