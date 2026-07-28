@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The important thing is not to stop questioning. Curiosity has its own reason for existing." — <b>Albert Einstein</b></i>
+    <i>"Expectations ruin relationships." — <b>Neale Donald Walsch</b></i>
   </p>
 
   <p>
