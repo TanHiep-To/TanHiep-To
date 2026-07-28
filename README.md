@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Success on the outside means nothing unless you also have success within." — <b>Robin Sharma</b></i>
+    <i>"When at last you are come to the ocean of happiness, do not go back thirsty." — <b>Kabir</b></i>
   </p>
 
   <p>
