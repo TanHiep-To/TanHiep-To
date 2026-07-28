@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Confidence comes not from always being right but not fearing to be wrong." — <b>Unknown</b></i>
+    <i>"The only limits in our life are those we impose on ourselves." — <b>Bob Proctor</b></i>
   </p>
 
   <p>
