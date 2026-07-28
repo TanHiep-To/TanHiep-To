@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances." — <b>Thomas Jefferson</b></i>
+    <i>"Learn only how to avoid seeking for and attaching yourselves to anything." — <b>Huang Po</b></i>
   </p>
 
   <p>
