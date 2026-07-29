@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy." — <b>Wayne Gretzky</b></i>
+    <i>"Success in any endeavor depends on the degree to which it is an expression of your true self." — <b>Ralph Marston</b></i>
   </p>
 
   <p>
