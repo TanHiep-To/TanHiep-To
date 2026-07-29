@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Wealth consists not in having great possessions, but in having few wants." — <b>Epictetus</b></i>
+    <i>"Today you are you, that is truer than true. There is no one alive who is you-er than you." — <b>Dr. Seuss</b></i>
   </p>
 
   <p>
