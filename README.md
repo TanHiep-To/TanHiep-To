@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"There are no limitations to the mind except those we acknowledge..." — <b>Napoleon Hill</b></i>
+    <i>"Those who are possessed by nothing possess everything." — <b>Morihei Ueshiba</b></i>
   </p>
 
   <p>
