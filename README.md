@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If you're really truthful with yourself, it's a wonderful guidance." — <b>Charlie Chaplin</b></i>
+    <i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life." — <b>Roy T. Bennett</b></i>
   </p>
 
   <p>
