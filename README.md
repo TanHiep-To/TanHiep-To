@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The opportunity of defeating the enemy is provided by the enemy himself." — <b>Sun Tzu</b></i>
+    <i>"Be curious, not judgmental." — <b>Walt Whitman</b></i>
   </p>
 
   <p>
