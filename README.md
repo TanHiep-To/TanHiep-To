@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Cease striving. Then there will be transformation." — <b>Zhuangzi</b></i>
+    <i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it." — <b>Laurence J. Peter</b></i>
   </p>
 
   <p>
