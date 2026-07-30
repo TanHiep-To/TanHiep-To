@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Beauty is not in the face; beauty is a light in the heart." — <b>Kahlil Gibran</b></i>
+    <i>"The power of human thought grows exponentially with the number of minds that share that thought." — <b>Dan Brown</b></i>
   </p>
 
   <p>
