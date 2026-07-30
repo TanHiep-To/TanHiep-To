@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are." — <b>Sathya Sai Baba</b></i>
+    <i>"If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success." — <b>Mark Manson</b></i>
   </p>
 
   <p>
