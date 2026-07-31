@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The greatest mistake you can make in life is to be continually fearing you will make one." — <b>Elbert Hubbard</b></i>
+    <i>"Everyone sees what you appear to be, few experience what you really are." — <b>Niccolo Machiavelli</b></i>
   </p>
 
   <p>
