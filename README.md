@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." — <b>Thomas Edison</b></i>
+    <i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless." — <b>Maxime Lagace</b></i>
   </p>
 
   <p>
