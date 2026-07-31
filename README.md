@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples." — <b>Mother Teresa</b></i>
+    <i>"What we desire makes us vulnerable." — <b>Ryan Holiday</b></i>
   </p>
 
   <p>
