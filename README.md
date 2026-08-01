@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I didn't get there by wishing for it or hoping for it, but by working for it." — <b>Estee Lauder</b></i>
+    <i>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable." — <b>Maxime Lagace</b></i>
   </p>
 
   <p>
