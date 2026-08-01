@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Be not afraid of growing slowly, be afraid only of standing still." — <b>Chinese Proverb</b></i>
+    <i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases." — <b>Sathya Sai Baba</b></i>
   </p>
 
   <p>
