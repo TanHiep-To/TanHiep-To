@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If you are lucky enough to find love, remember it is there and don't throw it away." — <b>Stephen Hawking</b></i>
+    <i>"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." — <b>Gary Keller</b></i>
   </p>
 
   <p>
