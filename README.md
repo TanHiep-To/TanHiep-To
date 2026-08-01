@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Adventure is worthwhile in itself." — <b>Amelia Earhart</b></i>
+    <i>"I didn't get there by wishing for it or hoping for it, but by working for it." — <b>Estee Lauder</b></i>
   </p>
 
   <p>
