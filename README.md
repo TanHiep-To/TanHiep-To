@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"To be prepared is half the victory." — <b>Miguel de Cervantes</b></i>
+    <i>"It's okay to be discouraged. It's not okay to quit." — <b>Ryan Holiday</b></i>
   </p>
 
   <p>
