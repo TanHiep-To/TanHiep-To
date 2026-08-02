@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good night 😴, I'm Tan Hiep To</h1>
+  <h1>Good morning ☀️, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable." — <b>Maxime Lagace</b></i>
+    <i>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive." — <b>Anne Wilson Schaef</b></i>
   </p>
 
   <p>
