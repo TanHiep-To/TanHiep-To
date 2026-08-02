@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Be brave enough to suck at something new." — <b>Unknown</b></i>
+    <i>"Circumstances do not make the man, they reveal him." — <b>James Allen</b></i>
   </p>
 
   <p>
