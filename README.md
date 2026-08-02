@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." — <b>Winston Churchill</b></i>
+    <i>"To be prepared is half the victory." — <b>Miguel de Cervantes</b></i>
   </p>
 
   <p>
