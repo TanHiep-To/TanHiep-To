@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting." — <b>Bhagavad Gita</b></i>
+    <i>"Care about what other people think and you will always be their prisoner." — <b>Lao Tzu</b></i>
   </p>
 
   <p>
