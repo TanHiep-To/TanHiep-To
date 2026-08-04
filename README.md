@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Always render more and better service than is expected of you, no matter what your task may be." — <b>Og Mandino</b></i>
+    <i>"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet." — <b>Thich Nhat Hanh</b></i>
   </p>
 
   <p>
