@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Even if you're sure you can win, be careful that you can live with what you lose." — <b>Gary Keller</b></i>
+    <i>"Nothing endures but change." — <b>Heraclitus</b></i>
   </p>
 
   <p>
