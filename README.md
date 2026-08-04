@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"There are no second chances in life, except to feel remorse." — <b>Carlos Ruiz Zafon</b></i>
+    <i>"Rivers know this: there is no hurry. We shall get there some day." — <b>A.A. Milne</b></i>
   </p>
 
   <p>
