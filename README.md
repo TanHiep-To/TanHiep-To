@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Why live an ordinary life, when you can live an extraordinary one." — <b>Tony Robbins</b></i>
+    <i>"The biggest adventure you can ever take is to live the life of your dreams." — <b>Oprah Winfrey</b></i>
   </p>
 
   <p>
