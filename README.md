@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"See what you're doing wrong, laugh at it, change and do better." — <b>Spencer Johnson</b></i>
+    <i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength." — <b>Criss Jami</b></i>
   </p>
 
   <p>
