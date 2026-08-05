@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It is easier to put leather on the soles of one's feet than cover the world with leather." — <b>Tibetan Proverb</b></i>
+    <i>"If everyone is moving forward together, then success takes care of itself." — <b>Henry Ford</b></i>
   </p>
 
   <p>
