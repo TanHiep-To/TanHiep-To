@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Those who bring sunshine into the lives of others cannot keep it from themselves." — <b>James Matthew Barrie</b></i>
+    <i>"For the things we have to learn before we can do them, we learn by doing them." — <b>Aristotle</b></i>
   </p>
 
   <p>
