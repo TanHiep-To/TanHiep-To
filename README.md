@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I must also have a dark side if I am to be whole." — <b>Carl Jung</b></i>
+    <i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people." — <b>Eleanor Roosevelt</b></i>
   </p>
 
   <p>
