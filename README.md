@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"When you're at the end of your rope, tie a knot and hold on." — <b>Theodore Roosevelt</b></i>
+    <i>"Anger begins with folly, and ends with repentance." — <b>Beverly Sills</b></i>
   </p>
 
   <p>
