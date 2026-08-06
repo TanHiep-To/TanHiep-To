@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"We would accomplish many more things if we did not think of them as impossible." — <b>Vince Lombardi</b></i>
+    <i>"No tree, it is said, can grow to heaven unless its roots reach down to hell." — <b>Carl Jung</b></i>
   </p>
 
   <p>
