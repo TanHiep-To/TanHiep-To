@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Anyone who reads a book with a sense of obligation does not understand the art of reading." — <b>Lin Yutang</b></i>
+    <i>"One never does wrong by doing right." — <b>Norman Vincent Peale</b></i>
   </p>
 
   <p>
