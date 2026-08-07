@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Many people spend more time looking at their failures than focusing on their successes." — <b>Lolly Daskal</b></i>
+    <i>"Be a master of change rather than a victim of change." — <b>Brian Tracy</b></i>
   </p>
 
   <p>
