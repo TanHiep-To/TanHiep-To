@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Longevity is a fleeting moment that lasts forever." — <b>Vidal Sassoon</b></i>
+    <i>"Success usually comes to those who are too busy to be looking for it." — <b>Colin R. Davis</b></i>
   </p>
 
   <p>
