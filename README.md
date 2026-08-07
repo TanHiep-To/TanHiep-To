@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Success usually comes to those who are too busy to be looking for it." — <b>Colin R. Davis</b></i>
+    <i>"Do not use life to give life to death. Do not use death to bring death to life." — <b>Zhuangzi</b></i>
   </p>
 
   <p>
