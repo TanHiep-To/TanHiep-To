@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Be a good animal, true to your instincts." — <b>D. H. Lawrence</b></i>
+    <i>"The sun is new each day." — <b>Heraclitus</b></i>
   </p>
 
   <p>
