@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"In all chaos there is a cosmos, in all disorder a secret order." — <b>Carl Jung</b></i>
+    <i>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future." — <b>Nicolas Chamfort</b></i>
   </p>
 
   <p>
