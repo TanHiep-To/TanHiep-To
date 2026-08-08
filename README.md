@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"In all chaos there is a cosmos, in all disorder a secret order." — <b>Carl Jung</b></i>
+    <i>"You miss 100% of the shots you don't take." — <b>Wayne Gretzky</b></i>
   </p>
 
   <p>
