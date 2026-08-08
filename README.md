@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It's not what you pay a man, but what he costs you that counts." — <b>Will Rogers</b></i>
+    <i>"Appear weak when you are strong, and strong when you are weak." — <b>Sun Tzu</b></i>
   </p>
 
   <p>
