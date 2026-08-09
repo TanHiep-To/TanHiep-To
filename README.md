@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Life happens in the river, not the shore." — <b>Maxime Lagace</b></i>
+    <i>"A wise person should have money in their head, but not in their heart." — <b>Jonathan Swift</b></i>
   </p>
 
   <p>
