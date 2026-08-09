@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The happiest people in the world are those who feel absolutely terrific about themselves." — <b>Brian Tracy</b></i>
+    <i>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard." — <b>Colin Powell</b></i>
   </p>
 
   <p>
