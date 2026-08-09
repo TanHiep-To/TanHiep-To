@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A wise person should have money in their head, but not in their heart." — <b>Jonathan Swift</b></i>
+    <i>"You talk when you cease to be at peace with your thoughts." — <b>Kahlil Gibran</b></i>
   </p>
 
   <p>
