@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It is not the knowing that is difficult, but the doing." — <b>Chinese Proverb</b></i>
+    <i>"Life has no limitations except the ones you make." — <b>Les Brown</b></i>
   </p>
 
   <p>
