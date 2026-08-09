@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good night 😴, I'm Tan Hiep To</h1>
+  <h1>Good morning ☀️, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"You miss 100% of the shots you don't take." — <b>Wayne Gretzky</b></i>
+    <i>"It is not the knowing that is difficult, but the doing." — <b>Chinese Proverb</b></i>
   </p>
 
   <p>
