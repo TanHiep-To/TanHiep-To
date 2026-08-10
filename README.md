@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes." — <b>Peter Drucker</b></i>
+    <i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy." — <b>Ralph Marston</b></i>
   </p>
 
   <p>
