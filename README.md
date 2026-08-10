@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"What you resist, persists." — <b>Carl Jung</b></i>
+    <i>"Once you choose hope, anything's possible." — <b>Christopher Reeve</b></i>
   </p>
 
   <p>
