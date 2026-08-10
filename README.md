@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create." — <b>Earl Nightingale</b></i>
+    <i>"Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him." — <b>James Allen</b></i>
   </p>
 
   <p>
