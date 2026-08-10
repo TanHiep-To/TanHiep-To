@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Today is the oldest you've ever been, and the youngest you'll ever be again." — <b>Eleanor Roosevelt</b></i>
+    <i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes." — <b>Peter Drucker</b></i>
   </p>
 
   <p>
