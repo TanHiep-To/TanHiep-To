@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you." — <b>Dale Carnegie</b></i>
+    <i>"Living life in style also means living a life of balance." — <b>Jim Rohn</b></i>
   </p>
 
   <p>
