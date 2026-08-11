@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today." — <b>Thich Nhat Hanh</b></i>
+    <i>"The measure of who we are is what we do with what we have." — <b>Vince Lombardi</b></i>
   </p>
 
   <p>
