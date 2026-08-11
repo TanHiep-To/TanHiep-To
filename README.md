@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The measure of who we are is what we do with what we have." — <b>Vince Lombardi</b></i>
+    <i>"If you always do what you've always done, you'll always get what you've always got." — <b>Henry Ford</b></i>
   </p>
 
   <p>
