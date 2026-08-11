@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Empty yourself of everything - let the mind become still." — <b>Lao Tzu</b></i>
+    <i>"Each day your life grows a day shorter. Make every move count." — <b>Ming-Dao Deng</b></i>
   </p>
 
   <p>
