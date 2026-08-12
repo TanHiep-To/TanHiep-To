@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths." — <b>Charles Spurgeon</b></i>
+    <i>"Patience is a bitter plant, but its fruit is sweet." — <b>Chinese Proverb</b></i>
   </p>
 
   <p>
