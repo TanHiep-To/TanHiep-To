@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The older you get, the better you get. Unless you're a banana." — <b>Betty White</b></i>
+    <i>"Growth is in a series of mistakes. That's the only way you learn." — <b>Steve Harvey</b></i>
   </p>
 
   <p>
