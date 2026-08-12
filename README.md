@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Risk comes from not knowing what you're doing." — <b>Warren Buffett</b></i>
+    <i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it." — <b>Vincent van Gogh</b></i>
   </p>
 
   <p>
