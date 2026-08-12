@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you." — <b>T.S. Eliot</b></i>
+    <i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths." — <b>Charles Spurgeon</b></i>
   </p>
 
   <p>
