@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Only those who will risk going too far can possibly find out how far one can go." — <b>T.S. Eliot</b></i>
+    <i>"Life is all about mistakes. It is constant change and growth." — <b>Neale Donald Walsch</b></i>
   </p>
 
   <p>
