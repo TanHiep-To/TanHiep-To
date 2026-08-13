@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding." — <b>John D. Rockefeller</b></i>
+    <i>"Loyalty and friendship are the most precious possessions a man can have." — <b>Herbert Hoover</b></i>
   </p>
 
   <p>
