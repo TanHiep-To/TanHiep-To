@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Avoiding failure is to avoid progress." — <b>Unknown</b></i>
+    <i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." — <b>Eckhart Tolle</b></i>
   </p>
 
   <p>
