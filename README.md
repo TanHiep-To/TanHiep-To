@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Loyalty and friendship are the most precious possessions a man can have." — <b>Herbert Hoover</b></i>
+    <i>"The danger of an adventure is worth a thousand days of ease and comfort." — <b>Paulo Coelho</b></i>
   </p>
 
   <p>
