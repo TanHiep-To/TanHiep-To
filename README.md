@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Patience is a bitter plant, but its fruit is sweet." — <b>Chinese Proverb</b></i>
+    <i>"What most people need to learn in life is how to love people and use things instead of using people and loving things." — <b>Unknown</b></i>
   </p>
 
   <p>
