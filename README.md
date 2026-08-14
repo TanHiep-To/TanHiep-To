@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Don't risk what is important to you, to get what is not important to you." — <b>Warren Buffett</b></i>
+    <i>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!" — <b>Tony Robbins</b></i>
   </p>
 
   <p>
