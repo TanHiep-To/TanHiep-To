@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Adults are just children who earn money." — <b>Kenneth Branagh</b></i>
+    <i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." — <b>Colin Powell</b></i>
   </p>
 
   <p>
