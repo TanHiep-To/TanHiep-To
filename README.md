@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." — <b>Colin Powell</b></i>
+    <i>"You can't go forward and backwards at the same time." — <b>Steve Harvey</b></i>
   </p>
 
   <p>
