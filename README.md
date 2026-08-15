@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The guest will judge better of a feast than the cook." — <b>Aristotle</b></i>
+    <i>"Thinking is the hardest work there is, which is probably the reason why so few engage in it." — <b>Henry Ford</b></i>
   </p>
 
   <p>
