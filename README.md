@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The degree of responsibility you take for your life determines how much change you can create in it." — <b>Celestine Chua</b></i>
+    <i>"Unlike the stomach, the brain doesn't alert you when it's empty." — <b>Arabic Proverb</b></i>
   </p>
 
   <p>
