@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Unlike the stomach, the brain doesn't alert you when it's empty." — <b>Arabic Proverb</b></i>
+    <i>"It is better to fail in originality than to succeed in imitation." — <b>Herman Melville</b></i>
   </p>
 
   <p>
