@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Life is much more successfully looked at from a single window." — <b>F. Scott Fitzgerald</b></i>
+    <i>"People become attached to their burdens sometimes more than the burdens are attached to them." — <b>George Bernard Shaw</b></i>
   </p>
 
   <p>
