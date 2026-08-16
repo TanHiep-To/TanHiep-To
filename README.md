@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time." — <b>Thomas Jefferson</b></i>
+    <i>"In all chaos there is a cosmos, in all disorder a secret order." — <b>Carl Jung</b></i>
   </p>
 
   <p>
