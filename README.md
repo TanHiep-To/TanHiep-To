@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are." — <b>Sathya Sai Baba</b></i>
+    <i>"Life is much more successfully looked at from a single window." — <b>F. Scott Fitzgerald</b></i>
   </p>
 
   <p>
