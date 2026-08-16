@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Only the hand that erases can write the true thing." — <b>Meister Eckhart</b></i>
+    <i>"Make each day your masterpiece." — <b>John Wooden</b></i>
   </p>
 
   <p>
