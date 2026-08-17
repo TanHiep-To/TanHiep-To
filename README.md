@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Sometimes you have to lose all you have to find out who you truly are." — <b>Roy T. Bennett</b></i>
+    <i>"The hard path is often the right one. The river teaches more than the shore." — <b>Maxime Lagace</b></i>
   </p>
 
   <p>
