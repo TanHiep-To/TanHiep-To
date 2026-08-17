@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The present moment is filled with joy and happiness. If you are attentive, you will see it." — <b>Thich Nhat Hanh</b></i>
+    <i>"Whatever you are, be a good one." — <b>Abraham Lincoln</b></i>
   </p>
 
   <p>
