@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The key to success is action." — <b>Brian Tracy</b></i>
+    <i>"Don't let the noise of others' opinions drown out your own inner voice." — <b>Steve Jobs</b></i>
   </p>
 
   <p>
