@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die." — <b>Gilbert Chesterton</b></i>
+    <i>"Sometimes you have to lose all you have to find out who you truly are." — <b>Roy T. Bennett</b></i>
   </p>
 
   <p>
