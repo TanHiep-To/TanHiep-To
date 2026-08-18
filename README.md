@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it." — <b>Gurbaksh Chahal</b></i>
+    <i>"You may delay, but time will not." — <b>Benjamin Franklin</b></i>
   </p>
 
   <p>
