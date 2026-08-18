@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good afternoon 👋, I'm Tan Hiep To</h1>
+  <h1>Good evening ☕, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"You may delay, but time will not." — <b>Benjamin Franklin</b></i>
+    <i>"Failure means you've now learned another valuable lesson that pushes you one step closer to success." — <b>Steve Harvey</b></i>
   </p>
 
   <p>
