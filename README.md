@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If you cannot understand something, then you have understood it incorrectly." — <b>Kabir</b></i>
+    <i>"Opportunities multiply as they are seized." — <b>Sun Tzu</b></i>
   </p>
 
   <p>
