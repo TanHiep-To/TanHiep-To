@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A Penny Saved is a Penny Earned" — <b>Benjamin Franklin</b></i>
+    <i>"There's no next time. It's now or never." — <b>Celestine Chua</b></i>
   </p>
 
   <p>
