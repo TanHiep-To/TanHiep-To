@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Opportunities multiply as they are seized." — <b>Sun Tzu</b></i>
+    <i>"Sorrow is how we learn to love." — <b>Rita Mae Brown</b></i>
   </p>
 
   <p>
