@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A friend to all is a friend to none." — <b>Aristotle</b></i>
+    <i>"The friend is the man who knows all about you, and still likes you." — <b>Elbert Hubbard</b></i>
   </p>
 
   <p>
