@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good afternoon 👋, I'm Tan Hiep To</h1>
+  <h1>Good evening ☕, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding." — <b>Shunryu Suzuki</b></i>
+    <i>"Don't wait for the right opportunity: create it." — <b>George Bernard Shaw</b></i>
   </p>
 
   <p>
