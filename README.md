@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Life is a process. We are a process. The universe is a process." — <b>Anne Wilson Schaef</b></i>
+    <i>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding." — <b>Shunryu Suzuki</b></i>
   </p>
 
   <p>
