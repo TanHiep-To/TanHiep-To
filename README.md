@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Preoccupied with a single leaf you won't see the tree." — <b>Unknown</b></i>
+    <i>"Work harder on yourself than you do on your job." — <b>Jim Rohn</b></i>
   </p>
 
   <p>
