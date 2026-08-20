@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"No one can confidently say that he will still be living tomorrow." — <b>Euripides</b></i>
+    <i>"Only by acceptance of the past, can you alter it." — <b>T.S. Eliot</b></i>
   </p>
 
   <p>
