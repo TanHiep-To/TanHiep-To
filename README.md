@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life." — <b>Roy T. Bennett</b></i>
+    <i>"The future depends on what you do today." — <b>Mahatma Gandhi</b></i>
   </p>
 
   <p>
