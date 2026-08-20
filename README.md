@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"When a man is penalized for honesty he learns to lie." — <b>Criss Jami</b></i>
+    <i>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome." — <b>Dan Millman</b></i>
   </p>
 
   <p>
