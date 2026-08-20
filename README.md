@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The future depends on what you do today." — <b>Mahatma Gandhi</b></i>
+    <i>"Excellence is not an exception, it is a prevailing attitude." — <b>Colin Powell</b></i>
   </p>
 
   <p>
