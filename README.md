@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Sometimes good things fall apart so better things can fall together." — <b>Marilyn Monroe</b></i>
+    <i>"There are few reasons for telling the truth, but for lying the number is infinite." — <b>Carlos Ruiz Zafon</b></i>
   </p>
 
   <p>
