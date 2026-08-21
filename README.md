@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It is far easier to start something than it is to finish it." — <b>Amelia Earhart</b></i>
+    <i>"Don't be afraid that you do not know something. Be afraid of not learning about it." — <b>Zen Proverb</b></i>
   </p>
 
   <p>
