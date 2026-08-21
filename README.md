@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"There are few reasons for telling the truth, but for lying the number is infinite." — <b>Carlos Ruiz Zafon</b></i>
+    <i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided." — <b>Tony Robbins</b></i>
   </p>
 
   <p>
