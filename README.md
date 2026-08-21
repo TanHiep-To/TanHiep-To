@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Weeds are flowers too, once you get to know them." — <b>A.A. Milne</b></i>
+    <i>"He who laughs at himself never runs out of things to laugh at." — <b>Epictetus</b></i>
   </p>
 
   <p>
