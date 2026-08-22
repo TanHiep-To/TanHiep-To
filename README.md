@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The destiny of man is in his own soul." — <b>Herodotus</b></i>
+    <i>"The only normal people are the ones you don't know very well." — <b>Alfred Adler</b></i>
   </p>
 
   <p>
