@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Life and the simple beauty of it is too good to pass up." — <b>Christopher McCandless</b></i>
+    <i>"A hut full of laughter is richer than a palace full of sadness." — <b>Zen Proverb</b></i>
   </p>
 
   <p>
