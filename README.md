@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Given the choice between the experience of pain and nothing, I would choose pain." — <b>William Faulkner</b></i>
+    <i>"The future belongs to those who believe in the beauty of their dreams." — <b>Eleanor Roosevelt</b></i>
   </p>
 
   <p>
