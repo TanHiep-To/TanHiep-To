@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Success is built sequentially. It's one thing at a time." — <b>Gary Keller</b></i>
+    <i>"Given the choice between the experience of pain and nothing, I would choose pain." — <b>William Faulkner</b></i>
   </p>
 
   <p>
