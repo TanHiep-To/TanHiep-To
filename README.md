@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The smallest of actions is always better than the noblest of intentions." — <b>Robin Sharma</b></i>
+    <i>"I will not walk backward in life." — <b>J.R.R. Tolkien</b></i>
   </p>
 
   <p>
