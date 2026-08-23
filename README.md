@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Wheresoever you go, go with all your heart." — <b>Confucius</b></i>
+    <i>"The smallest of actions is always better than the noblest of intentions." — <b>Robin Sharma</b></i>
   </p>
 
   <p>
