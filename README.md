@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Turn your face to the sun, as flowers know how to do." — <b>Ming-Dao Deng</b></i>
+    <i>"The most important thing in communication is to hear what isn't being said." — <b>Peter Drucker</b></i>
   </p>
 
   <p>
