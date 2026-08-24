@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The greatest deception men suffer is from their own opinions." — <b>Leonardo da Vinci</b></i>
+    <i>"All things come into being by conflict of opposites." — <b>Heraclitus</b></i>
   </p>
 
   <p>
