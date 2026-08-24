@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results." — <b>Peter Drucker</b></i>
+    <i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace." — <b>Confucius</b></i>
   </p>
 
   <p>
