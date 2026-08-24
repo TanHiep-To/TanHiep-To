@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"You are what you do, not what you say you'll do." — <b>Carl Jung</b></i>
+    <i>"Loyalty and friendship are the most precious possessions a man can have." — <b>Herbert Hoover</b></i>
   </p>
 
   <p>
