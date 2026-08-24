@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Don´t hesitate or allow yourself to make excuses. Just get out and do it." — <b>Christopher McCandless</b></i>
+    <i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results." — <b>Peter Drucker</b></i>
   </p>
 
   <p>
