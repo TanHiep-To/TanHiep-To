@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The one who boasts does so only out of a feeling of inferiority." — <b>Alfred Adler</b></i>
+    <i>"Human beings can alter their lives by altering their attitudes of mind." — <b>William James</b></i>
   </p>
 
   <p>
