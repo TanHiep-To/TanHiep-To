@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Human beings can alter their lives by altering their attitudes of mind." — <b>William James</b></i>
+    <i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference." — <b>Robert Frost</b></i>
   </p>
 
   <p>
