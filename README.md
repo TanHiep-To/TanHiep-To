@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"He who cannot be a good follower cannot be a good leader." — <b>Aristotle</b></i>
+    <i>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way." — <b>Robert Kiyosaki</b></i>
   </p>
 
   <p>
