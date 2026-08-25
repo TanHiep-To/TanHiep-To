@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"There are no coincidences in the universe." — <b>Neale Donald Walsch</b></i>
+    <i>"It is often safer to be in chains than to be free." — <b>Franz Kafka</b></i>
   </p>
 
   <p>
