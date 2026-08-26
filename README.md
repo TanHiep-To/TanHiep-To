@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The chief danger in life is that you may take too many precautions." — <b>Alfred Adler</b></i>
+    <i>"The greater the impact you want to make, the greater your influence needs to be." — <b>Lolly Daskal</b></i>
   </p>
 
   <p>
