@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Sometimes out of your biggest misery, comes your greatest gain." — <b>Steve Harvey</b></i>
+    <i>"A moving door hinge never corrodes. Flowing water never grows stagnant." — <b>Ming-Dao Deng</b></i>
   </p>
 
   <p>
