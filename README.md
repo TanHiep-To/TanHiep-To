@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It is better to light a single candle than to curse the darkness." — <b>Eleanor Roosevelt</b></i>
+    <i>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them." — <b>W. Clement Stone</b></i>
   </p>
 
   <p>
