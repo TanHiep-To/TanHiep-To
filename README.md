@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Rewards and punishment is the lowest form of education." — <b>Zhuangzi</b></i>
+    <i>"The friendship that can cease has never been real." — <b>St. Jerome</b></i>
   </p>
 
   <p>
