@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Creativity is the greatest rebellion in existence." — <b>Osho</b></i>
+    <i>"There is no self-discovery without pain and loss." — <b>Anita Krizzan</b></i>
   </p>
 
   <p>
