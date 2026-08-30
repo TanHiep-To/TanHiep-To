@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"An un-examined life is not worth living." — <b>Socrates</b></i>
+    <i>"Everyone sees what you appear to be, few experience what you really are." — <b>Niccolo Machiavelli</b></i>
   </p>
 
   <p>
