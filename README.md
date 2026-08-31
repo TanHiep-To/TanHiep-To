@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The key to success is emotional stability." — <b>Warren Buffett</b></i>
+    <i>"Fallacies do not cease to be fallacies because they become fashions." — <b>Gilbert Chesterton</b></i>
   </p>
 
   <p>
