@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Focused, hard work is the real key to success." — <b>John Carmack</b></i>
+    <i>"The only place where success comes before work is in the dictionary." — <b>Vidal Sassoon</b></i>
   </p>
 
   <p>
