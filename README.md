@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"No valid plans for the future can be made by those who have no capacity for living now." — <b>Alan Watts</b></i>
+    <i>"Decide what your truth is. Then live it." — <b>Kamal Ravikant</b></i>
   </p>
 
   <p>
