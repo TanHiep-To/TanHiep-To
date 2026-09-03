@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If your happiness depends on what somebody else does, I guess you do have a problem." — <b>Richard Bach</b></i>
+    <i>"Friends ask you questions; enemies question you." — <b>Criss Jami</b></i>
   </p>
 
   <p>
