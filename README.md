@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Honesty is a very expensive gift, Don't expect it from cheap people." — <b>Warren Buffett</b></i>
+    <i>"Only those who dare to fail greatly can ever achieve greatly." — <b>Robert F. Kennedy</b></i>
   </p>
 
   <p>
