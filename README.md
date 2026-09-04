@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Stop being tormented by everyone else's reaction to you." — <b>Joyce Meyer</b></i>
+    <i>"Failure is an option here. If things are not failing, you are not innovating enough." — <b>Elon Musk</b></i>
   </p>
 
   <p>
