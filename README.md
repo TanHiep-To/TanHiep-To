@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life." — <b>Ayn Rand</b></i>
+    <i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it." — <b>Carl Jung</b></i>
   </p>
 
   <p>
