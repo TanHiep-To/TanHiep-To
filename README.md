@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The only thing worse than being blind is having sight but no vision." — <b>Helen Keller</b></i>
+    <i>"Imagination means nothing without doing." — <b>Charlie Chaplin</b></i>
   </p>
 
   <p>
