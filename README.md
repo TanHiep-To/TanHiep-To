@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"What you do today can improve all your tomorrows." — <b>Ralph Marston</b></i>
+    <i>"It is better to point out your own mistakes than have somebody else do it." — <b>Warren Buffett</b></i>
   </p>
 
   <p>
