@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Make your mind your own business." — <b>Jack Butcher</b></i>
+    <i>"The difference between ordinary and extraordinary is that little extra." — <b>Colin R. Davis</b></i>
   </p>
 
   <p>
