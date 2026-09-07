@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"When asked, how do you write? I invariably answer, one word at a time." — <b>Stephen King</b></i>
+    <i>"If we know how to adapt, we end up being superior." — <b>Ming-Dao Deng</b></i>
   </p>
 
   <p>
