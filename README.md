@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It's the job that's never started that takes the longest to finish." — <b>J.R.R. Tolkien</b></i>
+    <i>"Life is love and love is life." — <b>Elvis Presley</b></i>
   </p>
 
   <p>
