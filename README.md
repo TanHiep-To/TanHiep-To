@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot." — <b>D. H. Lawrence</b></i>
+    <i>"Comedy = tragedy + time." — <b>Carol Burnett</b></i>
   </p>
 
   <p>
