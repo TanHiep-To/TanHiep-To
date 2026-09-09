@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"There is little success where there is little laughter." — <b>Andrew Carnegie</b></i>
+    <i>"Be willing to be a beginner every single morning." — <b>Meister Eckhart</b></i>
   </p>
 
   <p>
