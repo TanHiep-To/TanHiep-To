@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If I can laugh, I can live." — <b>Christopher Reeve</b></i>
+    <i>"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass." — <b>Unknown</b></i>
   </p>
 
   <p>
