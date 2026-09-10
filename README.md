@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Life is but one dream flowing into another." — <b>Ming-Dao Deng</b></i>
+    <i>"Everything you've ever wanted is on the other side of fear." — <b>Brian Tracy</b></i>
   </p>
 
   <p>
