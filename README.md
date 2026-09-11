@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Not until we are lost do we begin to understand ourselves." — <b>Henry David Thoreau</b></i>
+    <i>"A real friend is one who walks in when the rest of the world walks out." — <b>Unknown</b></i>
   </p>
 
   <p>
