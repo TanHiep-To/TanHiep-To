@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires." — <b>Lao Tzu</b></i>
+    <i>"Truth is like most opinions - best unexpressed." — <b>Kenneth Branagh</b></i>
   </p>
 
   <p>
