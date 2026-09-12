@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Never let the things you can't do stop you from doing what you can." — <b>Ronald Reagan</b></i>
+    <i>"The wise speak only of what they know." — <b>J.R.R. Tolkien</b></i>
   </p>
 
   <p>
