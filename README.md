@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"As mortals, we're ruled by conditions, not by ourselves." — <b>Bodhidharma</b></i>
+    <i>"Most people achieved their greatest success one step beyond what looked like their greatest failure." — <b>Brian Tracy</b></i>
   </p>
 
   <p>
