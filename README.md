@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question." — <b>John Tukey</b></i>
+    <i>"Fiction is the truth inside the lie." — <b>Stephen King</b></i>
   </p>
 
   <p>
