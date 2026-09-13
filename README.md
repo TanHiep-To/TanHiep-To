@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If you run you stand a chance of losing, but if you don't run you've already lost." — <b>Barack Obama</b></i>
+    <i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." — <b>Carl Bard</b></i>
   </p>
 
   <p>
