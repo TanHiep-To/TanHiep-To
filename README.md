@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"A man who dares to waste one hour of time has not discovered the value of life." — <b>Charles Darwin</b></i>
+    <i>"You have to keep breaking your heart until it opens." — <b>Rumi</b></i>
   </p>
 
   <p>
