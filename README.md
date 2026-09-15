@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Your mind will make you rich or poor, depending on the use you put to it." — <b>Brian Tracy</b></i>
+    <i>"Whatever is begun in anger, ends in shame." — <b>Benjamin Franklin</b></i>
   </p>
 
   <p>
