@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart." — <b>Roy T. Bennett</b></i>
+    <i>"Wherever you are is the entry point." — <b>Kabir</b></i>
   </p>
 
   <p>
