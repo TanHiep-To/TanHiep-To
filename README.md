@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Leadership is solving problems" — <b>Colin Powell</b></i>
+    <i>"Everybody's life is either rewarding or an example." — <b>Tony Robbins</b></i>
   </p>
 
   <p>
