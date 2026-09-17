@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Every strike brings me closer to the next home run." — <b>Babe Ruth</b></i>
+    <i>"To every action there is always opposed an equal reaction." — <b>Isaac Newton</b></i>
   </p>
 
   <p>
