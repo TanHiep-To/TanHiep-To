@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I hear and I forget. I see and I remember. I do and I understand." — <b>Confucius</b></i>
+    <i>"Life can be wonderful if you're not afraid of it." — <b>Charlie Chaplin</b></i>
   </p>
 
   <p>
