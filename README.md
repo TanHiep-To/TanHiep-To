@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If I persist long enough I will win." — <b>Og Mandino</b></i>
+    <i>"A child without education is like a bird without wings." — <b>Tibetan Proverb</b></i>
   </p>
 
   <p>
