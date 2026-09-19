@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If you done it, it ain't bragging." — <b>Walt Whitman</b></i>
+    <i>"We love the things we love for what they are." — <b>Robert Frost</b></i>
   </p>
 
   <p>
