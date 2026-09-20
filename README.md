@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"I would rather die on my feet than live on my knees." — <b>Euripides</b></i>
+    <i>"Discipline yourself, and others won't need to." — <b>John Wooden</b></i>
   </p>
 
   <p>
