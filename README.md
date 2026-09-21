@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"To live is to be willing to die over and over again." — <b>Pema Chodron</b></i>
+    <i>"Love your enemies, for they tell you your faults." — <b>Benjamin Franklin</b></i>
   </p>
 
   <p>
