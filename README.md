@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Invisible things are the only realities." — <b>Edgar Allan Poe</b></i>
+    <i>"Change is never easy, but always possible." — <b>Barack Obama</b></i>
   </p>
 
   <p>
