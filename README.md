@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Concentrated power has always been the enemy of liberty." — <b>Ronald Reagan</b></i>
+    <i>"All power is from within and therefore under our control." — <b>Robert Collier</b></i>
   </p>
 
   <p>
