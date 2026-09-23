@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The future is not a gift. It is an achievement." — <b>Robert F. Kennedy</b></i>
+    <i>"Comedy = tragedy + time." — <b>Carol Burnett</b></i>
   </p>
 
   <p>
