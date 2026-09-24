@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Who you are is defined by what you're willing to struggle for." — <b>Mark Manson</b></i>
+    <i>"Life is like playing the violin in public and learning the instrument as one goes on." — <b>Samuel Butler</b></i>
   </p>
 
   <p>
