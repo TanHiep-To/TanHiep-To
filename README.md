@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Make failure your teacher, not your undertaker." — <b>Zig Ziglar</b></i>
+    <i>"The best investment you can make, is an investment in yourself... The more you learn, the more you'll earn." — <b>Warren Buffett</b></i>
   </p>
 
   <p>
