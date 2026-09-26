@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The best way to understanding is a few good examples." — <b>Isaac Newton</b></i>
+    <i>"Be strong. Be confident. Be the star of your own life." — <b>Estee Lauder</b></i>
   </p>
 
   <p>
