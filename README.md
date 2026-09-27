@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine." — <b>Brian Tracy</b></i>
+    <i>"The best way to understanding is a few good examples." — <b>Isaac Newton</b></i>
   </p>
 
   <p>
