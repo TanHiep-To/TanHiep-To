@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom." — <b>Voltaire</b></i>
+    <i>"Don't give up the fight, Stand up for your rights." — <b>Bob Marley</b></i>
   </p>
 
   <p>
