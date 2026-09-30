@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good afternoon 👋, I'm Tan Hiep To</h1>
+  <h1>Good night 😴, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"I am not absentminded. It is the presence of mind that makes me unaware of everything else." — <b>Gilbert Chesterton</b></i>
+    <i>"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now." — <b>Spencer Johnson</b></i>
   </p>
 
   <p>
