@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"No snowflake ever falls in the wrong place." — <b>Zen Proverb</b></i>
+    <i>"If you do not change direction, you may end up where you are heading." — <b>Lao Tzu</b></i>
   </p>
 
   <p>
