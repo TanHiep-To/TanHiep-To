@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Nothing is particularly hard if you divide it into small jobs." — <b>Henry Ford</b></i>
+    <i>"It's your life-but only if you make it so." — <b>Eleanor Roosevelt</b></i>
   </p>
 
   <p>
