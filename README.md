@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The two most powerful warriors are patience and time." — <b>Leo Tolstoy</b></i>
+    <i>"In three words I can sum up everything I've learned about life: it goes on." — <b>Robert Frost</b></i>
   </p>
 
   <p>
