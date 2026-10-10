@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good night 😴, I'm Tan Hiep To</h1>
+  <h1>Good morning ☀️, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"When you reach the end of your rope, tie a knot in it and hang on." — <b>Franklin D. Roosevelt</b></i>
+    <i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting." — <b>Joyce Meyer</b></i>
   </p>
 
   <p>
