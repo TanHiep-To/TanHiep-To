@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The only way to entertain some folks is to listen to them." — <b>David Brinkley</b></i>
+    <i>"Sad thing is, you can still love someone and be wrong for them." — <b>Elvis Presley</b></i>
   </p>
 
   <p>
