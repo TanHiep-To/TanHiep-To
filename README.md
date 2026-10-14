@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"We make a living by what we get, but we make a life by what we give." — <b>Unknown</b></i>
+    <i>"The most important things are the hardest to say." — <b>Stephen King</b></i>
   </p>
 
   <p>
