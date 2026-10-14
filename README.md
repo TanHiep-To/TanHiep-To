@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Go as far as you can see and you will see further." — <b>Zig Ziglar</b></i>
+    <i>"Fools resist. The wise embrace." — <b>Maxime Lagace</b></i>
   </p>
 
   <p>
