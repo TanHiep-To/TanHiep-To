@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Love is the energy of life." — <b>Robert Browning</b></i>
+    <i>"Music is like creating an emotional painting. The sounds are the colors." — <b>Yanni</b></i>
   </p>
 
   <p>
