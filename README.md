@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it." — <b>Alexandre Dumas</b></i>
+    <i>"The time is now, the place is here. Stay in the present." — <b>Dan Millman</b></i>
   </p>
 
   <p>
