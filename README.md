@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow." — <b>Chinese Proverb</b></i>
+    <i>"Art is to console those who are broken by life." — <b>Vincent van Gogh</b></i>
   </p>
 
   <p>
