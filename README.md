@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one." — <b>Voltaire</b></i>
+    <i>"She who loves roses must be patient and not cry out when she is pierced by thorns." — <b>Kenji Miyazawa</b></i>
   </p>
 
   <p>
