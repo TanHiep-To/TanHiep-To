@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life." — <b>Ayn Rand</b></i>
+    <i>"The wisest men follow their own direction." — <b>Euripides</b></i>
   </p>
 
   <p>
