@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting." — <b>Bhagavad Gita</b></i>
+    <i>"It is during our darkest moments that we must focus to see the light." — <b>Aristotle</b></i>
   </p>
 
   <p>
