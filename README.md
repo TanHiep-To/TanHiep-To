@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Life is a traveling to the edge of knowledge, then a leap taken." — <b>D. H. Lawrence</b></i>
+    <i>"Freedom lies in being bold." — <b>Robert Frost</b></i>
   </p>
 
   <p>
