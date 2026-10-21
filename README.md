@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Live your life as an exclamation rather than an explanation." — <b>Isaac Newton</b></i>
+    <i>"Difficulties strengthen the mind, as labor does the body." — <b>Seneca</b></i>
   </p>
 
   <p>
