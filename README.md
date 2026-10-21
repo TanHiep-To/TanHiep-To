@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Before you embark on a journey of revenge, dig two graves." — <b>Confucius</b></i>
+    <i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried." — <b>Og Mandino</b></i>
   </p>
 
   <p>
