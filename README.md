@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Character is destiny." — <b>Heraclitus</b></i>
+    <i>"The people who are crazy enough to think they can change the world are the ones who do." — <b>Steve Jobs</b></i>
   </p>
 
   <p>
