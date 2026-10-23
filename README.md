@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The future belongs to those who believe in the beauty of their dreams." — <b>Eleanor Roosevelt</b></i>
+    <i>"The best answer to anger is silence." — <b>Marcus Aurelius</b></i>
   </p>
 
   <p>
