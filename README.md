@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"To be alive - is Power." — <b>Emily Dickinson</b></i>
+    <i>"Each time we don't say what we wanna say, we're dying." — <b>Yoko Ono</b></i>
   </p>
 
   <p>
