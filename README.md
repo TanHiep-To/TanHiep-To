@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Good entrepreneurs don't fail because they stay at it." — <b>Naval Ravikant</b></i>
+    <i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead." — <b>Morihei Ueshiba</b></i>
   </p>
 
   <p>
