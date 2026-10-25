@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"If they wrote it to make money, don't read it." — <b>Naval Ravikant</b></i>
+    <i>"Whenever you find yourself on the side of the majority, it is time to reform." — <b>Mark Twain</b></i>
   </p>
 
   <p>
