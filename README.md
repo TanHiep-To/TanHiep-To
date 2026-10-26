@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday." — <b>Brian Tracy</b></i>
+    <i>"There are people who have money and people who are rich." — <b>Coco Chanel</b></i>
   </p>
 
   <p>
