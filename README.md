@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The merit of all things lies in their difficulty." — <b>Alexandre Dumas</b></i>
+    <i>"Keep your dreams, you never know when you might need them." — <b>Carlos Ruiz Zafon</b></i>
   </p>
 
   <p>
