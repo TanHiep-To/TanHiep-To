@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"To love means loving the unlovable." — <b>Gilbert Chesterton</b></i>
+    <i>"Always be a first rate version of yourself and not a second rate version of someone else." — <b>Judy Garland</b></i>
   </p>
 
   <p>
