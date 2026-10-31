@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path." — <b>Zen Proverb</b></i>
+    <i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." — <b>Carl Bard</b></i>
   </p>
 
   <p>
