@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <i>"The health of nations is more important than the wealth of nations." — <b>Will Rogers</b></i>
+    <i>"You get paid in direct proportion to the difficulty of problems you solve." — <b>Elon Musk</b></i>
   </p>
 
   <p>
