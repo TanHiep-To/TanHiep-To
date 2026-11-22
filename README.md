@@ -1,14 +1,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <h1>Good night 😴, I'm Tan Hiep To</h1>
+  <h1>Good morning ☀️, I'm Tan Hiep To</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Master+Student+in+Computer+Science;AI+Researcher+%40+VNU-HCM;Software+Engineer;GenAI+%26+Backend+Developer" />
   </a>
 
   <p>
-    <i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible." — <b>Norman Vincent Peale</b></i>
+    <i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration." — <b>Nikola Tesla</b></i>
   </p>
 
   <p>
